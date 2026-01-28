@@ -1,0 +1,90 @@
+{
+    "background": {
+        "image": "custommainmenu/background.png",
+        "mode": "fill"
+    },
+    "logo": {
+        "image": "custommainmenu/logo.png",
+        "posX": -75,
+        "posY": 15,
+        "width": 150,
+        "height": 150,
+        "anchor": "topcenter"
+    },
+    "buttons": {
+        "singleplayer": {
+            "text": "",
+            "hoverText": "",
+            "texture": "",
+            "hoverTexture": "",
+            "wrappedButton": "singleplayer",
+            "posX": 0,
+            "posY": 0,
+            "width": 0,
+            "height": 0,
+            "anchor": "center",
+            "visible": false
+        },
+        "jouer": {
+            "text": "§l§6JOUER A ALTISCUBE",
+            "texture": "custommainmenu/button.png",
+            "hoverTexture": "custommainmenu/button_hover.png",
+            "posX": -100,
+            "posY": -10,
+            "width": 200,
+            "height": 40,
+            "anchor": "center",
+            "action": {
+                "type": "connect",
+                "server": "altiscube.omgcraft.fr:25565"
+            }
+        },
+        "boutique": {
+            "text": "§lBOUTIQUE",
+            "texture": "custommainmenu/button_small.png",
+            "hoverTexture": "custommainmenu/button_small_hover.png",
+            "posX": -100,
+            "posY": 40,
+            "width": 95,
+            "height": 20,
+            "anchor": "center",
+            "action": {
+                "type": "openLink",
+                "link": "https://shop.altiscube.fr"
+            }
+        },
+        "multiplayer": {
+            "text": "§lMULTIJOUEUR",
+            "texture": "custommainmenu/button_small.png",
+            "hoverTexture": "custommainmenu/button_small_hover.png",
+            "posX": 5,
+            "posY": 40,
+            "width": 95,
+            "height": 20,
+            "anchor": "center",
+            "wrappedButton": "multiplayer"
+        },
+        "options": {
+            "text": "§lOPTIONS",
+            "texture": "custommainmenu/button_small.png",
+            "hoverTexture": "custommainmenu/button_small_hover.png",
+            "posX": -100,
+            "posY": 65,
+            "width": 95,
+            "height": 20,
+            "anchor": "center",
+            "wrappedButton": "options"
+        },
+        "quit": {
+            "text": "§lQUITTER",
+            "texture": "custommainmenu/button_small.png",
+            "hoverTexture": "custommainmenu/button_small_hover.png",
+            "posX": 5,
+            "posY": 65,
+            "width": 95,
+            "height": 20,
+            "anchor": "center",
+            "wrappedButton": "quit"
+        }
+    }
+}
