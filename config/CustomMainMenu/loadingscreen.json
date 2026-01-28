@@ -17,6 +17,23 @@
             "alignment": "center"
         }
     },
-    "texts": {},
-    "other": {}
+    "buttons": {},
+    "texts": {
+        "mojang": {
+            "text": "",
+            "posX": 0,
+            "posY": 0,
+            "color": -1,
+            "alignment": "center"
+        }
+    },
+    "other": {
+        "panorama": {
+            "images": "minecraft:textures/gui/title/background/panorama_%c.png",
+            "animate": false,
+            "animationSpeed": 1,
+            "blur": false,
+            "gradient": false
+        }
+    }
 }
