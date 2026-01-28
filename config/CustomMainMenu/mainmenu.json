@@ -1,37 +1,28 @@
 {
-    "texts": {
-        "copyright": {
-            "text": "AltisCube RP - 2026",
-            "posX": 2,
-            "posY": -10,
-            "color": -1,
-            "alignment": "bottom_left"
-        }
-    },
     "images": {
         "background": {
             "image": "custommainmenu:background.png",
             "posX": 0,
             "posY": 0,
-            "width": 1920,
-            "height": 1080,
+            "width": -1,
+            "height": -1,
             "alignment": "top_left"
         },
         "logo": {
             "image": "custommainmenu:logo.png",
             "posX": -75,
             "posY": 20,
-            "width": 50,
-            "height": 50,
+            "width": 150,
+            "height": 150,
             "alignment": "top_center"
         }
     },
     "buttons": {
-        "jouer": {
+        "singleplayer": {
             "text": "JOUER A ALTISCUBE",
-            "posX": -100,
+            "posX": -140,
             "posY": -20,
-            "width": 200,
+            "width": 280,
             "height": 20,
             "alignment": "center",
             "action": {
@@ -41,9 +32,9 @@
         },
         "boutique": {
             "text": "Boutique",
-            "posX": -100,
+            "posX": -140,
             "posY": 5,
-            "width": 98,
+            "width": 137,
             "height": 20,
             "alignment": "center",
             "action": {
@@ -53,9 +44,9 @@
         },
         "multiplayer": {
             "text": "Multijoueur",
-            "posX": 2,
+            "posX": 3,
             "posY": 5,
-            "width": 98,
+            "width": 137,
             "height": 20,
             "alignment": "center",
             "action": {
@@ -65,9 +56,9 @@
         },
         "options": {
             "text": "Options",
-            "posX": -100,
+            "posX": -140,
             "posY": 30,
-            "width": 98,
+            "width": 137,
             "height": 20,
             "alignment": "center",
             "action": {
@@ -77,9 +68,9 @@
         },
         "quit": {
             "text": "Quitter",
-            "posX": 2,
+            "posX": 3,
             "posY": 30,
-            "width": 98,
+            "width": 137,
             "height": 20,
             "alignment": "center",
             "action": {
@@ -87,7 +78,29 @@
             }
         }
     },
+    "texts": {
+        "mojang": {
+            "text": "AltisCube RP - 2026",
+            "posX": 2,
+            "posY": -10,
+            "color": -1,
+            "alignment": "bottom_left"
+        },
+        "fml": {
+            "text": "",
+            "posX": 0,
+            "posY": 0,
+            "color": -1,
+            "alignment": "center"
+        }
+    },
     "other": {
+        "splash-text": {
+            "posX": 0,
+            "posY": 0,
+            "color": -1,
+            "alignment": "center"
+        },
         "panorama": {
             "images": "minecraft:textures/gui/title/background/panorama_%c.png",
             "animate": false,
