@@ -1,5 +1,13 @@
 {
-    "texts": {},
+    "texts": {
+        "copyright": {
+            "text": "AltisCube RP - 2026",
+            "posX": 2,
+            "posY": -10,
+            "color": -1,
+            "alignment": "bottom_left"
+        }
+    },
     "images": {
         "background": {
             "image": "custommainmenu:background.png",
@@ -77,6 +85,15 @@
             "action": {
                 "type": "quit"
             }
+        }
+    },
+    "other": {
+        "panorama": {
+            "images": "minecraft:textures/gui/title/background/panorama_%c.png",
+            "animate": false,
+            "animationSpeed": 1,
+            "blur": false,
+            "gradient": false
         }
     }
 }
