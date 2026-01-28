@@ -86,7 +86,28 @@
             "color": -1,
             "alignment": "bottom_left"
         },
+        "mcversion": {
+            "text": "",
+            "posX": 0,
+            "posY": 0,
+            "color": -1,
+            "alignment": "center"
+        },
         "fml": {
+            "text": "",
+            "posX": 0,
+            "posY": 0,
+            "color": -1,
+            "alignment": "center"
+        },
+        "mcp": {
+            "text": "",
+            "posX": 0,
+            "posY": 0,
+            "color": -1,
+            "alignment": "center"
+        },
+        "forge": {
             "text": "",
             "posX": 0,
             "posY": 0,
@@ -107,6 +128,16 @@
             "animationSpeed": 1,
             "blur": false,
             "gradient": false
+        },
+        "forgeInfoLine1": {
+            "text": "",
+            "posX": 0,
+            "posY": 0
+        },
+        "forgeInfoLine2": {
+            "text": "",
+            "posX": 0,
+            "posY": 0
         }
     }
 }
