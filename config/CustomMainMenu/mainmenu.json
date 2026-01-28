@@ -4,8 +4,8 @@
             "image": "custommainmenu:background.png",
             "posX": 0,
             "posY": 0,
-            "width": 427,
-            "height": 240,
+            "width": 640,
+            "height": 360,
             "alignment": "top_left"
         },
         "logo": {
