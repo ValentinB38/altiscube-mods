@@ -1,79 +1,90 @@
 {
-    "mainmenu": {
+    "images": {
         "background": {
-            "image": "custommainmenu:background.png"
+            "image": "custommainmenu:background.png",
+            "posX": 0,
+            "posY": 0,
+            "width": 2000,
+            "height": 2000,
+            "alignment": "top_left"
         },
-        "images": {
-            "logo": {
-                "image": "custommainmenu:logo.png",
-                "posX": -75,
-                "posY": 20,
-                "width": 150,
-                "height": 150,
-                "alignment": "top_center"
+        "logo": {
+            "image": "custommainmenu:logo.png",
+            "posX": -75,
+            "posY": 20,
+            "width": 150,
+            "height": 150,
+            "alignment": "top_center"
+        }
+    },
+    "buttons": {
+        "jouer": {
+            "text": "JOUER A ALTISCUBE",
+            "posX": -100,
+            "posY": -20,
+            "width": 200,
+            "height": 20,
+            "alignment": "center",
+            "action": {
+                "type": "connectToServer",
+                "ip": "altiscube.omgcraft.fr"
             }
         },
-        "buttons": {
-            "play": {
-                "text": "JOUER A ALTISCUBE",
-                "normalTexture": "custommainmenu:button.png",
-                "hoverTexture": "custommainmenu:button_hover.png",
-                "posX": -100,
-                "posY": -20,
-                "width": 200,
-                "height": 20,
-                "alignment": "center",
-                "tooltip": "Rejoindre le serveur AltisCube",
-                "connectAction": {
-                    "ip": "altiscube.omgcraft.fr"
-                }
-            },
-            "boutique": {
-                "text": "Boutique",
-                "normalTexture": "custommainmenu:button_small.png",
-                "hoverTexture": "custommainmenu:button_small_hover.png",
-                "posX": -100,
-                "posY": 5,
-                "width": 98,
-                "height": 20,
-                "alignment": "center",
-                "linkAction": {
-                    "link": "https://shop.altiscube.fr"
-                }
-            },
-            "multiplayer": {
-                "text": "Multijoueur",
-                "normalTexture": "custommainmenu:button_small.png",
-                "hoverTexture": "custommainmenu:button_small_hover.png",
-                "posX": 2,
-                "posY": 5,
-                "width": 98,
-                "height": 20,
-                "alignment": "center",
-                "wrappedButtonId": 2
-            },
-            "options": {
-                "text": "Options",
-                "normalTexture": "custommainmenu:button_small.png",
-                "hoverTexture": "custommainmenu:button_small_hover.png",
-                "posX": -100,
-                "posY": 30,
-                "width": 98,
-                "height": 20,
-                "alignment": "center",
-                "wrappedButtonId": 0
-            },
-            "quit": {
-                "text": "Quitter",
-                "normalTexture": "custommainmenu:button_small.png",
-                "hoverTexture": "custommainmenu:button_small_hover.png",
-                "posX": 2,
-                "posY": 30,
-                "width": 98,
-                "height": 20,
-                "alignment": "center",
-                "wrappedButtonId": 4
+        "boutique": {
+            "text": "Boutique",
+            "posX": -100,
+            "posY": 5,
+            "width": 98,
+            "height": 20,
+            "alignment": "center",
+            "action": {
+                "type": "openLink",
+                "link": "https://shop.altiscube.fr"
             }
+        },
+        "multiplayer": {
+            "text": "Multijoueur",
+            "posX": 2,
+            "posY": 5,
+            "width": 98,
+            "height": 20,
+            "alignment": "center",
+            "action": {
+                "type": "openGui",
+                "gui": "multiplayer"
+            }
+        },
+        "options": {
+            "text": "Options",
+            "posX": -100,
+            "posY": 30,
+            "width": 98,
+            "height": 20,
+            "alignment": "center",
+            "action": {
+                "type": "openGui",
+                "gui": "options"
+            }
+        },
+        "quit": {
+            "text": "Quitter",
+            "posX": 2,
+            "posY": 30,
+            "width": 98,
+            "height": 20,
+            "alignment": "center",
+            "action": {
+                "type": "quit"
+            }
+        }
+    },
+    "labels": {
+        "copyright": {
+            "text": "AltisCube RP - 2026",
+            "posX": 2,
+            "posY": -10,
+            "color": -1,
+            "alignment": "bottom_left"
         }
     }
 }
