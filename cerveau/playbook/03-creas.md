@@ -36,7 +36,12 @@ Le CPM baisse et le CTR tient. Chez Adam : CTR stable autour de 4 %, CPM divisé
 - Higgsfield propose parfois un preset hors sujet (« IN THE DARK ») : relancer avec `declined_preset_id`.
 - L'IA rend trop net : le filtre iPhone adoucit l'image, ajoute du grain, une légère respiration d'exposition et une recompression façon réseaux sociaux, plus un peu d'écho de pièce sur le son.
 - L'actrice applique souvent sur la lèvre plutôt que juste au-dessus : le préciser dans le prompt et vérifier.
-- Pour diversifier aux yeux de Meta, chaque UGC a une actrice et un décor différents : cuisine (brune, 63 ans), voiture (cheveux argentés, 62 ans), salle de bain le soir (blonde cendrée, 58 ans).
+- Pour diversifier aux yeux de Meta, chaque UGC a une actrice et un décor différents : cuisine (brune, 63 ans), voiture (cheveux argentés, 62 ans), salle de bain le soir (blonde cendrée, 58 ans), salon (femme noire, 61 ans), coiffeuse (rousse, 57 ans), cuisine avec sac cadeau (fille, 36 ans).
+- Voix ElevenLabs utilisées en voice change : Nora (barcode), Opal (Botox is dead), Vera (careful Botox), Helena (lipstick), Ainsley (gift mom, choisie par Valentin pour les pubs animées).
+- L'IA invente parfois de faux logos sur les objets du décor (un sac cadeau marqué « Con »). Il faut les repérer à la relecture et les effacer avec `outils/effacer-logo.py`, une reconstruction OpenCV.
+- Rejeter les images de référence dont l'étiquette du tube est en miroir.
+- **Variantes d'accroche gratuites** pour les vidéos animées : seul le bandeau du début change (`hook_variant.py` dans le dossier de production). Elles comptent comme des créas en plus pour Meta.
+- **Variantes de statiques gratuites** : même format, texte ou angle différent (M16).
 
 ## C7. Les accroches qui marchent chez les concurrents (Eline Paris, blooe)
 

@@ -10,6 +10,7 @@ Chaque décision cite la règle du playbook qui la justifie. On note ensuite le 
 | 28/10 | Ne couper aucune pub sur une seule journée de données | T3, T4 | Éviter de juger sur 323 impressions | – |
 | 28/10 | Demander un compte publicitaire US (UTC-4, USD), même BM, pixel et page | M11, M9 | Journée calée sur les US, CPM plus bas qu'avec le compte d'agence | – |
 | 28/10 | Produire des UGC Wan (barcode v2, Botox) avec une voix ElevenLabs et un rendu iPhone | C1, C6, C7 | Plus de créas face caméra, à 63 crédits au lieu de 210 | – |
+| 28/10 | **Lot 2 produit pour la relance US** : 3 UGC (careful Botox, lipstick bleed, gift mom), 4 variantes d'accroche des vidéos animées, 8 statiques en plus. Total : **12 vidéos et 12 statiques**, 187,5 crédits | C1, C6, C9, M5, M16 | Relance avec un adset vidéos et un adset statiques dès J1, environ 24 créas comme Adam | – |
 
 ## Plan du 28/10 (proposé à Valentin, tiré du playbook)
 
