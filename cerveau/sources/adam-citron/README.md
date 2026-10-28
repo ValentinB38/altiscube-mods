@@ -12,14 +12,15 @@
 | `journal-j01-j10.md` | Posts quotidiens des jours 1 à 10 (chiffres, analyse, décision) | fait |
 | `video-j07.md` | Vidéo « Jour 7 : premier testing, 1 791 $ de CA » (25 min) | fait |
 | `video-j01.md` | « Jour 1 : 15 M€, un exit, 2 ans de pause » (21 min) | fait |
-| `video-j14.md` | « Jour 14 : premier jour à 1 000 $, 2e testing, je scale » | à faire : YouTube bloque la récupération automatique, transcription à coller à la main |
-| `video-j30.md` | « Jour 30 : 37 906 $ de CA, bilan + bénéfice restant » | à faire : YouTube bloque la récupération automatique, transcription à coller à la main |
-| `video-j45.md` | « Jour 45 : 10 k$/jour + ma stratégie media buying » | à faire, **prioritaire** (même blocage) |
+| `video-j14.md` | « Jour 14 : premier jour à 1 000 $, 2e testing, je scale » (41 min) | fait |
+| `video-j30.md` | « Jour 30 : 37 906 $ de CA, bilan + bénéfice restant » (78 min) | fait |
+| `video-j45.md` | « Jour 45 : 10 k$/jour + ma stratégie media buying » (36 min) | fait |
 
 Liens : [J1](https://www.youtube.com/watch?v=Qf4m7mh1J90) · [J7](https://www.youtube.com/watch?v=8Zb66BjlbDs) · [J14](https://www.youtube.com/watch?v=6B_jIyAl4Wc) · [J30](https://www.youtube.com/watch?v=bQcO4pZYPJ4) · [J45](https://www.youtube.com/watch?v=IlS8gTyH53Q)
 
 ## Limites à garder en tête
 
 - Ce sont ses chiffres déclarés, non vérifiés.
-- Ses premières semaines tournent autour d'un ROAS de 2 : rentable mais fin. Ses conclusions sur le « scale » viennent des vidéos J14 à J45, pas encore résumées.
+- Sa trajectoire : à l'équilibre la semaine 1, 15 % de marge la semaine 2, 37 906 $ de CA et environ 10 % net le premier mois, 10 k$/jour avec 19 % de marge au jour 45.
+- Il a de l'expérience (une revente, 8 ans de marketing) et a trouvé son produit gagnant dès le premier test : un débutant peut en tester 10 à 15 avant de trouver.
 - Il ne compte pas ses coûts fixes (apps, abonnements IA) dans le bénéfice quotidien.

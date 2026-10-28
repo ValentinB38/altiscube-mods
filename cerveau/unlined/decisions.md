@@ -11,20 +11,41 @@ Chaque décision cite la règle du playbook qui la justifie. On note ensuite le 
 | 28/10 | Demander un compte publicitaire US (UTC-4, USD), même BM, pixel et page | M11, M9 | Journée calée sur les US, CPM plus bas qu'avec le compte d'agence | – |
 | 28/10 | Produire des UGC Wan (barcode v2, Botox) avec une voix ElevenLabs et un rendu iPhone | C1, C6, C7 | Plus de créas face caméra, à 63 crédits au lieu de 210 | – |
 
-## Prochaines décisions proposées (à valider par Valentin)
+## Plan du 28/10 (proposé à Valentin, tiré du playbook)
 
-| Priorité | Proposition | Règle | Pourquoi maintenant |
+### 1. Tout de suite, sur Shopify (Valentin)
+| # | Action | Règles | Pourquoi |
 |---|---|---|---|
-| 1 | Relancer sur le compte US : 1 CBO à environ 100 $/jour, broad US, démarrage à 00:00 heure du compte, puis mettre l'ancienne campagne en pause | M1, M11, M12 | Le nouveau compte arrive |
-| 2 | Monter à 15-20 vidéos dans la CBO : variantes d'accroche des vidéos existantes (pas cher) et 2-3 nouvelles UGC (« careful with Botox 400 $ », format animé « ended creams ») | C1, C4, C7 | On a 5 vidéos, Adam lance avec 25 |
-| 3 | Livraison offerte sur le BOGO | O6, T6 | 3 paiements abandonnés pour 12 visiteurs, le port apparaît au paiement |
-| 4 | Relance des paniers abandonnés avec Klaviyo (5-6 emails, urgence réelle) | R1 | Des paniers sont déjà perdus |
-| 5 | Upsell après achat AfterSell : « +1 tube à X $ » | O4 | Panier moyen en hausse, aucun frein à la conversion |
-| 6 | Garder un adset de statiques prêt à ajouter à J4-J5 de la nouvelle campagne | M5, C3 | Adam regrette de l'avoir ajouté trop tard |
-| 7 | À J4-J5, lire la répartition par âge et adapter la page | M6, O3 | Vérifier que ce sont bien les 55 ans et plus qui achètent |
-| 8 | BM de secours avec un 2e vrai administrateur et un moyen de paiement de secours | M9 | Ne pas dépendre de l'agence |
-| 9 | Judge.me (vrais avis), ParcelPanel, campagne Google Ads sur le nom « unlined » | R4, R5, R6 | Peu coûteux, rassure la cliente |
-| 10 | Commander un échantillon et confirmer fournisseur et coût DDP pour calculer le vrai ROAS de rentabilité | S6, T1 | Toutes les règles de budget en dépendent |
+| 1a | **Livraison offerte** (au minimum sur le BOGO, et en pratique tout le monde le prend puisqu'il est au même prix) | O1, O6, T6 | 3 paiements abandonnés pour 12 visiteurs : le port d'environ 4,60 $ apparaît au paiement. Notre produit est léger. Équilibre estimé : ROAS 1,43 → 1,52, CPA max 24 $ → 20 $. C'est rentable dès +23 % de conversion. |
+| 1b | **Relance de paiement abandonné** Klaviyo : 3 emails (1 h, 24 h, 48 h), urgence réelle uniquement | R1 | Les paniers sont déjà perdus. Textes rédigés par Claude. |
+| 1c | **Upsell après achat** AfterSell : « +1 tube à 14,90 $, dans le même colis » | O4, O10 | Panier moyen en hausse, aucun frein à la conversion. |
+| 1d | **Pourboire au paiement** (réglage Shopify) | O7 | 2 minutes, de l'argent en plus. |
+| 1e | Vérifier la campagne : **US 18+, broad, sans âge ni genre ni centre d'intérêt**, toutes les « améliorations » décochées, paramètres UTM en place | M13, M14, M18 | |
+
+### 2. L'ancien compte d'agence
+- **Ce soir :** Valentin envoie le CSV du 28/10.
+- **CPM toujours au-dessus de 200 € :** le problème vient du compte, pas du produit. On met en pause demain matin et le budget passe sur le compte US (T6, M9).
+- **CPM nettement en baisse (sous environ 120 €) :** on laisse le 3e jour se faire (T3).
+
+### 3. Dès que le compte US arrive
+- **Campagne :** 1 CBO à 100 $/jour, US 18+, broad, démarrage à 00:00 heure du compte (M1, M12, M13).
+- **Adset vidéos :** les 5 vidéos actuelles plus les nouvelles, viser 10 à 15 (C1).
+- **Adset statiques, dès le premier jour :** 4 formats × 3 déclinaisons = 12 statiques (M5, M16).
+- **Pilotage :** on ne touche à rien pendant 3 jours (T3 à T5), puis +20 % après 2 bonnes journées (M4).
+
+### 4. Les créas (Claude, sur accord pour les crédits)
+- **8 nouvelles déclinaisons de statiques**, pour arriver à 3 par format : environ 0-10 crédits (M16).
+- **3 nouvelles UGC Wan avec rendu iPhone**, chacune un nouvel angle et une nouvelle actrice : environ 190 crédits (C6, C9).
+  - « careful with Botox, 400 $ » (Eline, 64k) ;
+  - « mon rouge à lèvres file dans les ridules » ;
+  - « ma fille m'a offert ça » (angle cadeau).
+- **2 variantes d'accroche des vidéos animées A et B** (texte à l'écran et première phrase de la voix) : environ 5 crédits.
+
+### 5. Avant de monter le budget (en parallèle)
+- **Échantillon :** commander un échantillon et vérifier la qualité ainsi que les 5 points S6 (T11).
+- **Livraison :** demander à l'agent le coût de la ligne « cosmétique liquide » DDP pour 1 et 2 tubes (S7), puis recalculer le ROAS de rentabilité (T1).
+- **Compte publicitaire :** un BM perso propre, avec un 2e administrateur et un moyen de paiement de secours. Les comptes d'agence sautent par vagues (M9).
+- **Flows Klaviyo :** suivi de livraison (R10) et avis sans tri (R9).
 
 ## Règles de pilotage du nouveau compte (tirées du playbook)
 - **J1 à J3 :** on ne touche à rien. On coupe seulement si tout est mauvais en même temps : zéro vente, zéro ajout au panier, CPM déraisonnable (T3).

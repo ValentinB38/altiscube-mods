@@ -50,5 +50,17 @@ Le CPM baisse et le CTR tient. Chez Adam : CTR stable autour de 4 %, CPM divisé
 
 Toutes reposent sur la même idée : une ride de la lèvre est un creux, pas un manque d'hydratation. « Comme une fissure dans un mur : la crème repeint, il faut combler. »
 
+## C9. Des angles d'abord, puis des déclinaisons des gagnants
+- Au début, on ajoute des créas pour **tester des angles et des concepts**, pas « contre la fatigue » : à 500-1 000 $/jour, la fatigue des créas n'existe pas.
+- Quand un angle gagne, on le décline : autres formats, variantes, sous-cibles (« pour ta mère », « non-fumeuse »…).
+- À 10 k$/jour, Adam produit des lots de 30 à 100 créas, environ 100 par semaine. Une seule créa fait 40 % de ses ventes : il en faut toujours d'autres en préparation.
+(AC vidéos J30, J45)
+
+## C10. La chaîne de production d'Adam (à reprendre pour unlined)
+1. Un document « avatar » et un document « voice of customer » (les mots exacts des clientes), construits à partir d'avis Amazon, Reddit et TikTok.
+2. Claude propose des angles, **validés par un humain**, puis écrit le script (accroche, corps, appel à l'action).
+3. Voix ElevenLabs, puis montage à partir d'une banque de plans. Chez nous, les plans sont uniquement générés par IA ou tournés : jamais ceux d'un concurrent.
+(AC vidéo J30)
+
 ## C8. Ce qu'on ne met jamais dans une créa
 Les faux chiffres de clientes, les fausses notes, les faux dermatologues, les fausses ruptures de stock, les fausses notifications, et une actrice IA qui dit « ça a marché sur moi ». Voir `07-conformite-us.md`.

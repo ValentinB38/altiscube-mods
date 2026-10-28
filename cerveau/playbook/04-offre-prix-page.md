@@ -4,6 +4,8 @@ Sources : AC = Adam Citron, NOUS = unlined.
 
 ## O1. La conversion vient du produit et de l'offre
 « Le taux de conversion, c'est avant tout le produit, et surtout l'offre marketing sur le site. » Son offre : un **BOGO**, comme la nôtre. (AC vidéo J7)
+« Un −30 % ou un prix barré, c'est une offre de merde. » Les vraies offres : 1 acheté = 1 offert, offres par quantité (2 achetés = 1 offert…), livraison offerte, cadeau. Aller voir sur TrendTrack ce que font les marques qui vendent le plus. (AC vidéo J30)
+Quand les KPI des créas sont bons, **tester l'offre et le prix passe avant tout le reste** : on surpondère le texte et les visuels de la page. (AC vidéo J14)
 
 ## O2. Sûr de l'offre, pas forcément du prix
 Le prix fait partie du test. Baisser le prix augmente la conversion mais réduit la marge (T7). Adam a choisi le prix bas au jour 2. (AC vidéo J1, J2)
@@ -33,3 +35,18 @@ Adam encaisse de 1 à 10 $ de « tips » par jour, grâce à l'option de pourboi
 - Adam : « le nom ne fait pas vendre », boutique généraliste, il nichera après la traction. (AC vidéo J1)
 - NOUS : unlined est déjà une marque nichée (vision : une grande marque beauté aux US).
 Les deux sont compatibles : il nichera après avoir trouvé la traction, et nous sommes déjà nichés. Notre marque nous permettra de lancer d'autres produits pour la même cliente.
+
+## O9. Un panier moyen bas n'empêche pas de scaler
+« Il faut vendre au moins 50-60 $ sur Meta » : un mythe selon Adam, qui scale à environ 30-35 $ de panier. (AC vidéo J30)
+
+## O10. Monter le panier moyen sans freiner la conversion
+- AfterSell : upsell après achat (O4).
+- Upcart : une suggestion dans le panier, qui marche aussi.
+- Quand une partie des clientes commence à visiter le site, soigner la page d'accueil et la page de collection.
+(AC vidéos J14, J30)
+
+## O11. Une fois la traction confirmée : packaging et variantes
+- Un packaging personnalisé avec le logo fait monter la valeur perçue.
+- Les commentaires sous les pubs révèlent les variantes que les clientes demandent : il les a fait fabriquer.
+- Pour unlined : packaging au nom de la marque et retrait de la mention « lakerain » (S6).
+(AC vidéo J30)

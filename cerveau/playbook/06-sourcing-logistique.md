@@ -29,3 +29,21 @@ La franchise de minimis a pris fin en 2025 : toutes les importations sont taxée
   4. le nom « Line Smoother » est aussi utilisé par Laura Geller ;
   5. la marque « lakerain » imprimée sur le tube.
 - Fournisseur et coût unitaire réel livré DDP : **à obtenir**. Sans eux, notre ROAS de rentabilité reste une estimation.
+
+## S7. Les critères produit d'Adam, et notre point faible
+- Ses critères :
+  1. un bon produit, sans plaintes ;
+  2. un produit léger ;
+  3. un produit peu volumineux.
+  Pas de liquide ni d'électronique, qui passent par des lignes de transport spéciales, plus chères. (AC vidéo J14)
+- **unlined est un liquide cosmétique.** Demander à l'agent le vrai coût de livraison par la ligne « cosmétiques/liquides » vers les US en DDP, pour 1 et pour 2 tubes, avant de fixer le ROAS de rentabilité.
+
+## S8. Passer au stock quand la traction est là
+- Adam a commandé 500 pièces après 2 semaines de traction, puis gardé environ 2 000 $ de stock chez l'agent, avec 15 % gagnés sur le prix du produit.
+- Une quantité raisonnable, sans immobiliser trop de trésorerie.
+(AC vidéos J14, J30)
+
+## S9. Comparer les agents et se méfier des plateformes
+- 1 $ de moins par commande, à 10 000 commandes, c'est 10 000 $ par mois.
+- Les plateformes d'agents branchées à Shopify voient toutes tes ventes et peuvent copier tes produits. Préférer un agent recommandé.
+(AC vidéo J30)

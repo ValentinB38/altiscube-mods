@@ -6,6 +6,7 @@ Ces règles passent avant toute astuce marketing. Une pub refusée ou un compte 
 - **Interdit :** les faux avis, les avis achetés ou triés pour ne garder que les bons, les « 200 000 clientes » ou les « 4,8/5 » inventés (règle FTC sur les avis et témoignages, 2024).
 - **Actrice IA :** elle peut expliquer, montrer, raconter un problème, mais jamais dire « ça a marché sur moi » ni « je l'utilise depuis des mois ». Ce serait le témoignage d'une personne qui n'existe pas.
 - **Interdit :** les faux médecins ou faux dermatologues, et « dermatologists are calling it… » sans source réelle.
+- **Demande d'avis :** on invite **toutes** les clientes. Ne solliciter que les contentes (« review gating ») est interdit par Trustpilot et contraire à la règle FTC. Les mécontentes, on les aide en plus, pas à la place.
 
 ## Offres et prix
 - **« Free » :** l'offre « 1 acheté = 1 offert » n'est honnête que si le prix d'un tube seul est le prix normal. Pas de prix barré gonflé.

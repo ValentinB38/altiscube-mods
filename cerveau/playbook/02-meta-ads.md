@@ -17,10 +17,12 @@ Chez Adam, environ +20 à +40 % : 122 $ pour 100, 142 pour 120, 193 pour 150. Me
 ## M4. Monter le budget par paliers, jamais après une seule bonne journée
 - Adam : 100 → 120 → 150 → 200 → 250, soit +20 à +33 % à chaque fois, tant que le ROAS reste nettement au-dessus de l'équilibre (il visait plus de 2 pour un équilibre à 1,6).
 - Le seul crash net : +50 % après une seule journée à ROAS 3. (AC J3, J6, J7, J8, J10)
+- Plus tard : avec un équilibre à 1,6, il monte de 10 à 20 % le lendemain d'une journée à ROAS 2,3-2,5, garde le budget autour de 2, et monterait beaucoup plus vite à 4. Monter le budget de 20 % par jour ne « dérègle » pas l'algo. (AC vidéos J14, J30)
 - Règle unlined : +20 % maximum, seulement après **2 jours de suite** au-dessus de l'équilibre + 0,3.
 
 ## M5. Ajouter des statiques vers J4-J5, dans un nouvel adset de la même CBO
 Dès que le produit montre de la traction. Les statiques retouchent les gens déjà exposés aux vidéos. Chez Adam : dès le premier jour, une seule statique a fait 4 ventes sur 13, et la campagne n'a plus dépendu d'une seule créa. Il regrette de ne pas l'avoir fait plus tôt. (AC J7, J8)
+Pour ses tests suivants, il lance **vidéos et statiques dès le premier jour, dans deux adsets séparés** : on ne mélange jamais les deux formats dans un même adset. (AC vidéos J14, J45)
 
 ## M6. Lire la répartition par âge et par placement après 4-5 jours
 Chez Adam, 90 % des ventes viennent des 55-64 ans et des 65 ans et plus. La tranche 55-64 ans est la plus rentable. On adapte alors la page et les créas à cette cliente. « Il faut écouter la data que donne Facebook. » (AC J7)
@@ -43,6 +45,7 @@ Le CPM qui baisse à partir du jour 3 est le signe que Meta valide les créas. L
 ## M9. Ne jamais dépendre d'un seul BM ou d'une seule agence
 Le BM d'agence d'Adam a été restreint en moins de 24 h et l'agence l'a laissé attendre. Il a reconstruit ses propres BM avec des administrateurs de secours.
 NOUS : on est sur un compte d'agence (Adscale) et un compte US est demandé. Prévoir un BM à nous, vérifié, avec 2 vrais administrateurs et un moyen de paiement de secours. Pas de faux profils : c'est contraire aux conditions de Meta. (AC vidéo J1)
+Au J30, il constate une grosse vague de bans d'agences : « rien ne sera plus performant qu'un setup perso propre ». (AC vidéo J30)
 
 ## M10. Les pubs mènent directement à la fiche produit
 Pas d'advertorial ni de listicle au début : le produit, l'offre et les créas comptent avant tout. (AC vidéo J7)
@@ -52,3 +55,37 @@ Le budget repart à zéro à minuit dans le fuseau du compte. Un compte réglé 
 
 ## M12. Ne pas lancer en pleine journée
 Programmer le démarrage à 00:00 dans le fuseau du compte. Sinon, Meta tente de dépenser le budget du jour en quelques heures et le CPM grimpe. (NOUS, bon sens Meta, à confirmer)
+
+## M13. Ciblage : ne rien restreindre
+CBO « États-Unis, 18 ans et plus », sans genre, sans tranche d'âge, sans centre d'intérêt. « L'algorithme sait si un produit est pour les femmes. » C'est la répartition par âge (M6) qui dit qui achète, et c'est la page qu'on adapte, pas le ciblage. (AC vidéo J14)
+
+## M14. Décocher toutes les « améliorations » automatiques de Meta
+Musique ajoutée, variantes IA, retouches automatiques… Adam : « tout ce que Facebook te propose, il faut tout décocher ». Par l'API, elles le sont par défaut. (AC vidéo J45)
+
+## M15. Les règles de manipulation
+- Les nouvelles créas vont toujours dans un **nouvel adset**, jamais dans un adset qui tourne.
+- On ne coupe jamais une créa dans une CBO : l'algo ne dépense pas sur une créa qui ne performe pas.
+- Pas de minimum de dépense par adset dans une CBO : testé puis retiré, « ne pas brider l'algo ».
+(AC vidéos J14, J30, J45)
+
+## M16. Structure de scale (seulement une fois qu'on a une créa gagnante et un ROAS stable)
+1. **CBO « scaling »** : la majorité du budget, un adset par lot de créas (15 à 25), vidéos et statiques séparées.
+2. **ABO « testing »** : 1 adset par concept à 30 $/jour, avec 2 vidéos du même angle ou 3 déclinaisons d'une même statique.
+   - **Coupe :** à 24 h, zéro vente et KPI catastrophiques, on coupe ; une vente, on laisse 24 h de plus ; à 48 h, tout ce qui est sous l'équilibre est coupé.
+   - **Budget :** ROAS stable au-dessus de 2,5 pendant 3 jours, on double. Mauvaise passe : 24 h de sursis, puis −50 %, puis on coupe.
+   - Les mêmes créas sont aussi ajoutées à la CBO scaling. L'ABO force la dépense et « montre » la créa à l'algo.
+3. **CBO « bid cap »** : les créas à plus de 15 % de marge, ajoutées chaque semaine. Enchère plafonnée à un CPA garantissant 15 % de marge. Elle dépense surtout le week-end, et c'est elle qui fait le meilleur ROAS.
+(AC vidéo J45)
+
+## M17. Le week-end comme accélérateur
+- Le trafic est meilleur le week-end, et le samedi est la meilleure journée.
+- **Vendredi soir :** monter le budget.
+- **Samedi et dimanche :** augmenter en cours de journée si le ROAS dépasse 2,5 vers 10-11 h puis vers 13-14 h à New York (+10 à 20 % chaque fois).
+- **Dimanche après minuit (heure de New York) :** redescendre, mais moins bas que la semaine précédente.
+(AC vidéo J45)
+
+## M18. Meta surestime le ROAS
+On recoupe avec les UTM dans Shopify. Plus tard : Triple Whale Sonar (260 $/mois) pour mieux remonter les données à Meta, car le pixel de base est limité. (AC vidéos J30, J45)
+
+## M19. Une fois que les US marchent : le Canada
+Dupliquer la CBO avec les meilleures vidéos et statiques. Chez Adam : ROAS 3,5 dès le premier jour et un CPM 2 fois moins cher, aidé par les données US du pixel. (AC vidéo J30)

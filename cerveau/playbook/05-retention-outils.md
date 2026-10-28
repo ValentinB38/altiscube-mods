@@ -29,3 +29,23 @@ Une campagne sur le nom de la boutique, qui ne coûte presque rien, pour ne pas 
 
 ## R8. Le contenu organique de la page
 2 à 3 posts non publicitaires sur la page Facebook, pour qu'elle ait l'air vivante et active (pratique répandue ; l'effet sur le CPM n'est pas prouvé). NOUS : 3 posts prêts dans `posts-organiques/`.
+
+## R9. Les avis : un formulaire pour toutes, une invitation pour toutes
+- Le flow d'Adam, déclenché à la livraison : un email de conseils, puis un formulaire. Les mécontentes reçoivent une solution (brouillon préparé par Claude), et seules les contentes sont invitées sur Trustpilot.
+- **Chez nous :** le formulaire et la résolution des problèmes, oui. Mais l'invitation à laisser un avis va à **toutes** les clientes. Trier pour ne solliciter que les contentes (« review gating ») est interdit par Trustpilot et contraire à la règle FTC sur les avis. (AC vidéo J45, `07-conformite-us.md`)
+
+## R10. Un flow de suivi de livraison
+Un email environ tous les 3 jours après l'expédition, avec le lien de suivi. Presque plus de tickets « où est ma commande ? », et la cliente s'habitue aux emails de la marque. Indispensable avec 7 à 12 jours de livraison. (AC vidéo J45)
+
+## R11. Le service client avec Claude
+Claude rédige un brouillon pour chaque ticket, l'humain corrige, et Claude apprend. On délègue à une assistante quand les brouillons sont justes du premier coup. Faire soi-même le service client au début, c'est apprendre à connaître la cliente. (AC vidéos J14, J30, J45)
+
+## R12. Les commentaires sous les pubs
+- Modérer les commentaires et y répondre, car c'est public : la preuve sociale et une page qui répond rassurent.
+- Meta interroge les acheteuses, et les BM, comptes publicitaires et pages ont une note. Des clientes mécontentes font baisser les performances, voire mènent au ban.
+(AC vidéo J30)
+
+## R13. La trésorerie
+- Shopify Payments verse l'argent à J+5 ouvrés, alors que Meta et le fournisseur se paient tout de suite. Quand on scale, la trésorerie se tend.
+- Garder une réserve, et surveiller l'argent immobilisé en stock.
+(AC vidéos J30, J45)
