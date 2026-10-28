@@ -19,7 +19,8 @@ Avant de recommander une action (pub, budget, prix, offre, page, créa, fourniss
 1. **Nos propres chiffres** (`cerveau/unlined/journal.md`) : ils battent toujours une règle générale.
 2. **Formation Evolve** (`cerveau/sources/evolve/`) : à venir.
 3. **Adam Citron** (`cerveau/sources/adam-citron/`) : build in public, de 0 à 1 M$/mois aux US, ce qu'il a réellement fait et obtenu.
-4. Bon sens e-commerce général : à signaler comme tel.
+4. **Conseils ponctuels sur X** (`cerveau/sources/conseils-x/`) : sans chiffres vérifiables, ils confirment une règle mais n'en créent jamais une à eux seuls.
+5. Bon sens e-commerce général : à signaler comme tel.
 
 Quand deux sources se contredisent, garde les deux dans le playbook et note le désaccord au lieu de trancher en silence.
 

@@ -19,6 +19,7 @@ Plus de budget = plus de créas nécessaires pour laisser du choix à Meta. (AC 
 
 ## C5. Le signal qu'une créa est bonne
 Le CPM baisse et le CTR tient. Chez Adam : CTR stable autour de 4 %, CPM divisé par 2 en une semaine. (AC vidéo J7)
+@MurpazECOM (28/10) : « make ads that facebook will like », sans dire comment. Notre lecture, à tester : une pub que les gens regardent et cliquent coûte moins cher à diffuser, et c'est ce signal qui le montre (voir `sources/conseils-x/`).
 
 ## C6. Nos recettes de production (coûts Higgsfield au 28/10/2026)
 

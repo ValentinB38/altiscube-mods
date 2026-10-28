@@ -41,6 +41,7 @@ Lecture : notre CTR est meilleur que celui d'Adam, donc les créas accrochent. N
 
 ## M8. Un CPM élevé au départ est normal aux US
 Le CPM qui baisse à partir du jour 3 est le signe que Meta valide les créas. Le niveau dépend de la niche : Adam pense ne pas descendre sous 50 $. (AC vidéos J1 et J7)
+@MurpazECOM (28/10) : « day 1 cpm is always ugly, meta is still figuring out who to show it to ». À nos 138 $ de CPM sans vente au J2, il répond « not the best » (voir `sources/conseils-x/`).
 
 ## M9. Ne jamais dépendre d'un seul BM ou d'une seule agence
 Le BM d'agence d'Adam a été restreint en moins de 24 h et l'agence l'a laissé attendre. Il a reconstruit ses propres BM avec des administrateurs de secours.
@@ -58,6 +59,7 @@ Programmer le démarrage à 00:00 dans le fuseau du compte. Sinon, Meta tente de
 
 ## M13. Ciblage : ne rien restreindre
 CBO « États-Unis, 18 ans et plus », sans genre, sans tranche d'âge, sans centre d'intérêt. « L'algorithme sait si un produit est pour les femmes. » C'est la répartition par âge (M6) qui dit qui achète, et c'est la page qu'on adapte, pas le ciblage. (AC vidéo J14)
+@MurpazECOM (28/10) va dans le même sens : « very broad for big audience » (voir `sources/conseils-x/`).
 
 ## M14. Décocher toutes les « améliorations » automatiques de Meta
 Musique ajoutée, variantes IA, retouches automatiques… Adam : « tout ce que Facebook te propose, il faut tout décocher ». Par l'API, elles le sont par défaut. (AC vidéo J45)
