@@ -6,11 +6,12 @@ Sources : AC = Adam Citron, NOUS = nos constats unlined.
 - 1 campagne Ventes en CBO, environ 100 $/jour, **US uniquement**, audience large (broad).
 - Environ 25 pubs : 5 adsets de 5 pubs dans sa vidéo J1, « 25 vidéos dedans » dans ses posts.
 - « Aujourd'hui, tu crées une CBO et tu mets tout dedans » : plus besoin de structures ABO compliquées. (AC vidéo J1, J2)
+- Son produit 3 (J16) : CBO à 100 $ avec **45 créas dès le premier jour, 30 vidéos et 15 statiques**. (AC J16)
 - NOUS : on avait 7 pubs dans un seul adset. Meta n'en a diffusé que 2 (normal, voir M3), mais 7, c'est peu de choix.
 
 ## M2. Meta dépasse le budget
 Chez Adam, environ +20 à +40 % : 122 $ pour 100, 142 pour 120, 193 pour 150. Meta peut aller jusqu'à +75 % sur une journée, sans dépasser 7 fois le budget journalier sur la semaine. Ce n'est pas un bug, c'est le signal que Meta voit des acheteurs. (AC J2, J3, J6)
-L'inverse arrive aussi : au J12, Meta dépense moins que le budget (pas assez de trafic qualifié), puis au J13 presque 100 $ de plus que la veille. (AC J12, J13)
+L'inverse arrive aussi : au J12, Meta dépense moins que le budget (pas assez de trafic qualifié), puis au J13 presque 100 $ de plus que la veille. Au J19, encore : 390 $ dépensés sur 500. (AC J12, J13, J19)
 
 ## M3. Meta met tout sur une seule créa, et c'est normal
 95 % du budget sur une vidéo, et toutes les ventes en viennent. On ne coupe pas les autres parce qu'elles n'ont rien reçu : plus le budget monte, plus Meta les teste. (AC J6, vidéo J7)
@@ -20,6 +21,7 @@ L'inverse arrive aussi : au J12, Meta dépense moins que le budget (pas assez de
 - Le seul crash net : +50 % après une seule journée à ROAS 3. (AC J3, J6, J7, J8, J10)
 - Plus tard : avec un équilibre à 1,6, il monte de 10 à 20 % le lendemain d'une journée à ROAS 2,3-2,5, garde le budget autour de 2, et monterait beaucoup plus vite à 4. Monter le budget de 20 % par jour ne « dérègle » pas l'algo. (AC vidéos J14, J30)
 - J11 à J15 : P2 de 100 à 120 $ « progressivement, pas comme la première fois » ; puis +10 à 20 % par jour sur les deux CBO ; au J15, +21 % (350 → 425 $) après une journée à ROAS 2,5, parce qu'il venait d'ajouter beaucoup de créas. (AC J11, J14, J15)
+- J18 à J20 : chaque produit a son rythme. P1 : +10 à 20 % par jour tant que le ROAS reste bien au-dessus de 2. P2 : plus doucement, son ROAS a du mal à décoller. P3 : reste à 100 $ jusqu'à 2 jours au-dessus de 2, puis +20 % et +25 %. (AC J18-J20)
 - Règle unlined : +20 % maximum, seulement après **2 jours de suite** au-dessus de l'équilibre + 0,3.
 - Post X du 28/10 : on peut avoir du mal à passer les premiers paliers aux US. Son auteur dit ne pas encore y avoir scalé ; Adam, lui, est passé à 10 k$/jour au J45 (voir `sources/conseils-x/post-us-2026-10-28.md`).
 
@@ -44,6 +46,7 @@ Lecture : notre CTR est meilleur que celui d'Adam, donc les créas accrochent. N
 
 ## M8. Un CPM élevé au départ est normal aux US
 Le CPM qui baisse à partir du jour 3 est le signe que Meta valide les créas. Le niveau dépend de la niche : Adam pense ne pas descendre sous 50 $. (AC vidéos J1 et J7)
+Au J20, le CPM du P1 est à 44 $ et continue de baisser. Son P3 démarre à 65 $, contre 100 $ pour le P1 : le pixel et le compte ont mûri. (AC J17, J20)
 Post X du 28/10 : des CPM « aberrants » aux US, parce que la concurrence y est la plus forte au monde (voir `sources/conseils-x/post-us-2026-10-28.md`).
 @MurpazECOM (28/10) : « day 1 cpm is always ugly, meta is still figuring out who to show it to ». À nos 138 $ de CPM sans vente au J2, il répond « not the best » (voir `sources/conseils-x/`).
 

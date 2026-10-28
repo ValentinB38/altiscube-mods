@@ -26,6 +26,7 @@ NOUS : nos créas parlent déjà aux femmes de 55-65 ans. À vérifier dans la r
 ## O5. Beaucoup de clics mais peu de ventes : changer l'offre d'abord
 Si les créas amènent du trafic (bon CTR, CPC bas) sans conversion, le problème est le prix ou l'offre sur la page, pas le produit ni les créas. (AC J10)
 Validé au J11 : le lendemain de la baisse de prix et du changement d'offre, le P2 repasse à ROAS 3 (100 $ dépensés, 300 $ de CA), avec un CTR au-dessus de 9 % et un CPC sous 1 $. (AC J11)
+Mais un changement d'offre peut ne pas tenir : au J20, le P2 retombe à 0,64 avec un CTR de 9 %. Il change d'offre une 2e fois et redescend la CBO à 100 $. Et quand on a lancé au prix plancher (son P3), il n'y a plus de marge pour baisser : il attend. (AC J17, J20)
 
 ## O6. Le poids du colis décide de l'offre possible
 Ce sont souvent les frais de livraison qui rendent une bonne offre possible ou non. (AC J5)
@@ -54,6 +55,7 @@ Les deux sont compatibles : il nichera après avoir trouvé la traction, et nous
 ## O11. Une fois la traction confirmée : packaging et variantes
 - Un packaging personnalisé avec le logo fait monter la valeur perçue.
 - Les commentaires sous les pubs révèlent les variantes que les clientes demandent : il les a fait fabriquer.
+- Au J20, des clientes demandent sous ses pubs une variante qu'il n'a pas : il demande tout de suite à l'usine si elle peut la produire. (AC J20)
 - Pour unlined : packaging au nom de la marque et retrait de la mention « lakerain » (S6).
 (AC vidéo J30)
 

@@ -14,12 +14,14 @@ Sources : AC = Adam Citron (J1 à J10, vidéos J1 et J7), NOUS = nos chiffres un
 
 ## T3. Tester au moins 3 jours
 Couper avant 24 h seulement si tout est mauvais en même temps : zéro vente, zéro ajout au panier, CPM déraisonnable. Sinon, on attend 3 jours. (AC vidéo J1)
+Son produit 3 : ROAS 0,89 au premier jour, avec de bons KPI Meta (CPM 65 $, CTR près de 5 %) mais peu d'ajouts au panier. Il ne touche à rien : 2,05 le lendemain, puis 3 jours de suite au-dessus de 2. « J'ai bien fait de ne pas paniquer. » (AC J17-J20)
 Même conseil de @MurpazECOM le 28/10 : « give it 3 days before touching anything ». Son repère : « 1 sale on day 1 is a good sign » ; unlined a fait 2 ventes au J1 (voir `sources/conseils-x/`).
 
 ## T4. Une journée négative, c'est de la variance. Deux de suite, c'est une tendance.
 À 100-150 $/jour, deux ou trois ventes de plus ou de moins font basculer la journée. Après une journée rouge, on ne touche à rien. Après deux journées rouges consécutives, on agit : nouvelle offre, nouveau prix, ou on coupe. (AC J4, J5)
 Même sur un produit qui marche, le CA peut faire −50 % ou +100 % d'un jour à l'autre sans aucun changement. **On juge la tendance sur 3 jours minimum, 7 dans l'idéal, et à la semaine.** (AC vidéos J14, J30)
 J12-J13 : ses deux produits s'inversent chaque jour (P1 à 2,4 et P2 à 1,6, puis l'inverse), et le taux de conversion aussi (J13 : beaucoup de paniers abandonnés, « juste de la variance » ; J14 : record). Lissé sur plusieurs jours, il reste positif. (AC J12-J14)
+J19-J20 : le P1 tombe à 1,7 (Meta ne dépense que 390 $ sur 500), puis remonte à 2,7 en 24 h sans toucher ni aux créas ni au budget. (AC J19, J20)
 
 ## T5. On ne touche à rien pendant les premiers jours
 Ni le prix, ni le budget, ni les créas. Adam s'est contredit trois fois. La seule erreur nette : monter le budget de 50 % après **une seule** bonne journée (produit 2 : ROAS 3 puis 0,56). (AC J2, J3, J10)
@@ -51,6 +53,7 @@ Adam vise 15 % de marge, 20-25 % dans l'idéal, avant coûts fixes. Au J14 : « 
 
 ## T11. Vérifier la qualité du produit avant de grossir
 Son produit 2 a été coupé pour un défaut découvert par les plaintes clientes environ 2 semaines après les premières ventes, à cause du délai de livraison. Scaler trop vite pendant ces 2 semaines, c'est risquer des remboursements, des rétrofacturations et un Shopify Payments qui saute. **Commander et tester un échantillon avant de monter le budget.** (AC vidéo J30)
+Au J16, il renforce le contrôle qualité : l'agent juge la qualité, puis Adam demande des photos et des vidéos sous plusieurs angles avant d'expédier. Les agents en Chine privilégient souvent le coût bas, alors que monter la qualité coûte en général peu. (AC J16)
 8lab (28/10) dit pareil avec sa formule « (branding + marketing + pricing) × produit » : si le produit vaut zéro, tout tombe à zéro (voir `sources/conseils-x/8lab-2026-10-28.md`).
 
 ## T12. Le budget de départ

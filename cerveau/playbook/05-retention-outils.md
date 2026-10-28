@@ -40,6 +40,7 @@ Un email environ tous les 3 jours après l'expédition, avec le lien de suivi. P
 ## R11. Le service client avec Claude
 Claude rédige un brouillon pour chaque ticket, l'humain corrige, et Claude apprend. On délègue à une assistante quand les brouillons sont justes du premier coup. Faire soi-même le service client au début, c'est apprendre à connaître la cliente. (AC vidéos J14, J30, J45)
 Au J11, il installe un CRM de service client dès les premiers emails : « tous les clients doivent être satisfaits, car je construis un asset sur le long terme ». Réponse rapide et chaleureuse par email, sur la page Facebook et sous les publications. (AC J11)
+Au J16, 20 commandes parties dans la mauvaise variante : il s'excuse, renvoie gratuitement le bon produit, et la cliente garde celui reçu. Toutes acceptent. (AC J16)
 
 ## R12. Les commentaires sous les pubs
 - Modérer les commentaires et y répondre, car c'est public : la preuve sociale et une page qui répond rassurent.

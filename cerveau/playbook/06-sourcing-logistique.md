@@ -42,11 +42,13 @@ La franchise de minimis a pris fin en 2025 : toutes les importations sont taxée
 - Adam a commandé 500 pièces après 2 semaines de traction, puis gardé environ 2 000 $ de stock chez l'agent, avec 15 % gagnés sur le prix du produit.
 - Une quantité raisonnable, sans immobiliser trop de trésorerie.
 - Le déclencheur au J15 : 15 jours d'historique, des budgets qui montent chaque jour et des performances qui tiennent. Gains : coût produit plus bas, expédition plus rapide. (AC J15)
+- Au J20, grosse commande de stock : l'agent a négocié −15 % sur le coût produit. (AC J20)
 (AC vidéos J14, J30)
 
 ## S9. Comparer les agents et se méfier des plateformes
 - 1 $ de moins par commande, à 10 000 commandes, c'est 10 000 $ par mois.
 - Les plateformes d'agents branchées à Shopify voient toutes tes ventes et peuvent copier tes produits. Préférer un agent recommandé.
+- **Vérifier les SKU avant la première expédition.** Au J16, les 20 premières commandes d'Adam sont parties dans la mauvaise variante : le logiciel de l'agent, branché sur Shopify, suivait des SKU mal configurés. Pour unlined : Buy 1 = 1 tube, Buy 1 Get 1 Free = 2 tubes, Buy 2 Get 2 Free = 4 tubes. (AC J16)
 (AC vidéo J30)
 
 ## S10. Taxe de vente US (sales tax)
