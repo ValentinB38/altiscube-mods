@@ -25,6 +25,7 @@ NOUS : nos créas parlent déjà aux femmes de 55-65 ans. À vérifier dans la r
 
 ## O5. Beaucoup de clics mais peu de ventes : changer l'offre d'abord
 Si les créas amènent du trafic (bon CTR, CPC bas) sans conversion, le problème est le prix ou l'offre sur la page, pas le produit ni les créas. (AC J10)
+Validé au J11 : le lendemain de la baisse de prix et du changement d'offre, le P2 repasse à ROAS 3 (100 $ dépensés, 300 $ de CA), avec un CTR au-dessus de 9 % et un CPC sous 1 $. (AC J11)
 
 ## O6. Le poids du colis décide de l'offre possible
 Ce sont souvent les frais de livraison qui rendent une bonne offre possible ou non. (AC J5)
@@ -32,6 +33,7 @@ NOUS : un tube pèse peu, donc la livraison offerte sur le BOGO est réaliste. C
 
 ## O7. Les pourboires au paiement
 Adam encaisse de 1 à 10 $ de « tips » par jour, grâce à l'option de pourboire au paiement de Shopify. C'est marginal, à tester plus tard. (AC J3, J4, J9, J10)
+J12 à J15 : de 1 à 8 $ par jour. (AC J12-J15)
 
 ## O8. Une boutique au nom générique, ou une marque ?
 - Adam : « le nom ne fait pas vendre », boutique généraliste, il nichera après la traction. (AC vidéo J1)
@@ -44,7 +46,7 @@ Les deux sont compatibles : il nichera après avoir trouvé la traction, et nous
 
 ## O10. Monter le panier moyen sans freiner la conversion
 - AfterSell : upsell après achat (O4).
-- Upcart : une suggestion dans le panier, qui marche aussi.
+- Upcart : une suggestion dans le panier, qui marche aussi. Au J13, il y ajoute un produit complémentaire, sourcé et chiffré avec son agent : première vente dès le lendemain. (AC J13, J14)
 - Quand une partie des clientes commence à visiter le site, soigner la page d'accueil et la page de collection.
 (AC vidéos J14, J30)
 8lab (28/10) : des produits complémentaires bien placés montent la valeur perçue et le panier moyen sans toucher au prix de base. Pour unlined : le 2e produit pour la même cliente (voir `sources/conseils-x/8lab-2026-10-28.md`).

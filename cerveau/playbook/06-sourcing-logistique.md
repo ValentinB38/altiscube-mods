@@ -41,6 +41,7 @@ La franchise de minimis a pris fin en 2025 : toutes les importations sont taxée
 ## S8. Passer au stock quand la traction est là
 - Adam a commandé 500 pièces après 2 semaines de traction, puis gardé environ 2 000 $ de stock chez l'agent, avec 15 % gagnés sur le prix du produit.
 - Une quantité raisonnable, sans immobiliser trop de trésorerie.
+- Le déclencheur au J15 : 15 jours d'historique, des budgets qui montent chaque jour et des performances qui tiennent. Gains : coût produit plus bas, expédition plus rapide. (AC J15)
 (AC vidéos J14, J30)
 
 ## S9. Comparer les agents et se méfier des plateformes

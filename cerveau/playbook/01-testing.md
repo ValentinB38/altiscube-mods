@@ -19,6 +19,7 @@ Même conseil de @MurpazECOM le 28/10 : « give it 3 days before touching anythi
 ## T4. Une journée négative, c'est de la variance. Deux de suite, c'est une tendance.
 À 100-150 $/jour, deux ou trois ventes de plus ou de moins font basculer la journée. Après une journée rouge, on ne touche à rien. Après deux journées rouges consécutives, on agit : nouvelle offre, nouveau prix, ou on coupe. (AC J4, J5)
 Même sur un produit qui marche, le CA peut faire −50 % ou +100 % d'un jour à l'autre sans aucun changement. **On juge la tendance sur 3 jours minimum, 7 dans l'idéal, et à la semaine.** (AC vidéos J14, J30)
+J12-J13 : ses deux produits s'inversent chaque jour (P1 à 2,4 et P2 à 1,6, puis l'inverse), et le taux de conversion aussi (J13 : beaucoup de paniers abandonnés, « juste de la variance » ; J14 : record). Lissé sur plusieurs jours, il reste positif. (AC J12-J14)
 
 ## T5. On ne touche à rien pendant les premiers jours
 Ni le prix, ni le budget, ni les créas. Adam s'est contredit trois fois. La seule erreur nette : monter le budget de 50 % après **une seule** bonne journée (produit 2 : ROAS 3 puis 0,56). (AC J2, J3, J10)
@@ -33,6 +34,8 @@ Ni le prix, ni le budget, ni les créas. Adam s'est contredit trois fois. La seu
 | Paiements commencés mais abandonnés | Frein au paiement (frais de port, moyen de paiement, confiance) | Vérifier le paiement, relance par email (R1) |
 | Ventes concentrées sur une tranche d'âge | Meta a trouvé l'avatar | Adapter la page et les créas (M6) |
 
+Repères de conversion d'Adam (J13) : P1, 20 % d'ajouts au panier et 7 % de conversion ; P2, 8 % et 2 %. unlined le 28/10 : 29 % d'ajouts au panier et 0 % de conversion, sur 14 visites. (AC J13, NOUS)
+
 ## T7. Le prix se décide sur le bénéfice, pas sur le ROAS
 Baisser le prix fait monter la conversion et le ROAS, mais peut faire baisser le bénéfice : jour 2 d'Adam, ROAS 1,83 mais 7 % de marge, contre ROAS 1,7 et 11 % la veille. On compare toujours le bénéfice en dollars. (AC J2)
 
@@ -44,7 +47,7 @@ Le KPI hebdomadaire d'Adam : le nombre de produits testés. Pour viser un ROAS d
 Des amis d'Adam sont restés à l'équilibre un mois avant que le produit « parte en exponentiel ». Tant qu'on est à l'équilibre, on laisse tourner. (AC vidéo J1, J5)
 
 ## T10. Objectif de marge : 15 % minimum avant coûts fixes
-Adam vise 15 % de marge, 20-25 % dans l'idéal, avant coûts fixes. Il accepte environ 10 % sur une courte période pour nourrir le pixel plus vite. Son premier mois : 15 % avant coûts fixes, environ 10 % net. Repère des coûts fixes : environ 2 450 $ le premier mois (outils IA, apps, Triple Whale, thème). (AC vidéos J14, J30)
+Adam vise 15 % de marge, 20-25 % dans l'idéal, avant coûts fixes. Au J14 : « tant que je suis au-dessus de 15 % de marge, je peux continuer à scaler » (J11 à J15 : 21 % de marge en moyenne). Il accepte environ 10 % sur une courte période pour nourrir le pixel plus vite. Son premier mois : 15 % avant coûts fixes, environ 10 % net. Repère des coûts fixes : environ 2 450 $ le premier mois (outils IA, apps, Triple Whale, thème). (AC vidéos J14, J30)
 
 ## T11. Vérifier la qualité du produit avant de grossir
 Son produit 2 a été coupé pour un défaut découvert par les plaintes clientes environ 2 semaines après les premières ventes, à cause du délai de livraison. Scaler trop vite pendant ces 2 semaines, c'est risquer des remboursements, des rétrofacturations et un Shopify Payments qui saute. **Commander et tester un échantillon avant de monter le budget.** (AC vidéo J30)

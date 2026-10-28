@@ -10,6 +10,7 @@
 | Fichier | Contenu | État |
 |---|---|---|
 | `journal-j01-j10.md` | Posts quotidiens des jours 1 à 10 (chiffres, analyse, décision) | fait |
+| `journal-j11-j15.md` | Posts quotidiens des jours 11 à 15 (palier des 1 000 $/jour, cross-sell, 100 créas en 2 jours, stock) | fait |
 | `video-j07.md` | Vidéo « Jour 7 : premier testing, 1 791 $ de CA » (25 min) | fait |
 | `video-j01.md` | « Jour 1 : 15 M€, un exit, 2 ans de pause » (21 min) | fait |
 | `video-j14.md` | « Jour 14 : premier jour à 1 000 $, 2e testing, je scale » (41 min) | fait |

@@ -10,6 +10,7 @@ Sources : AC = Adam Citron, NOUS = nos constats unlined.
 
 ## M2. Meta dépasse le budget
 Chez Adam, environ +20 à +40 % : 122 $ pour 100, 142 pour 120, 193 pour 150. Meta peut aller jusqu'à +75 % sur une journée, sans dépasser 7 fois le budget journalier sur la semaine. Ce n'est pas un bug, c'est le signal que Meta voit des acheteurs. (AC J2, J3, J6)
+L'inverse arrive aussi : au J12, Meta dépense moins que le budget (pas assez de trafic qualifié), puis au J13 presque 100 $ de plus que la veille. (AC J12, J13)
 
 ## M3. Meta met tout sur une seule créa, et c'est normal
 95 % du budget sur une vidéo, et toutes les ventes en viennent. On ne coupe pas les autres parce qu'elles n'ont rien reçu : plus le budget monte, plus Meta les teste. (AC J6, vidéo J7)
@@ -18,6 +19,7 @@ Chez Adam, environ +20 à +40 % : 122 $ pour 100, 142 pour 120, 193 pour 150. Me
 - Adam : 100 → 120 → 150 → 200 → 250, soit +20 à +33 % à chaque fois, tant que le ROAS reste nettement au-dessus de l'équilibre (il visait plus de 2 pour un équilibre à 1,6).
 - Le seul crash net : +50 % après une seule journée à ROAS 3. (AC J3, J6, J7, J8, J10)
 - Plus tard : avec un équilibre à 1,6, il monte de 10 à 20 % le lendemain d'une journée à ROAS 2,3-2,5, garde le budget autour de 2, et monterait beaucoup plus vite à 4. Monter le budget de 20 % par jour ne « dérègle » pas l'algo. (AC vidéos J14, J30)
+- J11 à J15 : P2 de 100 à 120 $ « progressivement, pas comme la première fois » ; puis +10 à 20 % par jour sur les deux CBO ; au J15, +21 % (350 → 425 $) après une journée à ROAS 2,5, parce qu'il venait d'ajouter beaucoup de créas. (AC J11, J14, J15)
 - Règle unlined : +20 % maximum, seulement après **2 jours de suite** au-dessus de l'équilibre + 0,3.
 - Post X du 28/10 : on peut avoir du mal à passer les premiers paliers aux US. Son auteur dit ne pas encore y avoir scalé ; Adam, lui, est passé à 10 k$/jour au J45 (voir `sources/conseils-x/post-us-2026-10-28.md`).
 
