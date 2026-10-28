@@ -11,6 +11,7 @@ Ces règles passent avant toute astuce marketing. Une pub refusée ou un compte 
 ## Offres et prix
 - **« Free » :** l'offre « 1 acheté = 1 offert » n'est honnête que si le prix d'un tube seul est le prix normal. Pas de prix barré gonflé.
 - **Urgence :** uniquement si elle est vraie (date de fin réelle). Pas de faux stock limité, pas de fausse rupture, pas de faux « restocké aujourd'hui ».
+  Une promo justifiée par un événement réel (Thanksgiving, Black Friday, Noël) est aussi plus crédible qu'une promo sortie de nulle part (8lab, 28/10) (voir `sources/conseils-x/8lab-2026-10-28.md`).
 - **Garantie :** 90 jours satisfaite ou remboursée, même ouvert. Elle doit être honorée telle qu'écrite.
 
 ## Publicité Meta

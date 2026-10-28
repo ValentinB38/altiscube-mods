@@ -56,11 +56,14 @@ Le CPM baisse et le CTR tient. Chez Adam : CTR stable autour de 4 %, CPM divisé
 
 Toutes reposent sur la même idée : une ride de la lèvre est un creux, pas un manque d'hydratation. « Comme une fissure dans un mur : la crème repeint, il faut combler. »
 
+8lab (28/10) : parler à l'émotion derrière l'achat (« une femme qui achète une robe veut avant tout se sentir plus belle et plus confiante »). Nos accroches expliquent surtout le mécanisme. **À tester :** l'émotion, se sentir de nouveau à l'aise avec son rouge à lèvres, de près et en photo (voir `sources/conseils-x/8lab-2026-10-28.md`).
+
 ## C9. Des angles d'abord, puis des déclinaisons des gagnants
 - Au début, on ajoute des créas pour **tester des angles et des concepts**, pas « contre la fatigue » : à 500-1 000 $/jour, la fatigue des créas n'existe pas.
 - Quand un angle gagne, on le décline : autres formats, variantes, sous-cibles (« pour ta mère », « non-fumeuse »…).
 - À 10 k$/jour, Adam produit des lots de 30 à 100 créas, environ 100 par semaine. Une seule créa fait 40 % de ses ventes : il en faut toujours d'autres en préparation.
 (AC vidéos J30, J45)
+8lab (28/10) confirme : le marché est saturé, pas le produit ; lister un maximum d'angles et d'avatars (exemple Fincut : un angle niché pour les hommes de 35-45 ans, élargi ensuite). **Pistes à tester :** la mère de la mariée, les photos de famille des fêtes (voir `sources/conseils-x/8lab-2026-10-28.md`).
 
 ## C10. La chaîne de production d'Adam (à reprendre pour unlined)
 1. Un document « avatar » et un document « voice of customer » (les mots exacts des clientes), construits à partir d'avis Amazon, Reddit et TikTok.

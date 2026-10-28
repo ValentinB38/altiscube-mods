@@ -48,6 +48,7 @@ Adam vise 15 % de marge, 20-25 % dans l'idéal, avant coûts fixes. Il accepte e
 
 ## T11. Vérifier la qualité du produit avant de grossir
 Son produit 2 a été coupé pour un défaut découvert par les plaintes clientes environ 2 semaines après les premières ventes, à cause du délai de livraison. Scaler trop vite pendant ces 2 semaines, c'est risquer des remboursements, des rétrofacturations et un Shopify Payments qui saute. **Commander et tester un échantillon avant de monter le budget.** (AC vidéo J30)
+8lab (28/10) dit pareil avec sa formule « (branding + marketing + pricing) × produit » : si le produit vaut zéro, tout tombe à zéro (voir `sources/conseils-x/8lab-2026-10-28.md`).
 
 ## T12. Le budget de départ
 Un test, c'est environ 100 $/jour pendant 3 jours, soit 300 $. Adam recommande au moins 3 000 $ « confortables » pour se lancer aux US. (AC vidéo J30)

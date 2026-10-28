@@ -6,6 +6,7 @@ Sources : AC = Adam Citron, NOUS = unlined.
 « Le taux de conversion, c'est avant tout le produit, et surtout l'offre marketing sur le site. » Son offre : un **BOGO**, comme la nôtre. (AC vidéo J7)
 « Un −30 % ou un prix barré, c'est une offre de merde. » Les vraies offres : 1 acheté = 1 offert, offres par quantité (2 achetés = 1 offert…), livraison offerte, cadeau. Aller voir sur TrendTrack ce que font les marques qui vendent le plus. (AC vidéo J30)
 Quand les KPI des créas sont bons, **tester l'offre et le prix passe avant tout le reste** : on surpondère le texte et les visuels de la page. (AC vidéo J14)
+**Désaccord, 8lab (28/10) :** une marque premium ne multiplie pas les bundles, elle place des produits complémentaires. On garde le BOGO au lancement (Adam passe avant, et c'est la norme du marché) ; à revoir quand la marque sera installée (voir `sources/conseils-x/8lab-2026-10-28.md`).
 
 ## O2. Sûr de l'offre, pas forcément du prix
 Le prix fait partie du test. Baisser le prix augmente la conversion mais réduit la marge (T7). Adam a choisi le prix bas au jour 2. (AC vidéo J1, J2)
@@ -44,6 +45,7 @@ Les deux sont compatibles : il nichera après avoir trouvé la traction, et nous
 - Upcart : une suggestion dans le panier, qui marche aussi.
 - Quand une partie des clientes commence à visiter le site, soigner la page d'accueil et la page de collection.
 (AC vidéos J14, J30)
+8lab (28/10) : des produits complémentaires bien placés montent la valeur perçue et le panier moyen sans toucher au prix de base. Pour unlined : le 2e produit pour la même cliente (voir `sources/conseils-x/8lab-2026-10-28.md`).
 
 ## O11. Une fois la traction confirmée : packaging et variantes
 - Un packaging personnalisé avec le logo fait monter la valeur perçue.
