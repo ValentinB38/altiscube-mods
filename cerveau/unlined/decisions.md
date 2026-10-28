@@ -13,6 +13,7 @@ Chaque décision cite la règle du playbook qui la justifie. On note ensuite le 
 | 28/10 soir | 2e journée rouge (T4) mais CPM en baisse et 29 % d'ajouts au panier pour 0 achat : **on change l'offre plutôt que de couper**. Livraison offerte et email de panier abandonné Shopify activés ce soir, 3e et dernier jour sur l'ancien compte le 29/10 (T3). Si le 29/10 finit encore à 0 vente, on coupe et on attend le compte US. | T3, T4, T6, O5, O6, R1 | Montrer si les frais de port bloquaient le paiement avant la relance US | – |
 | 28/10 soir | Livraison offerte activée par Valentin. Moyens de paiement vérifiés (tous présents). Panier tiroir livré (snippet `cart-drawer`) pour remplacer l'envoi direct au paiement. Emails de relance livrés : notification Shopify en Liquid, plus une séquence de 3 emails. | O6, O12, R1 | Moins d'abandons au paiement. À mesurer : paiements commencés et ventes du 29/10 | – |
 | 28/10 | **Lot 2 produit pour la relance US** : 3 UGC (careful Botox, lipstick bleed, gift mom), 4 variantes d'accroche des vidéos animées, 8 statiques en plus. Total : **12 vidéos et 12 statiques**, 187,5 crédits | C1, C6, C9, M5, M16 | Relance avec un adset vidéos et un adset statiques dès J1, environ 24 créas comme Adam | – |
+| 28/10 soir | Livraison offerte, panier tiroir et relance en 3 emails **en place** (Valentin). **Le lot 2 attend le compte US.** Le 29/10, on ne touche à rien sur l'ancien compte : son résultat mesurera seulement les changements du site. Le lot 2 part à 00:00, heure du compte US, la nuit qui suit son arrivée. **À tester (aucune règle ne le couvre) :** si le compte n'est toujours pas là vendredi 30/10 au soir, on décide d'un plan B pour ne pas perdre le week-end. | T5, M11, M12, M15, M9, M17 | Un 29/10 lisible (le site seul) et un lot 2 lancé sur le bon fuseau | – |
 
 ## Plan du 28/10 (proposé à Valentin, tiré du playbook)
 
@@ -52,6 +53,6 @@ Chaque décision cite la règle du playbook qui la justifie. On note ensuite le 
 
 ## Règles de pilotage du nouveau compte (tirées du playbook)
 - **J1 à J3 :** on ne touche à rien. On coupe seulement si tout est mauvais en même temps : zéro vente, zéro ajout au panier, CPM déraisonnable (T3).
-- **Une journée sous 1,45 de ROAS :** variance, on attend. **Deux de suite :** on change l'offre ou le prix avant de couper (T4, O5).
-- **Augmenter le budget :** +20 % maximum, après 2 jours de suite au-dessus de 1,75 de ROAS (M4).
+- **Une journée sous 1,52 de ROAS** (1,45 avant la livraison offerte) **:** variance, on attend. **Deux de suite :** on change l'offre ou le prix avant de couper (T4, O5).
+- **Augmenter le budget :** +20 % maximum, après 2 jours de suite au-dessus de 1,8 de ROAS, soit l'équilibre + 0,3 (M4).
 - **Vers J4-J5 :** ajout de l'adset de statiques (M5) et lecture de la répartition par âge (M6).

@@ -15,15 +15,16 @@
 | **Buy 1 Get 1 Free** | 29,90 $ | 59,80 $ |
 | Buy 2 Get 2 Free | 59,80 $ | 119,60 $ |
 
-- Livraison payante sous 59 $ (environ 4,60 $, d'après les 2 commandes à 34,50 $), offerte à partir de 59 $.
+- **Livraison offerte sur toutes les commandes US depuis le 28/10** (avant : environ 4,60 $ sous 59 $).
+- Panier tiroir (snippet `cart-drawer`) et relance de paiement abandonné en 3 emails (Shopify Email : 1 h, 24 h, 48 h) en place depuis le 28/10.
 - Garantie de 90 jours satisfaite ou remboursée, même ouvert.
 - Concurrents : Eline Paris vend son pack à 49 $ ; blooe.
 
 ## ROAS de rentabilité (estimation, à confirmer)
-- CA moyen par commande : environ 34,50 $ (29,90 + 4,60 de port).
+- CA moyen par commande : environ 29,90 $ depuis la livraison offerte (34,50 $ avant, port compris).
 - Coûts estimés par commande BOGO : 2 tubes livrés environ 9 $ (6 à 12 $ selon le fournisseur), plus environ 1,30 $ de frais de paiement.
-- **ROAS de rentabilité ≈ 1,45** (de 1,3 à 1,65 selon le coût réel). **CPA max ≈ 24 $, soit environ 22 €.**
-- À recalculer dès qu'on a le prix fournisseur livré DDP (S6) et si la livraison devient offerte (O6).
+- **ROAS de rentabilité ≈ 1,52 depuis le 28/10** (1,45 avant la livraison offerte ; de 1,3 à 1,8 selon le coût réel). **CPA max ≈ 20 $, soit environ 18 €.**
+- À recalculer dès qu'on a le prix fournisseur livré DDP (S6).
 
 ## Publicité
 - **Compte actuel :** agence Adscale Media (« EUR 1140 »), heure de Paris, en euros. 1 campagne, 1 adset broad US, 7 pubs (AD 1 à AD 7, noms à clarifier).
@@ -42,7 +43,7 @@
 | Statiques 1 à 4 | why-cream, 60-seconds, vs-injections, red-again | – |
 | Posts organiques 1 à 3 | pour la page Facebook | – |
 
-Soit **5 vidéos et 4 statiques**. Adam lance avec environ 25 créas (C1).
+Avec le lot 2 du 28/10 (3 UGC, 4 variantes d'accroche, 8 statiques de plus) : **12 vidéos et 12 statiques**, gardées pour le compte US. Adam lance avec environ 25 créas (C1).
 
 ## Sourcing
 Voir `playbook/06-sourcing-logistique.md` (S6) : produit Lakerain identifié, 5 points à vérifier sur échantillon, fournisseur et coût définitif à obtenir.

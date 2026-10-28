@@ -1,6 +1,6 @@
 # unlined : journal des chiffres
 
-Une ligne par jour, dans le fuseau du compte publicitaire. ROAS de rentabilité estimé : environ 1,45 (voir fiche marque).
+Une ligne par jour, dans le fuseau du compte publicitaire. ROAS de rentabilité estimé : environ 1,45 jusqu'au 28/10, environ 1,52 à partir du 29/10 avec la livraison offerte (voir fiche marque).
 Ancien compte en euros. Taux observé : 1 € ≈ 1,104 $ (31,24 € = 34,50 $).
 
 | Date | Compte | Dépense | Achats | CA | ROAS | CPA | CPM | CTR lien | CPC | Vues de page | Ajouts panier | Notes |
