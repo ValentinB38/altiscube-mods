@@ -5,6 +5,7 @@ Sources : AC = Adam Citron, NOUS = unlined.
 ## O1. La conversion vient du produit et de l'offre
 « Le taux de conversion, c'est avant tout le produit, et surtout l'offre marketing sur le site. » Son offre : un **BOGO**, comme la nôtre. (AC vidéo J7)
 « Un −30 % ou un prix barré, c'est une offre de merde. » Les vraies offres : 1 acheté = 1 offert, offres par quantité (2 achetés = 1 offert…), livraison offerte, cadeau. Aller voir sur TrendTrack ce que font les marques qui vendent le plus. (AC vidéo J30)
+Même constat dans un post X du 28/10 : les Américains sont « très friands » du 2 achetés = 1 offert et des bundles à prix dégressifs. Notre pack de 4 tubes n'est pas dégressif (14,95 $ le tube, comme le BOGO). **À tester** après les 3 premiers jours du compte US (T5) (voir `sources/conseils-x/post-us-2026-10-28.md`).
 Quand les KPI des créas sont bons, **tester l'offre et le prix passe avant tout le reste** : on surpondère le texte et les visuels de la page. (AC vidéo J14)
 **Désaccord, 8lab (28/10) :** une marque premium ne multiplie pas les bundles, elle place des produits complémentaires. On garde le BOGO au lancement (Adam passe avant, et c'est la norme du marché) ; à revoir quand la marque sera installée (voir `sources/conseils-x/8lab-2026-10-28.md`).
 
@@ -39,6 +40,7 @@ Les deux sont compatibles : il nichera après avoir trouvé la traction, et nous
 
 ## O9. Un panier moyen bas n'empêche pas de scaler
 « Il faut vendre au moins 50-60 $ sur Meta » : un mythe selon Adam, qui scale à environ 30-35 $ de panier. (AC vidéo J30)
+**Désaccord, post X du 28/10 :** « attaquer le marché US avec un AOV minimum de $60 ». Adam passe avant. Notre panier est à 29,90 $ ; ce qui le rapproche de 60 $ : le pack de 4 tubes et l'upsell (O4) (voir `sources/conseils-x/post-us-2026-10-28.md`).
 
 ## O10. Monter le panier moyen sans freiner la conversion
 - AfterSell : upsell après achat (O4).

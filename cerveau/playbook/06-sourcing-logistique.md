@@ -47,3 +47,6 @@ La franchise de minimis a pris fin en 2025 : toutes les importations sont taxée
 - 1 $ de moins par commande, à 10 000 commandes, c'est 10 000 $ par mois.
 - Les plateformes d'agents branchées à Shopify voient toutes tes ventes et peuvent copier tes produits. Préférer un agent recommandé.
 (AC vidéo J30)
+
+## S10. Taxe de vente US (sales tax)
+De 0 à 10 % selon l'État, à collecter seulement au-delà d'un seuil de ventes dans l'État (post X du 28/10 : 100 000 $). Bon sens, à vérifier : certains États comptent aussi un nombre de commandes, d'autres ont un seuil de 500 000 $ (Californie, Texas, New York). Shopify Tax suit les ventes par État. À faire confirmer par un comptable avant d'approcher ces montants (voir `sources/conseils-x/post-us-2026-10-28.md`).

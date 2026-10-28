@@ -19,6 +19,7 @@ Chez Adam, environ +20 à +40 % : 122 $ pour 100, 142 pour 120, 193 pour 150. Me
 - Le seul crash net : +50 % après une seule journée à ROAS 3. (AC J3, J6, J7, J8, J10)
 - Plus tard : avec un équilibre à 1,6, il monte de 10 à 20 % le lendemain d'une journée à ROAS 2,3-2,5, garde le budget autour de 2, et monterait beaucoup plus vite à 4. Monter le budget de 20 % par jour ne « dérègle » pas l'algo. (AC vidéos J14, J30)
 - Règle unlined : +20 % maximum, seulement après **2 jours de suite** au-dessus de l'équilibre + 0,3.
+- Post X du 28/10 : on peut avoir du mal à passer les premiers paliers aux US. Son auteur dit ne pas encore y avoir scalé ; Adam, lui, est passé à 10 k$/jour au J45 (voir `sources/conseils-x/post-us-2026-10-28.md`).
 
 ## M5. Ajouter des statiques vers J4-J5, dans un nouvel adset de la même CBO
 Dès que le produit montre de la traction. Les statiques retouchent les gens déjà exposés aux vidéos. Chez Adam : dès le premier jour, une seule statique a fait 4 ventes sur 13, et la campagne n'a plus dépendu d'une seule créa. Il regrette de ne pas l'avoir fait plus tôt. (AC J7, J8)
@@ -41,6 +42,7 @@ Lecture : notre CTR est meilleur que celui d'Adam, donc les créas accrochent. N
 
 ## M8. Un CPM élevé au départ est normal aux US
 Le CPM qui baisse à partir du jour 3 est le signe que Meta valide les créas. Le niveau dépend de la niche : Adam pense ne pas descendre sous 50 $. (AC vidéos J1 et J7)
+Post X du 28/10 : des CPM « aberrants » aux US, parce que la concurrence y est la plus forte au monde (voir `sources/conseils-x/post-us-2026-10-28.md`).
 @MurpazECOM (28/10) : « day 1 cpm is always ugly, meta is still figuring out who to show it to ». À nos 138 $ de CPM sans vente au J2, il répond « not the best » (voir `sources/conseils-x/`).
 
 ## M9. Ne jamais dépendre d'un seul BM ou d'une seule agence
@@ -91,3 +93,4 @@ On recoupe avec les UTM dans Shopify. Plus tard : Triple Whale Sonar (260 $/mois
 
 ## M19. Une fois que les US marchent : le Canada
 Dupliquer la CBO avec les meilleures vidéos et statiques. Chez Adam : ROAS 3,5 dès le premier jour et un CPM 2 fois moins cher, aidé par les données US du pixel. (AC vidéo J30)
+Autre canal évoqué, **à tester plus tard** : TikTok Shop aux US (post X du 28/10). À vérifier : conditions pour un vendeur établi hors des US, catégorie cosmétique, stock aux US (voir `sources/conseils-x/post-us-2026-10-28.md`).
