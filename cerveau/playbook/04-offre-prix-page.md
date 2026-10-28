@@ -50,3 +50,9 @@ Les deux sont compatibles : il nichera après avoir trouvé la traction, et nous
 - Les commentaires sous les pubs révèlent les variantes que les clientes demandent : il les a fait fabriquer.
 - Pour unlined : packaging au nom de la marque et retrait de la mention « lakerain » (S6).
 (AC vidéo J30)
+
+## O12. Garder une étape panier entre la fiche produit et le paiement
+- Le parcours d'Adam : pub, puis fiche produit, puis **panier** (avec upsells via Upcart), puis paiement. Il ne saute pas le panier. (AC vidéo J30)
+- NOUS, au 28/10 : le thème envoyait directement au paiement. Sur 3 clientes arrivées au paiement, **aucune n'a même saisi son email**, donc elles sont parties avant de voir les frais de port. Pour une cliente froide de plus de 55 ans venue de Facebook, tomber sur un formulaire de paiement juste après un clic est brutal.
+- Solution mise en place le 28/10 : un **panier tiroir**. Il s'ouvre sur la page et récapitule l'offre, l'économie, la livraison offerte et la garantie, avec un bouton « Checkout securely ».
+- Les emails de relance ne rattrapent que les clientes qui ont saisi leur email. Le tiroir agit avant.
