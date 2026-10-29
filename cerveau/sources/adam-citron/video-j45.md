@@ -29,9 +29,9 @@
 
 ### 2. L'ABO « testing » (US et Canada ensemble)
 - **1 adset par concept, en broad, à 30 $/jour.**
-- 2 vidéos maximum par adset, sur le même angle. Pour les statiques : 3 déclinaisons du même format (même style, texte ou angle différent).
+- 2 vidéos par adset (3 au maximum), sur le même angle ou concept. Pour les statiques : 3 déclinaisons du même format (même style, texte ou angle différent).
 - But : **forcer Meta à dépenser sur chaque créa**, ce qu'une CBO ne fait pas.
-- Les mêmes créas sont aussi dans la CBO scaling. Une créa qui marche en ABO finit souvent par dépenser en CBO : l'ABO « la met en lumière » pour l'algo.
+- Les mêmes créas sont aussi dans la CBO scaling, **ajoutées le même jour** (« même jour, deux destinations », sur son schéma). Une créa qui marche en ABO finit souvent par dépenser en CBO : l'ABO « la met en lumière » pour l'algo.
 - **Règles de coupe :**
   - à 24 h, zéro vente et KPI catastrophiques (CPM, CTR, CPC) : il coupe ;
   - à 24 h, une vente (sous l'équilibre) : il laisse 24 h de plus ;

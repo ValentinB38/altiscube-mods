@@ -79,12 +79,12 @@ Musique ajoutée, variantes IA, retouches automatiques… Adam : « tout ce que 
 (AC vidéos J14, J30, J45)
 
 ## M16. Structure de scale (seulement une fois qu'on a une créa gagnante et un ROAS stable)
-1. **CBO « scaling »** : la majorité du budget, un adset par lot de créas (15 à 25), vidéos et statiques séparées.
-2. **ABO « testing »** : 1 adset par concept à 30 $/jour, avec 2 vidéos du même angle ou 3 déclinaisons d'une même statique.
+1. **CBO « scaling »** : la majorité du budget, un adset par lot de créas (15 à 25, jusqu'à 30), vidéos et statiques séparées.
+2. **ABO « testing »** : 1 adset par concept à 30 $/jour, avec 2 vidéos du même angle ou concept (3 au maximum) ou 3 déclinaisons d'une même statique.
    - **Coupe :** à 24 h, zéro vente et KPI catastrophiques, on coupe ; une vente, on laisse 24 h de plus ; à 48 h, tout ce qui est sous l'équilibre est coupé.
    - **Budget :** ROAS stable au-dessus de 2,5 pendant 3 jours, on double. Mauvaise passe : 24 h de sursis, puis −50 %, puis on coupe.
-   - Les mêmes créas sont aussi ajoutées à la CBO scaling. L'ABO force la dépense et « montre » la créa à l'algo.
-3. **CBO « bid cap »** : les créas à plus de 15 % de marge, ajoutées chaque semaine. Enchère plafonnée à un CPA garantissant 15 % de marge. Elle dépense surtout le week-end, et c'est elle qui fait le meilleur ROAS.
+   - Les mêmes créas sont aussi ajoutées à la CBO scaling, **le même jour** : chaque nouvelle créa a deux destinations. L'ABO force la dépense et « montre » la créa à l'algo.
+3. **CBO « bid cap »** : chaque semaine, les meilleures créas de la CBO scaling (plus de 15 % de marge), 3 à 5 pubs par adset. Pas de budget à régler : elle dépense ce qu'elle trouve sous le plafond. Enchère plafonnée à un CPA garantissant 15 % de marge. Elle dépense surtout le week-end, et c'est elle qui fait le meilleur ROAS.
 (AC vidéo J45)
 
 ## M17. Le week-end comme accélérateur
