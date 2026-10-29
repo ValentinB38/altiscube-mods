@@ -28,7 +28,7 @@
 
 ## Publicité
 - **Compte actuel :** agence Adscale Media (« EUR 1140 »), heure de Paris, en euros. 1 campagne, 1 adset broad US, 7 pubs (AD 1 à AD 7, noms à clarifier).
-- **Nouveau compte demandé le 28/10 :** UTC-4, en USD, même BM, même pixel, même page. Il faut relancer une campagne neuve (voir `decisions.md`).
+- **Nouveau compte demandé le 28/10 :** UTC-4, en USD, même BM, même pixel, même page. Il faut relancer une campagne neuve (voir `decisions.md`). Attendu le 29/10 ; lancement du lot 2 prévu le 30/10 à 00:00 (New York).
 - Pixel neuf depuis le 26-27/10, page Facebook neuve.
 
 ## Créas disponibles (dans les livrables)
