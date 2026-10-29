@@ -6,5 +6,6 @@ Des réponses et des threads lus sur X, sans chiffres vérifiables derrière.
 | Fichier | Auteur | Sujet |
 |---|---|---|
 | `murpazecom-2026-10-28.md` | [@MurpazECOM](https://x.com/MurpazECOM) | CPM du premier jour, attendre 3 jours, rester en broad (réponse à Valentin) |
+| `valoriluca-2026-10-29.md` | [@ValoriLuca](https://x.com/ValoriLuca) | Tester en petites ABO, ne passer que les gagnantes en CBO (réponse à Valentin) |
 | `post-us-2026-10-28.md` | auteur à préciser | Le marché US : taxes, CPM, panier moyen, bundles, TikTok Shop |
 | `8lab-2026-10-28.md` | [@8labEcosystem](https://x.com/8labEcosystem) | Vendre un produit saturé : (branding + marketing + pricing) × produit |

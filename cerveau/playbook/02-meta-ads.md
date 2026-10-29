@@ -7,6 +7,7 @@ Sources : AC = Adam Citron, NOUS = nos constats unlined.
 - Environ 25 pubs : 5 adsets de 5 pubs dans sa vidéo J1, « 25 vidéos dedans » dans ses posts.
 - « Aujourd'hui, tu crées une CBO et tu mets tout dedans » : plus besoin de structures ABO compliquées. (AC vidéo J1, J2)
 - Son produit 3 (J16) : CBO à 100 $ avec **45 créas dès le premier jour, 30 vidéos et 15 statiques**. (AC J16)
+- **Désaccord, @ValoriLuca (29/10) :** tester d'abord en petites ABO, puis ne mettre que les gagnantes dans une CBO broad. On garde la CBO d'Adam pour le lancement ; sa variante est à tester avec M16 (voir `sources/conseils-x/valoriluca-2026-10-29.md`).
 - NOUS : on avait 7 pubs dans un seul adset. Meta n'en a diffusé que 2 (normal, voir M3), mais 7, c'est peu de choix.
 
 ## M2. Meta dépasse le budget
@@ -83,7 +84,7 @@ Musique ajoutée, variantes IA, retouches automatiques… Adam : « tout ce que 
 2. **ABO « testing »** : 1 adset par concept à 30 $/jour, avec 2 vidéos du même angle ou concept (3 au maximum) ou 3 déclinaisons d'une même statique.
    - **Coupe :** à 24 h, zéro vente et KPI catastrophiques, on coupe ; une vente, on laisse 24 h de plus ; à 48 h, tout ce qui est sous l'équilibre est coupé.
    - **Budget :** ROAS stable au-dessus de 2,5 pendant 3 jours, on double. Mauvaise passe : 24 h de sursis, puis −50 %, puis on coupe.
-   - Les mêmes créas sont aussi ajoutées à la CBO scaling, **le même jour** : chaque nouvelle créa a deux destinations. L'ABO force la dépense et « montre » la créa à l'algo.
+   - Les mêmes créas sont aussi ajoutées à la CBO scaling, **le même jour** : chaque nouvelle créa a deux destinations. **Variante à tester (@ValoriLuca, 29/10) :** ne passer en CBO que les gagnantes de l'ABO (voir `sources/conseils-x/valoriluca-2026-10-29.md`). L'ABO force la dépense et « montre » la créa à l'algo.
 3. **CBO « bid cap »** : chaque semaine, les meilleures créas de la CBO scaling (plus de 15 % de marge), 3 à 5 pubs par adset. Pas de budget à régler : elle dépense ce qu'elle trouve sous le plafond. Enchère plafonnée à un CPA garantissant 15 % de marge. Elle dépense surtout le week-end, et c'est elle qui fait le meilleur ROAS.
 (AC vidéo J45)
 
