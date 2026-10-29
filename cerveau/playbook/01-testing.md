@@ -21,6 +21,7 @@ Même conseil de @MurpazECOM le 28/10 : « give it 3 days before touching anythi
 À 100-150 $/jour, deux ou trois ventes de plus ou de moins font basculer la journée. Après une journée rouge, on ne touche à rien. Après deux journées rouges consécutives, on agit : nouvelle offre, nouveau prix, ou on coupe. (AC J4, J5)
 Même sur un produit qui marche, le CA peut faire −50 % ou +100 % d'un jour à l'autre sans aucun changement. **On juge la tendance sur 3 jours minimum, 7 dans l'idéal, et à la semaine.** (AC vidéos J14, J30)
 J12-J13 : ses deux produits s'inversent chaque jour (P1 à 2,4 et P2 à 1,6, puis l'inverse), et le taux de conversion aussi (J13 : beaucoup de paniers abandonnés, « juste de la variance » ; J14 : record). Lissé sur plusieurs jours, il reste positif. (AC J12-J14)
+**Testé chez unlined le 28/10 :** un export Meta pris vers 17 h (Paris) montrait 0 vente ; la journée US complète en a compté 3 sur Shopify. On ne juge une journée que sur un export de fin de journée, et avec un compte à l'heure de Paris, sur des cumuls de plusieurs jours (M11). (NOUS)
 J19-J20 : le P1 tombe à 1,7 (Meta ne dépense que 390 $ sur 500), puis remonte à 2,7 en 24 h sans toucher ni aux créas ni au budget. (AC J19, J20)
 
 ## T5. On ne touche à rien pendant les premiers jours
@@ -36,7 +37,7 @@ Ni le prix, ni le budget, ni les créas. Adam s'est contredit trois fois. La seu
 | Paiements commencés mais abandonnés | Frein au paiement (frais de port, moyen de paiement, confiance) | Vérifier le paiement, relance par email (R1) |
 | Ventes concentrées sur une tranche d'âge | Meta a trouvé l'avatar | Adapter la page et les créas (M6) |
 
-Repères de conversion d'Adam (J13) : P1, 20 % d'ajouts au panier et 7 % de conversion ; P2, 8 % et 2 %. unlined le 28/10 : 29 % d'ajouts au panier et 0 % de conversion, sur 14 visites. (AC J13, NOUS)
+Repères de conversion d'Adam (J13) : P1, 20 % d'ajouts au panier et 7 % de conversion ; P2, 8 % et 2 %. unlined (Shopify, UTC-4) : 5,7 % de conversion le 27/10 (2 commandes pour 35 visites), 7,3 % le 28/10 (3 pour 41). (AC J13, NOUS)
 
 ## T7. Le prix se décide sur le bénéfice, pas sur le ROAS
 Baisser le prix fait monter la conversion et le ROAS, mais peut faire baisser le bénéfice : jour 2 d'Adam, ROAS 1,83 mais 7 % de marge, contre ROAS 1,7 et 11 % la veille. On compare toujours le bénéfice en dollars. (AC J2)

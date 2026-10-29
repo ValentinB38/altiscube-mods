@@ -60,6 +60,7 @@ Pas d'advertorial ni de listicle au début : le produit, l'offre et les créas c
 
 ## M11. Le fuseau horaire du compte publicitaire décide de la journée
 Le budget repart à zéro à minuit dans le fuseau du compte. Un compte réglé sur Paris démarre la journée à 19 h à New York. Fuseau et devise ne se changent plus après la création du compte. Nouveau compte unlined : UTC-4, USD. (NOUS, 28/10)
+Shopify est réglé sur UTC-4 : tant que l'ancien compte (Paris) tourne, ses journées ne collent pas à celles de Shopify, donc on compare des cumuls sur plusieurs jours. (NOUS, 29/10)
 
 ## M12. Ne pas lancer en pleine journée
 Programmer le démarrage à 00:00 dans le fuseau du compte. Sinon, Meta tente de dépenser le budget du jour en quelques heures et le CPM grimpe. (NOUS, bon sens Meta, à confirmer)

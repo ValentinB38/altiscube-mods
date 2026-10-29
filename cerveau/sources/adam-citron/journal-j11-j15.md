@@ -30,5 +30,5 @@ Bénéfice = CA − pubs − COGS (produit + livraison) − frais de paiement. C
 
 ## Ce que ça change pour unlined
 1. **Notre cas ressemble à son P2 du J10 :** bon CTR, des ajouts au panier, pas d'achat. Il a changé le prix et l'offre, et le lendemain il était à ROAS 3 (O5). Nous avons changé l'offre le 28/10 (livraison offerte) et ajouté le panier tiroir : le 29/10 dira si ça suffit.
-2. **Repère de conversion (T6) :** chez lui, 20 % d'ajouts au panier et 7 % de conversion pour le P1, 8 % et 2 % pour le P2. Chez nous le 28/10 : 29 % d'ajouts au panier, 0 % de conversion (14 visites seulement).
+2. **Repère de conversion (T6) :** chez lui, 20 % d'ajouts au panier et 7 % de conversion pour le P1, 8 % et 2 % pour le P2. Chez nous (Shopify) : 5,7 % de conversion le 27/10 et 7,3 % le 28/10, au niveau de son P1.
 3. **Les nouvelles créas après 12-13 jours :** il est resté 12 jours sur ses 25 vidéos de lancement. Notre lot 2 (24 créas) couvre le lancement US ; le lot 3 sera à préparer pour environ J10 sur le compte US (C4, C9).
