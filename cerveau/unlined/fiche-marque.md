@@ -46,4 +46,6 @@
 Avec le lot 2 du 28/10 (3 UGC, 4 variantes d'accroche, 8 statiques de plus) : **12 vidéos et 12 statiques**, gardées pour le compte US. Adam lance avec environ 25 créas (C1).
 
 ## Sourcing
-Voir `playbook/06-sourcing-logistique.md` (S6) : produit Lakerain identifié, 5 points à vérifier sur échantillon, fournisseur et coût définitif à obtenir.
+- **Expédition :** un agent gère les commandes, SKU vérifiés le 29/10 (S9).
+- Coût réel par commande livrée DDP et échantillon : à obtenir (S6, S7, T11).
+- Détails : `playbook/06-sourcing-logistique.md` (S6), produit Lakerain identifié, 5 points à vérifier sur échantillon.

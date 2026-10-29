@@ -29,6 +29,7 @@ La franchise de minimis a pris fin en 2025 : toutes les importations sont taxée
   4. le nom « Line Smoother » est aussi utilisé par Laura Geller ;
   5. la marque « lakerain » imprimée sur le tube.
 - Fournisseur et coût unitaire réel livré DDP : **à obtenir**. Sans eux, notre ROAS de rentabilité reste une estimation.
+- **Expédition :** un agent expédie les commandes depuis le lancement. SKU vérifiés par Valentin le 29/10 (S9). À lui demander : le coût réel par commande livrée DDP pour 1, 2 et 4 tubes (S7), et des photos et vidéos du produit avant envoi (T11).
 
 ## S7. Les critères produit d'Adam, et notre point faible
 - Ses critères :

@@ -16,7 +16,7 @@ L'ancien compte Meta est à l'heure de Paris : sa journée commence à 19 h (UTC
 | Date (UTC-4) | Visites | Commandes | CA | Conversion | Panier moyen | Notes |
 |---|---|---|---|---|---|---|
 | 27/10 | 35 (déduit du +17 % du 28/10) | 2 | 69 $ | 5,7 % | 34,50 $ | port payant (4,60 $) |
-| 28/10 | 41 | **3** | 89,70 $ | **7,3 %** | 29,90 $ | 3 commandes à 29,90 $ pile, donc sans frais de port : passées après l'activation de la livraison offerte |
+| 28/10 | 41 | **3** | 89,70 $ | **7,3 %** | 29,90 $ | 3 commandes à 29,90 $ pile, donc sans frais de port : passées après l'activation de la livraison offerte. 3 vraies commandes clientes, aucun test (Valentin) |
 
 **Cumul Shopify 27-28/10 :** 5 commandes, 158,70 $ (≈ 144 €). ROAS provisoire au plus 0,83 (la dépense Meta après 17 h le 28/10 n'est pas comptée), sous l'équilibre de 1,45-1,52. À recalculer avec l'export Meta complet.
 
