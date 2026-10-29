@@ -28,7 +28,7 @@ Une campagne sur le nom de la boutique, qui ne coûte presque rien, pour ne pas 
 - NOUS : TrendTrack et One Radar sont branchés à Claude, utilisés pour Eline Paris et blooe.
 
 ## R8. Le contenu organique de la page
-2 à 3 posts non publicitaires sur la page Facebook, pour qu'elle ait l'air vivante et active (pratique répandue ; l'effet sur le CPM n'est pas prouvé). NOUS : 3 posts prêts dans `posts-organiques/`.
+2 à 3 posts non publicitaires sur la page Facebook, pour qu'elle ait l'air vivante et active (pratique répandue ; l'effet sur le CPM n'est pas prouvé). NOUS : posts 1 à 3 prêts le 27/10 (présentation, 4 conseils, « signature red »), posts 4 à 6 le 29/10 (idée reçue sur les rides, moment du quotidien, promesse 90 jours et livraison offerte), dans `posts-organiques/`. Pas de boost.
 
 ## R9. Les avis : un formulaire pour toutes, une invitation pour toutes
 - Le flow d'Adam, déclenché à la livraison : un email de conseils, puis un formulaire. Les mécontentes reçoivent une solution (brouillon préparé par Claude), et seules les contentes sont invitées sur Trustpilot.
