@@ -27,7 +27,7 @@
 - À recalculer dès qu'on a le prix fournisseur livré DDP (S6).
 
 ## Publicité
-- **Compte actuel :** agence Adscale Media (« EUR 1140 »), heure de Paris, en euros. 1 campagne, 1 adset broad US, 7 pubs (AD 1 à AD 7, noms à clarifier).
+- **Compte actuel :** agence Adscale Media (« EUR 1140 »), heure de Paris, en euros. 1 campagne, 1 adset broad US, 9 pubs : AD 7 = UGC non-smoker (cuisine), AD 8 = UGC barcode v2 (voiture), AD 9 = UGC Botox (salle de bain) ; AD 1 à AD 6 à clarifier. Tourne jusqu'à épuisement de son solde prépayé, non transférable vers le compte US (décision du 29/10).
 - **Nouveau compte demandé le 28/10 :** UTC-4, en USD, même BM, même pixel, même page. Il faut relancer une campagne neuve (voir `decisions.md`). Attendu le 29/10 ; lancement du lot 2 prévu le 30/10 à 00:00 (New York).
 - Pixel neuf depuis le 26-27/10, page Facebook neuve.
 
@@ -37,9 +37,9 @@
 |---|---|---|
 | Vidéo A « Why creams can't fix lip lines » | animée, voix off | 58 s |
 | Vidéo B « Before you book Botox » | animée, voix off | 44 s |
-| UGC « Non-smoker with smoker's lines? » | Seedance, cuisine | 30 s |
-| UGC « Barcode » v2 | Wan, voiture, voix Nora, rendu iPhone | 30 s |
-| UGC « Botox is dead » | Wan, salle de bain, voix Opal, rendu iPhone | 30 s |
+| UGC « Non-smoker with smoker's lines? » | Seedance, cuisine (AD 7 : ≈ 115 €, 0 vente au 29/10) | 30 s |
+| UGC « Barcode » v2 | Wan, voiture, voix Nora, rendu iPhone (AD 8 : 1 vente, CTR 8,8 %) | 30 s |
+| UGC « Botox is dead » | Wan, salle de bain, voix Opal, rendu iPhone (AD 9 : 2 ventes, ROAS 1,64) | 30 s |
 | Statiques 1 à 4 | why-cream, 60-seconds, vs-injections, red-again | – |
 | Posts organiques 1 à 3 | pour la page Facebook | – |
 

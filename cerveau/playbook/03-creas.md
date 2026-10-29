@@ -45,6 +45,8 @@ Le CPM baisse et le CTR tient. Chez Adam : CTR stable autour de 4 %, CPM divisé
 - **Variantes d'accroche gratuites** pour les vidéos animées : seul le bandeau du début change (`hook_variant.py` dans le dossier de production). Elles comptent comme des créas en plus pour Meta.
 - **Variantes de statiques gratuites** : même format, texte ou angle différent (M16).
 
+**Testé chez unlined le 28-29/10 (ancien compte) :** les 2 UGC Wan à rendu iPhone et voix ElevenLabs, ajoutées le 28/10, font les 3 ventes de la période : « Botox is dead » (salle de bain) 2 ventes et ROAS 1,64, « barcode » v2 (voiture) 1 vente et CTR 8,8 %. L'UGC Seedance non-smoker : ≈ 115 € sans vente depuis le 27/10. Petit échantillon : un premier signal pour la recette Wan et pour les angles Botox et barcode, à confirmer sur le compte US (C9). (NOUS)
+
 ## C7. Les accroches qui marchent chez les concurrents (Eline Paris, blooe)
 
 | Accroche | Portée | Où on en est |
