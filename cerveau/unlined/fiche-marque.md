@@ -28,7 +28,7 @@
 
 ## Publicité
 - **Compte actuel :** agence Adscale Media (« EUR 1140 »), heure de Paris, en euros. 1 campagne, 1 adset broad US, 9 pubs : AD 7 = UGC non-smoker (cuisine), AD 8 = UGC barcode v2 (voiture), AD 9 = UGC Botox (salle de bain) ; AD 1 à AD 6 à clarifier. Tourne jusqu'à épuisement de son solde prépayé, non transférable vers le compte US (décision du 29/10).
-- **Nouveau compte demandé le 28/10 :** UTC-4, en USD, même BM, même pixel, même page. Il faut relancer une campagne neuve (voir `decisions.md`). Ancien compte : 94 € de solde restant le 29/10. Compte US attendu le 29/10 ; lancement du lot 2 prévu le 30/10 à 00:00 (New York).
+- **Nouveau compte demandé le 28/10 :** UTC-4, en USD, même BM, même pixel, même page. Il faut relancer une campagne neuve (voir `decisions.md`). Ancien compte : 94 € de solde restant le 29/10. Compte US reçu le 29/10 ; campagne « US - CBO - Lot 2 » (CBO 100 $, 12 vidéos et 12 images) programmée le 30/10 à 00:00 (New York).
 - Pixel neuf depuis le 26-27/10, page Facebook neuve.
 
 ## Créas disponibles (dans les livrables)
@@ -37,9 +37,9 @@
 |---|---|---|
 | Vidéo A « Why creams can't fix lip lines » | animée, voix off | 58 s |
 | Vidéo B « Before you book Botox » | animée, voix off | 44 s |
-| UGC « Non-smoker with smoker's lines? » | Seedance, cuisine (AD 7 : ≈ 115 €, 0 vente au 29/10) | 30 s |
-| UGC « Barcode » v2 | Wan, voiture, voix Nora, rendu iPhone (AD 8 : 1 vente, CTR 8,8 %) | 30 s |
-| UGC « Botox is dead » | Wan, salle de bain, voix Opal, rendu iPhone (AD 9 : 2 ventes, ROAS 1,64) | 30 s |
+| UGC « Non-smoker with smoker's lines? » | Seedance, cuisine (AD 7 : 1re vente le 30/10, après ≈ 130-140 €) | 30 s |
+| UGC « Barcode » v2 | Wan, voiture, voix Nora, rendu iPhone (AD 8 : la meilleure vendeuse de l'ancien compte, 3 à 4 ventes selon les exports) | 30 s |
+| UGC « Botox is dead » | Wan, salle de bain, voix Opal, rendu iPhone (AD 9 : 2 ventes le 28/10, puis 0 le 29/10 pour 25,95 €) | 30 s |
 | Statiques 1 à 4 | why-cream, 60-seconds, vs-injections, red-again | – |
 | Posts organiques 1 à 6 | pour la page Facebook (4 à 6 ajoutés le 29/10) | – |
 

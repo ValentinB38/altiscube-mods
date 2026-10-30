@@ -62,6 +62,7 @@ Pas d'advertorial ni de listicle au début : le produit, l'offre et les créas c
 ## M11. Le fuseau horaire du compte publicitaire décide de la journée
 Le budget repart à zéro à minuit dans le fuseau du compte. Un compte réglé sur Paris démarre la journée à 19 h à New York. Fuseau et devise ne se changent plus après la création du compte. Nouveau compte unlined : UTC-4, USD. (NOUS, 28/10)
 Shopify est réglé sur UTC-4 : tant que l'ancien compte (Paris) tourne, ses journées ne collent pas à celles de Shopify, donc on compare des cumuls sur plusieurs jours. (NOUS, 29/10)
+Premier constat (à confirmer) : nos ventes tombent surtout le soir aux US. Le 30/10, de minuit à l'aube à Paris (19 h-minuit à New York) : ROAS 1,98 pour 27 €, contre 0,51 sur la journée du 29/10. (NOUS, 30/10)
 
 ## M12. Ne pas lancer en pleine journée
 Programmer le démarrage à 00:00 dans le fuseau du compte. Sinon, Meta tente de dépenser le budget du jour en quelques heures et le CPM grimpe. (NOUS, bon sens Meta, à confirmer)
@@ -77,6 +78,7 @@ Musique ajoutée, variantes IA, retouches automatiques… Adam : « tout ce que 
 - Les nouvelles créas vont toujours dans un **nouvel adset**, jamais dans un adset qui tourne.
 - On ne coupe jamais une créa dans une CBO : l'algo ne dépense pas sur une créa qui ne performe pas.
 - Pas de minimum de dépense par adset dans une CBO : testé puis retiré, « ne pas brider l'algo ».
+- **Testé chez unlined le 30/10 :** AD 7 (UGC non-smoker), sans vente pendant 3 jours pour environ 130-140 €, fait sa première vente. (NOUS)
 (AC vidéos J14, J30, J45)
 
 ## M16. Structure de scale (seulement une fois qu'on a une créa gagnante et un ROAS stable)
