@@ -1,0 +1,169 @@
+{%- comment -%}
+  Panier tiroir : après « Ajouter », la cliente reste sur la page et voit son panier (offre, livraison, garantie)
+  avant d'aller au paiement. Composant autonome (balisage, style et script) rendu une fois dans layout/theme.liquid.
+  Sans JavaScript, le formulaire garde son comportement normal (panier ou paiement).
+{%- endcomment -%}
+{%- if settings.cart_drawer != false -%}
+  {%- assign cdr_note = settings.cart_drawer_note | default: '✓ Free US shipping on every order' -%}
+  {%- assign cdr_trust = settings.cart_drawer_trust | default: '90-day money-back guarantee, even opened' -%}
+  <div class="cdr" data-cart-drawer data-currency="{{ cart.currency.iso_code }}" hidden>
+    <div class="cdr__overlay" data-cdr-close></div>
+    <aside class="cdr__panel" role="dialog" aria-modal="true" aria-labelledby="cdr-title">
+      <header class="cdr__head">
+        <p class="cdr__title" id="cdr-title">Your bag</p>
+        <button type="button" class="cdr__x" data-cdr-close aria-label="Close">&times;</button>
+      </header>
+      {%- if cdr_note != blank -%}<p class="cdr__note">{{ cdr_note }}</p>{%- endif -%}
+      <ul class="cdr__items" data-cdr-items></ul>
+      <footer class="cdr__foot">
+        <div class="cdr__row"><span>Subtotal</span><b data-cdr-total></b></div>
+        <div class="cdr__row cdr__save" data-cdr-save hidden><span>You save</span><b data-cdr-save-value></b></div>
+        <div class="cdr__row cdr__ship"><span>Shipping</span><b>{% if settings.cart_drawer_free_shipping != false %}FREE{% else %}Calculated at checkout{% endif %}</b></div>
+        <a href="{{ routes.root_url | append: '/checkout' | replace: '//', '/' }}" class="btn btn--xl btn--full cdr__go">Checkout securely</a>
+        {%- if cdr_trust != blank -%}<p class="cdr__trust">{{ cdr_trust }}</p>{%- endif -%}
+        <ul class="pay cdr__pay" aria-label="Payment methods">
+          {%- for type in shop.enabled_payment_types -%}
+            <li>{{ type | payment_type_svg_tag: class: 'pay__icon' }}</li>
+          {%- endfor -%}
+        </ul>
+      </footer>
+    </aside>
+  </div>
+
+  <style>
+    .cdr{position:fixed;inset:0;z-index:100}
+    .cdr__overlay{position:absolute;inset:0;background:rgba(20,10,12,.45);opacity:0;transition:opacity .25s ease}
+    .cdr__panel{position:absolute;top:0;right:0;height:100%;width:min(420px,100%);background:var(--bg);display:flex;flex-direction:column;transform:translateX(100%);transition:transform .25s ease;box-shadow:-20px 0 40px -20px rgba(0,0,0,.35)}
+    .cdr.is-open .cdr__overlay{opacity:1}
+    .cdr.is-open .cdr__panel{transform:none}
+    .cdr__head{display:flex;align-items:center;justify-content:space-between;padding:16px 20px;border-bottom:1px solid var(--border)}
+    .cdr__title{font-family:var(--font-heading);font-weight:700;font-size:22px;margin:0}
+    .cdr__x{background:none;border:0;font-size:32px;line-height:1;cursor:pointer;color:var(--text);padding:2px 8px}
+    .cdr__note{margin:0;padding:10px 20px;background:color-mix(in srgb,var(--success) 12%,var(--bg));color:var(--success);font-weight:700;font-size:14px;text-align:center}
+    .cdr__items{list-style:none;margin:0;padding:4px 20px;overflow:auto;flex:1}
+    .cdr__item{display:grid;grid-template-columns:72px 1fr auto;gap:14px;align-items:center;padding:14px 0;border-bottom:1px solid var(--border)}
+    .cdr__img{width:72px;height:72px;border-radius:12px;object-fit:cover;background:var(--surface);display:block}
+    .cdr__name{font-weight:700;font-size:15px;line-height:1.3}
+    .cdr__var{display:block;font-size:13px;color:var(--accent);font-weight:700;margin-top:2px}
+    .cdr__qty{display:inline-flex;align-items:center;border:1px solid var(--border);border-radius:999px;margin-top:8px}
+    .cdr__qty button{background:none;border:0;width:32px;height:30px;font-size:17px;cursor:pointer;color:var(--text)}
+    .cdr__qty span{min-width:22px;text-align:center;font-size:14px;font-weight:700}
+    .cdr__price{text-align:right;font-weight:800;white-space:nowrap}
+    .cdr__price s{display:block;font-weight:400;color:var(--muted);font-size:13px}
+    .cdr__empty{padding:48px 0;text-align:center;color:var(--muted)}
+    .cdr__foot{padding:14px 20px calc(16px + env(safe-area-inset-bottom));border-top:1px solid var(--border);background:var(--surface)}
+    .cdr__row{display:flex;justify-content:space-between;font-size:15px;margin-bottom:4px}
+    .cdr__save,.cdr__ship b{color:var(--accent);font-weight:700}
+    .cdr__go{margin-top:12px}
+    .cdr__trust{margin:10px 0 6px;text-align:center;font-size:13px;color:var(--muted)}
+    .cdr__pay{justify-content:center}
+    html.cdr-lock{overflow:hidden}
+    [data-atc].is-loading{opacity:.7;pointer-events:none}
+  </style>
+
+  <script>
+    (function () {
+      'use strict';
+      var drawer = document.querySelector('[data-cart-drawer]');
+      if (!drawer || !window.fetch || !window.FormData) return;
+      var root = (window.Shopify && Shopify.routes && Shopify.routes.root) || '/';
+      var currency = drawer.getAttribute('data-currency') || 'USD';
+      var list = drawer.querySelector('[data-cdr-items]');
+
+      function money(cents) {
+        try { return new Intl.NumberFormat(document.documentElement.lang || 'en-US', { style: 'currency', currency: currency }).format(cents / 100); }
+        catch (e) { return '$' + (cents / 100).toFixed(2); }
+      }
+      /* Prix barrés connus de la page produit (le panier Shopify ne les renvoie pas) */
+      function compares() {
+        var map = {};
+        document.querySelectorAll('[data-variants]').forEach(function (el) {
+          try { JSON.parse(el.textContent).forEach(function (v) { map[v.id] = v.compare; }); } catch (e) {}
+        });
+        return map;
+      }
+      function el(tag, cls, text) {
+        var n = document.createElement(tag);
+        if (cls) n.className = cls;
+        if (text != null) n.textContent = text;
+        return n;
+      }
+
+      function render(cart) {
+        var cmp = compares(), saved = 0;
+        list.textContent = '';
+        if (!cart.items.length) list.appendChild(el('li', 'cdr__empty', 'Your bag is empty.'));
+        cart.items.forEach(function (item) {
+          var li = el('li', 'cdr__item');
+          var img = el('img', 'cdr__img');
+          if (item.image) { img.src = item.image + (item.image.indexOf('?') > -1 ? '&' : '?') + 'width=160'; img.alt = item.product_title; }
+          li.appendChild(img);
+          var info = el('div');
+          info.appendChild(el('span', 'cdr__name', item.product_title));
+          if (item.variant_title && item.variant_title !== 'Default Title') info.appendChild(el('span', 'cdr__var', item.variant_title));
+          var qty = el('div', 'cdr__qty');
+          var minus = el('button', null, '−'); minus.type = 'button'; minus.setAttribute('aria-label', 'Remove one');
+          var plus = el('button', null, '+'); plus.type = 'button'; plus.setAttribute('aria-label', 'Add one');
+          minus.addEventListener('click', function () { change(item.key, item.quantity - 1); });
+          plus.addEventListener('click', function () { change(item.key, item.quantity + 1); });
+          qty.appendChild(minus); qty.appendChild(el('span', null, item.quantity)); qty.appendChild(plus);
+          info.appendChild(qty);
+          li.appendChild(info);
+          var price = el('div', 'cdr__price');
+          var c = cmp[item.variant_id];
+          if (c && c > item.final_price) {
+            saved += (c - item.final_price) * item.quantity;
+            price.appendChild(el('s', null, money(c * item.quantity)));
+          }
+          price.appendChild(document.createTextNode(money(item.final_line_price)));
+          li.appendChild(price);
+          list.appendChild(li);
+        });
+        drawer.querySelector('[data-cdr-total]').textContent = money(cart.total_price);
+        var save = drawer.querySelector('[data-cdr-save]');
+        save.hidden = saved <= 0;
+        drawer.querySelector('[data-cdr-save-value]').textContent = money(saved);
+        document.querySelectorAll('.hdr__count').forEach(function (n) { n.textContent = cart.item_count; n.hidden = !cart.item_count; });
+      }
+
+      function refresh() {
+        return fetch(root + 'cart.js', { headers: { Accept: 'application/json' } }).then(function (r) { return r.json(); }).then(render);
+      }
+      function change(key, quantity) {
+        return fetch(root + 'cart/change.js', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+          body: JSON.stringify({ id: key, quantity: Math.max(0, quantity) })
+        }).then(function (r) { return r.json(); }).then(render);
+      }
+      function open() {
+        drawer.hidden = false;
+        requestAnimationFrame(function () { drawer.classList.add('is-open'); });
+        document.documentElement.classList.add('cdr-lock');
+      }
+      function close() {
+        drawer.classList.remove('is-open');
+        document.documentElement.classList.remove('cdr-lock');
+        setTimeout(function () { drawer.hidden = true; }, 260);
+      }
+
+      document.querySelectorAll('form[action*="/cart/add"]').forEach(function (form) {
+        form.addEventListener('submit', function (e) {
+          e.preventDefault();
+          var btns = document.querySelectorAll('[data-atc]');
+          btns.forEach(function (b) { b.classList.add('is-loading'); });
+          fetch(root + 'cart/add.js', { method: 'POST', headers: { Accept: 'application/json' }, body: new FormData(form) })
+            .then(function (r) { if (!r.ok) throw new Error('add'); return r.json(); })
+            .then(refresh)
+            .then(function () { btns.forEach(function (b) { b.classList.remove('is-loading'); }); open(); })
+            .catch(function () { form.submit(); });
+        });
+      });
+      drawer.querySelectorAll('[data-cdr-close]').forEach(function (b) { b.addEventListener('click', close); });
+      document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && !drawer.hidden) close(); });
+      document.querySelectorAll('a[href$="/cart"]').forEach(function (a) {
+        a.addEventListener('click', function (e) { e.preventDefault(); refresh().then(open); });
+      });
+    })();
+  </script>
+{%- endif -%}
