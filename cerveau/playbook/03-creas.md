@@ -17,6 +17,7 @@ Plusieurs formats différents dans la même CBO. (AC vidéo J7)
 ## C4. Pour monter en budget, ajouter des vidéos
 Plus de budget = plus de créas nécessaires pour laisser du choix à Meta. (AC vidéo J7)
 J12 à J15 : après 12-13 jours sur les 25 vidéos du lancement, il ajoute de nouveaux formats et angles : 37 créas au J14 (27 vidéos, 10 images), puis 29 pour le P1 et 25 pour le P2 au J15. Les nouvelles vendent dès le premier jour (3 des 23 commandes du P1). « Plus je rajoute de créas dans les CBO, plus les performances montent. » (AC J12-J15)
+J26 à J30 : plus d'une semaine sans nouvelles créas sur le P1, alors il les fait passer avant le lancement du P4. Nouvel adset de 15 vidéos (J29), puis 40 vidéos et 20 statiques (J30). « Une seule créa fait la majorité des performances » : pour 5 000 à 10 000 $/jour, il faut d'autres gagnantes, donc d'autres angles et concepts (C9). (AC J26-J30)
 
 ## C5. Le signal qu'une créa est bonne
 Le CPM baisse et le CTR tient. Chez Adam : CTR stable autour de 4 %, CPM divisé par 2 en une semaine. (AC vidéo J7)
@@ -73,6 +74,7 @@ Toutes reposent sur la même idée : une ride de la lèvre est un creux, pas un 
 2. Claude propose des angles, **validés par un humain**, puis écrit le script (accroche, corps, appel à l'action).
 3. Voix ElevenLabs, puis montage à partir d'une banque de plans. Chez nous, les plans sont uniquement générés par IA ou tournés : jamais ceux d'un concurrent.
 4. Raisonner en système : itérer sur 2-3 vidéos jusqu'à un rendu propre, puis en faire un workflow qui en sort des dizaines (Claude Code branché à Seedance et Google Omni). Une centaine de pubs en 2 jours, seul. (AC J12, J15)
+5. Au J29, son temps devient le goulot (10 à 14 h par jour) : il prévoit d'embaucher un monteur vidéo. (AC J29)
 (AC vidéo J30)
 
 ## C8. Ce qu'on ne met jamais dans une créa

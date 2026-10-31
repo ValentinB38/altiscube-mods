@@ -46,6 +46,7 @@ Au J16, 20 commandes parties dans la mauvaise variante : il s'excuse, renvoie gr
 - Modérer les commentaires et y répondre, car c'est public : la preuve sociale et une page qui répond rassurent.
 - Meta interroge les acheteuses, et les BM, comptes publicitaires et pages ont une note. Des clientes mécontentes font baisser les performances, voire mènent au ban.
 (AC vidéo J30)
+- Au J28, avec le volume : process et automatisations du SAV, gestion du stock avec l'agent, modération des commentaires sous les pubs Facebook et Instagram. (AC J28)
 
 ## R13. La trésorerie
 - Shopify Payments verse l'argent à J+5 ouvrés, alors que Meta et le fournisseur se paient tout de suite. Quand on scale, la trésorerie se tend.

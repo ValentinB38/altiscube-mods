@@ -12,7 +12,7 @@ Sources : AC = Adam Citron, NOUS = nos constats unlined.
 
 ## M2. Meta dépasse le budget
 Chez Adam, environ +20 à +40 % : 122 $ pour 100, 142 pour 120, 193 pour 150. Meta peut aller jusqu'à +75 % sur une journée, sans dépasser 7 fois le budget journalier sur la semaine. Ce n'est pas un bug, c'est le signal que Meta voit des acheteurs. (AC J2, J3, J6)
-L'inverse arrive aussi : au J12, Meta dépense moins que le budget (pas assez de trafic qualifié), puis au J13 presque 100 $ de plus que la veille. Au J19, encore : 390 $ dépensés sur 500. (AC J12, J13, J19)
+L'inverse arrive aussi : au J12, Meta dépense moins que le budget (pas assez de trafic qualifié), puis au J13 presque 100 $ de plus que la veille. Au J19, encore : 390 $ dépensés sur 500. J21 à J26 : 550 $ sur 600, puis 660 $ sur 600, puis 169 $ sur 200. (AC J12-J26)
 
 ## M3. Meta met tout sur une seule créa, et c'est normal
 95 % du budget sur une vidéo, et toutes les ventes en viennent. On ne coupe pas les autres parce qu'elles n'ont rien reçu : plus le budget monte, plus Meta les teste. (AC J6, vidéo J7)
@@ -23,6 +23,7 @@ L'inverse arrive aussi : au J12, Meta dépense moins que le budget (pas assez de
 - Plus tard : avec un équilibre à 1,6, il monte de 10 à 20 % le lendemain d'une journée à ROAS 2,3-2,5, garde le budget autour de 2, et monterait beaucoup plus vite à 4. Monter le budget de 20 % par jour ne « dérègle » pas l'algo. (AC vidéos J14, J30)
 - J11 à J15 : P2 de 100 à 120 $ « progressivement, pas comme la première fois » ; puis +10 à 20 % par jour sur les deux CBO ; au J15, +21 % (350 → 425 $) après une journée à ROAS 2,5, parce qu'il venait d'ajouter beaucoup de créas. (AC J11, J14, J15)
 - J18 à J20 : chaque produit a son rythme. P1 : +10 à 20 % par jour tant que le ROAS reste bien au-dessus de 2. P2 : plus doucement, son ROAS a du mal à décoller. P3 : reste à 100 $ jusqu'à 2 jours au-dessus de 2, puis +20 % et +25 %. (AC J18-J20)
+- J23 à J30 : les hausses rapides cassent encore. P3 monté à 250 $ « peut-être un peu tôt » : 1,26 puis 0,54, redescendu à 150 puis 100 $. Canada doublé dès le 2e jour : 3, puis 4,11, puis 1,36 au J30. Avec un P1 « autour de 2 » pour un équilibre à 1,6, « pas vraiment de marge pour scaler ». Au J28, journée qui démarre très fort : budgets montés en cours de journée (M17). (AC J23-J30)
 - Règle unlined : +20 % maximum, seulement après **2 jours de suite** au-dessus de l'équilibre + 0,3.
 - Post X du 28/10 : on peut avoir du mal à passer les premiers paliers aux US. Son auteur dit ne pas encore y avoir scalé ; Adam, lui, est passé à 10 k$/jour au J45 (voir `sources/conseils-x/post-us-2026-10-28.md`).
 
@@ -102,4 +103,5 @@ On recoupe avec les UTM dans Shopify. Plus tard : Triple Whale Sonar (260 $/mois
 
 ## M19. Une fois que les US marchent : le Canada
 Dupliquer la CBO avec les meilleures vidéos et statiques. Chez Adam : ROAS 3,5 dès le premier jour et un CPM 2 fois moins cher, aidé par les données US du pixel. (AC vidéo J30)
+Détail (J24-J30) : CBO à 100 $ avec 18 vidéos et 14 statiques, celles qui avaient le plus dépensé aux US. J1 : 109 $ dépensés, 380 $ de CA, CPM 40 $ contre 50 $ aux US. Puis 3 et 4,11, et une première perte (1,36) au J30 après un scale rapide. (AC J24-J30)
 Autre canal évoqué, **à tester plus tard** : TikTok Shop aux US (post X du 28/10). À vérifier : conditions pour un vendeur établi hors des US, catégorie cosmétique, stock aux US (voir `sources/conseils-x/post-us-2026-10-28.md`).

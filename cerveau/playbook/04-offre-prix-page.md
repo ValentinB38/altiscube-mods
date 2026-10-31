@@ -31,6 +31,8 @@ Mais un changement d'offre peut ne pas tenir : au J20, le P2 retombe à 0,64 ave
 ## O6. Le poids du colis décide de l'offre possible
 Ce sont souvent les frais de livraison qui rendent une bonne offre possible ou non. (AC J5)
 NOUS : un tube pèse peu, donc la livraison offerte sur le BOGO est réaliste. C'est notre piste n°1 contre les paiements abandonnés, car le port d'environ 4,60 $ apparaît au moment de payer.
+**Testé chez unlined le 28/10 :** livraison offerte activée ; les commandes du 28 et du 29/10 (3 par jour) sont toutes à 29,90 $, sans port. (NOUS)
+Adam, J22-J23 : son P3, moins cher, avait 10 $ de port : 26 % d'ajouts au panier mais 8 % de conversion. Port baissé à 7 $ : **17 % de conversion et ROAS de 1,73 à 2,64 en 24 h**, « la hausse de conversion compense totalement les 3 $ perdus ». (AC J22, J23)
 
 ## O7. Les pourboires au paiement
 Adam encaisse de 1 à 10 $ de « tips » par jour, grâce à l'option de pourboire au paiement de Shopify. C'est marginal, à tester plus tard. (AC J3, J4, J9, J10)
@@ -55,7 +57,7 @@ Les deux sont compatibles : il nichera après avoir trouvé la traction, et nous
 ## O11. Une fois la traction confirmée : packaging et variantes
 - Un packaging personnalisé avec le logo fait monter la valeur perçue.
 - Les commentaires sous les pubs révèlent les variantes que les clientes demandent : il les a fait fabriquer.
-- Au J20, des clientes demandent sous ses pubs une variante qu'il n'a pas : il demande tout de suite à l'usine si elle peut la produire. (AC J20)
+- Au J20, des clientes demandent sous ses pubs une variante qu'il n'a pas : il demande tout de suite à l'usine si elle peut la produire. Au J21, l'usine accepte avec un MOQ raisonnable : production lancée. Il demande aussi un devis de packaging personnalisé, car le volume monte. (AC J20, J21)
 - Pour unlined : packaging au nom de la marque et retrait de la mention « lakerain » (S6).
 (AC vidéo J30)
 

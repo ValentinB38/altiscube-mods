@@ -23,6 +23,7 @@ Même sur un produit qui marche, le CA peut faire −50 % ou +100 % d'un jour à
 J12-J13 : ses deux produits s'inversent chaque jour (P1 à 2,4 et P2 à 1,6, puis l'inverse), et le taux de conversion aussi (J13 : beaucoup de paniers abandonnés, « juste de la variance » ; J14 : record). Lissé sur plusieurs jours, il reste positif. (AC J12-J14)
 **Testé chez unlined le 28/10 :** un export Meta pris vers 17 h (Paris) montrait 0 vente ; la journée US complète en a compté 3 sur Shopify. On ne juge une journée que sur un export de fin de journée, et avec un compte à l'heure de Paris, sur des cumuls de plusieurs jours (M11). (NOUS)
 J19-J20 : le P1 tombe à 1,7 (Meta ne dépense que 390 $ sur 500), puis remonte à 2,7 en 24 h sans toucher ni aux créas ni au budget. (AC J19, J20)
+J24-J30 : première journée en perte après 20 jours (−23 $), puis 1 092 $ de bénéfice au J28 et 84 $ au J30. Son P3 passe de 2,64 à 0,54 en 2 jours sans rien changer, puis remonte à 2,67. « Pas de décision irrationnelle sur une journée. » (AC J24-J30)
 
 ## T5. On ne touche à rien pendant les premiers jours
 Ni le prix, ni le budget, ni les créas. Adam s'est contredit trois fois. La seule erreur nette : monter le budget de 50 % après **une seule** bonne journée (produit 2 : ROAS 3 puis 0,56). (AC J2, J3, J10)
@@ -35,6 +36,7 @@ Ni le prix, ni le budget, ni les créas. Adam s'est contredit trois fois. La seu
 | Bon CTR, CPC bas, beaucoup de visites, peu de ventes | La page, le prix ou l'offre ne convertit pas | Changer l'offre ou le prix, pas les créas (AC J10) |
 | CTR faible, CPC élevé | Les créas n'accrochent pas | Nouvelles accroches, nouveaux angles |
 | Paiements commencés mais abandonnés | Frein au paiement (frais de port, moyen de paiement, confiance) | Vérifier le paiement, relance par email (R1) |
+| Beaucoup d'ajouts au panier, peu d'achats | Souvent les frais de port | Baisser ou offrir le port (O6) : le P3 d'Adam passe de 8 à 17 % de conversion avec 3 $ de port en moins |
 | Ventes concentrées sur une tranche d'âge | Meta a trouvé l'avatar | Adapter la page et les créas (M6) |
 
 Repères de conversion d'Adam (J13) : P1, 20 % d'ajouts au panier et 7 % de conversion ; P2, 8 % et 2 %. unlined (Shopify, UTC-4) : 5,7 % de conversion le 27/10 (2 commandes pour 35 visites), 7,3 % le 28/10 (3 pour 41). (AC J13, NOUS)
@@ -55,6 +57,7 @@ Adam vise 15 % de marge, 20-25 % dans l'idéal, avant coûts fixes. Au J14 : « 
 ## T11. Vérifier la qualité du produit avant de grossir
 Son produit 2 a été coupé pour un défaut découvert par les plaintes clientes environ 2 semaines après les premières ventes, à cause du délai de livraison. Scaler trop vite pendant ces 2 semaines, c'est risquer des remboursements, des rétrofacturations et un Shopify Payments qui saute. **Commander et tester un échantillon avant de monter le budget.** (AC vidéo J30)
 Au J16, il renforce le contrôle qualité : l'agent juge la qualité, puis Adam demande des photos et des vidéos sous plusieurs angles avant d'expédier. Les agents en Chine privilégient souvent le coût bas, alors que monter la qualité coûte en général peu. (AC J16)
+**Au J24, ça n'a pas suffi :** défaut de qualité sur le P2 malgré les photos et vidéos de l'agent, faute d'avoir reçu un exemplaire chez lui. Remboursements, puis P2 coupé. En dropshipping depuis la Chine, on ne fait pas renvoyer le colis : la cliente le garde et on rembourse. (AC J24, J29)
 8lab (28/10) dit pareil avec sa formule « (branding + marketing + pricing) × produit » : si le produit vaut zéro, tout tombe à zéro (voir `sources/conseils-x/8lab-2026-10-28.md`).
 
 ## T12. Le budget de départ
