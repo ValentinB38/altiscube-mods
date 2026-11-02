@@ -21,6 +21,7 @@ Ancien compte en euros. Taux observé : 1 € ≈ 1,104 $ (31,24 € = 34,50 $).
 | 01/11 | Compte US n°2 (agence) | **0 $** | Lancé à 9 h (Paris), resté « Preparing ». Campagne dupliquée le 01/11 : 0 $ aussi. |
 
 Du 31/10 au 01/11 (jours 5 et 6), aucune pub ne diffuse : le solde de l'ancien compte est épuisé et les comptes US ne dépensent pas.
+**Cause trouvée le 02/11 : aucun argent n'avait été mis sur le compte US (compte prépayé).** La page n'était pas en cause (vérifié avec l'agence). Voir M20.
 
 ### Ventes Shopify (fuseau UTC-4, réglé par Valentin)
 L'ancien compte Meta est à l'heure de Paris : sa journée commence à 19 h (UTC-4) la veille. Les deux journées ne se recouvrent qu'en partie, donc on compare des cumuls sur plusieurs jours.

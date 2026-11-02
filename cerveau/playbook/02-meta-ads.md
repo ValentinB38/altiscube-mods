@@ -102,6 +102,9 @@ Musique ajoutée, variantes IA, retouches automatiques… Adam : « tout ce que 
 ## M18. Meta surestime le ROAS
 On recoupe avec les UTM dans Shopify. Plus tard : Triple Whale Sonar (260 $/mois) pour mieux remonter les données à Meta, car le pixel de base est limité. (AC vidéos J30, J45)
 
+## M20. Compte prépayé : mettre de l'argent avant de lancer
+Un compte publicitaire d'agence prépayé sans fonds affiche des pubs « Active », approuvées, avec une limite de dépense intacte, et dépense 0 $ sans message clair. **La limite de dépense est un plafond, pas de l'argent.** Avant chaque lancement : vérifier les fonds disponibles et en mettre assez pour tout le test sans interruption (3 jours à 100 $, plus les 20 à 40 % que Meta dépense en plus, M2 : environ 400 $). Recharger avant d'arriver à zéro : un compte vide coupe la diffusion en plein test. (NOUS, 02/11 : 4 jours perdus sur deux comptes US non approvisionnés)
+
 ## M19. Une fois que les US marchent : le Canada
 Dupliquer la CBO avec les meilleures vidéos et statiques. Chez Adam : ROAS 3,5 dès le premier jour et un CPM 2 fois moins cher, aidé par les données US du pixel. (AC vidéo J30)
 Détail (J24-J30) : CBO à 100 $ avec 18 vidéos et 14 statiques, celles qui avaient le plus dépensé aux US. J1 : 109 $ dépensés, 380 $ de CA, CPM 40 $ contre 50 $ aux US. Puis 3 et 4,11, et une première perte (1,36) au J30 après un scale rapide. (AC J24-J30)
