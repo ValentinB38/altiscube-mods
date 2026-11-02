@@ -13,6 +13,15 @@ Ancien compte en euros. Taux observé : 1 € ≈ 1,104 $ (31,24 € = 34,50 $).
 
 **Cumul Meta du 27/10 au 29/10 9 h (Paris) :** 291,30 € dépensés, 5 achats, 143,26 € de CA, **ROAS 0,49**, CPA 58 € (≈ 64 $) pour un CPA max d'environ 18 € (20 $).
 
+### Comptes US (USD, heure de New York)
+
+| Date | Compte | Dépense | Notes |
+|---|---|---|---|
+| 29/10 → 30/10 | Compte US n°1 (agence) | **0 $** | Campagne « Active », pubs approuvées, enchère « volume le plus élevé », limite de 400 $ intacte, aucune diffusion. Remplacé par l'agence le 31/10. |
+| 01/11 | Compte US n°2 (agence) | **0 $** | Lancé à 9 h (Paris), resté « Preparing ». Campagne dupliquée le 01/11 : 0 $ aussi. |
+
+Du 31/10 au 01/11 (jours 5 et 6), aucune pub ne diffuse : le solde de l'ancien compte est épuisé et les comptes US ne dépensent pas.
+
 ### Ventes Shopify (fuseau UTC-4, réglé par Valentin)
 L'ancien compte Meta est à l'heure de Paris : sa journée commence à 19 h (UTC-4) la veille. Les deux journées ne se recouvrent qu'en partie, donc on compare des cumuls sur plusieurs jours.
 
