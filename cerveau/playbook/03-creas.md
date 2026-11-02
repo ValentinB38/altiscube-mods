@@ -18,6 +18,7 @@ Plusieurs formats différents dans la même CBO. (AC vidéo J7)
 Plus de budget = plus de créas nécessaires pour laisser du choix à Meta. (AC vidéo J7)
 J12 à J15 : après 12-13 jours sur les 25 vidéos du lancement, il ajoute de nouveaux formats et angles : 37 créas au J14 (27 vidéos, 10 images), puis 29 pour le P1 et 25 pour le P2 au J15. Les nouvelles vendent dès le premier jour (3 des 23 commandes du P1). « Plus je rajoute de créas dans les CBO, plus les performances montent. » (AC J12-J15)
 J26 à J30 : plus d'une semaine sans nouvelles créas sur le P1, alors il les fait passer avant le lancement du P4. Nouvel adset de 15 vidéos (J29), puis 40 vidéos et 20 statiques (J30). « Une seule créa fait la majorité des performances » : pour 5 000 à 10 000 $/jour, il faut d'autres gagnantes, donc d'autres angles et concepts (C9). (AC J26-J30)
+J41 : à 4 000 $ de pub par jour, la fatigue d'une créa unique devient un vrai risque. Son plan : déclinaisons de la gagnante, angles et sous-avatars radicalement différents, et plus de statiques (rapides à décliner, très bons ROAS en bid cap). (AC J41) (voir `sources/adam-citron/journal-j31-j44.md`)
 
 ## C5. Le signal qu'une créa est bonne
 Le CPM baisse et le CTR tient. Chez Adam : CTR stable autour de 4 %, CPM divisé par 2 en une semaine. (AC vidéo J7)

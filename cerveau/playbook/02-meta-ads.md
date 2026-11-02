@@ -16,6 +16,7 @@ L'inverse arrive aussi : au J12, Meta dépense moins que le budget (pas assez de
 
 ## M3. Meta met tout sur une seule créa, et c'est normal
 95 % du budget sur une vidéo, et toutes les ventes en viennent. On ne coupe pas les autres parce qu'elles n'ont rien reçu : plus le budget monte, plus Meta les teste. (AC J6, vidéo J7)
+**Limite (J31) :** avec 250 pubs pour 500 $ par jour, Meta ne dépense que sur une cinquantaine et ne teste jamais les nouvelles. D'où l'ABO testing à part (M16). (AC J31)
 
 ## M4. Monter le budget par paliers, jamais après une seule bonne journée
 - Adam : 100 → 120 → 150 → 200 → 250, soit +20 à +33 % à chaque fois, tant que le ROAS reste nettement au-dessus de l'équilibre (il visait plus de 2 pour un équilibre à 1,6).
@@ -24,6 +25,7 @@ L'inverse arrive aussi : au J12, Meta dépense moins que le budget (pas assez de
 - J11 à J15 : P2 de 100 à 120 $ « progressivement, pas comme la première fois » ; puis +10 à 20 % par jour sur les deux CBO ; au J15, +21 % (350 → 425 $) après une journée à ROAS 2,5, parce qu'il venait d'ajouter beaucoup de créas. (AC J11, J14, J15)
 - J18 à J20 : chaque produit a son rythme. P1 : +10 à 20 % par jour tant que le ROAS reste bien au-dessus de 2. P2 : plus doucement, son ROAS a du mal à décoller. P3 : reste à 100 $ jusqu'à 2 jours au-dessus de 2, puis +20 % et +25 %. (AC J18-J20)
 - J23 à J30 : les hausses rapides cassent encore. P3 monté à 250 $ « peut-être un peu tôt » : 1,26 puis 0,54, redescendu à 150 puis 100 $. Canada doublé dès le 2e jour : 3, puis 4,11, puis 1,36 au J30. Avec un P1 « autour de 2 » pour un équilibre à 1,6, « pas vraiment de marge pour scaler ». Au J28, journée qui démarre très fort : budgets montés en cours de journée (M17). (AC J23-J30)
+- J42 : pour la première fois, il **baisse** ses CBO de scaling : « je veux les revoir à 2,5 avant de réaugmenter ». (AC J42)
 - Règle unlined : +20 % maximum, seulement après **2 jours de suite** au-dessus de l'équilibre + 0,3.
 - Post X du 28/10 : on peut avoir du mal à passer les premiers paliers aux US. Son auteur dit ne pas encore y avoir scalé ; Adam, lui, est passé à 10 k$/jour au J45 (voir `sources/conseils-x/post-us-2026-10-28.md`).
 
@@ -48,6 +50,7 @@ Lecture : notre CTR est meilleur que celui d'Adam, donc les créas accrochent. N
 
 ## M8. Un CPM élevé au départ est normal aux US
 Le CPM qui baisse à partir du jour 3 est le signe que Meta valide les créas. Le niveau dépend de la niche : Adam pense ne pas descendre sous 50 $. (AC vidéos J1 et J7)
+**Sa théorie du « trust score » (J35, à confirmer) :** un compte neuf reçoit d'abord un trafic moyen et cher ; plus il dépense, plus sa note cachée monte et plus le trafic s'améliore (CPM de 100 $ au J1, sous 50 $ un mois plus tard). Et un CPM élevé ne condamne pas une créa : son meilleur adset ABO avait le pire CPM (130 $ contre 43 $ dans la CBO). (AC J32, J35) (voir `sources/adam-citron/journal-j31-j44.md`)
 Au J20, le CPM du P1 est à 44 $ et continue de baisser. Son P3 démarre à 65 $, contre 100 $ pour le P1 : le pixel et le compte ont mûri. (AC J17, J20)
 Post X du 28/10 : des CPM « aberrants » aux US, parce que la concurrence y est la plus forte au monde (voir `sources/conseils-x/post-us-2026-10-28.md`).
 @MurpazECOM (28/10) : « day 1 cpm is always ugly, meta is still figuring out who to show it to ». À nos 138 $ de CPM sans vente au J2, il répond « not the best » (voir `sources/conseils-x/`).
@@ -79,7 +82,8 @@ Musique ajoutée, variantes IA, retouches automatiques… Adam : « tout ce que 
 ## M15. Les règles de manipulation
 - Les nouvelles créas vont toujours dans un **nouvel adset**, jamais dans un adset qui tourne.
 - On ne coupe jamais une créa dans une CBO : l'algo ne dépense pas sur une créa qui ne performe pas.
-- Pas de minimum de dépense par adset dans une CBO : testé puis retiré, « ne pas brider l'algo ».
+- Pas de minimum de dépense par adset dans une CBO : testé puis retiré, « ne pas brider l'algo ». Le test : au J37, 9 gagnantes de l'ABO dans un nouvel adset avec 10 % minimum ; Meta a dépensé moins que ça, mais à un ROAS proche de 4. (AC J37, J38)
+- Une créa sous l'équilibre qui prend beaucoup de budget dans la CBO peut être celle qui « ouvre » les ventes que d'autres concluent : la couper peut faire s'écrouler le compte. On juge la CBO dans son ensemble. (AC J36)
 - **Testé chez unlined le 30/10 :** AD 7 (UGC non-smoker), sans vente pendant 3 jours pour environ 130-140 €, fait sa première vente. (NOUS)
 (AC vidéos J14, J30, J45)
 
@@ -89,7 +93,8 @@ Musique ajoutée, variantes IA, retouches automatiques… Adam : « tout ce que 
    - **Coupe :** à 24 h, zéro vente et KPI catastrophiques, on coupe ; une vente, on laisse 24 h de plus ; à 48 h, tout ce qui est sous l'équilibre est coupé.
    - **Budget :** ROAS stable au-dessus de 2,5 pendant 3 jours, on double. Mauvaise passe : 24 h de sursis, puis −50 %, puis on coupe.
    - Les mêmes créas sont aussi ajoutées à la CBO scaling, **le même jour** : chaque nouvelle créa a deux destinations. **Variante à tester (@ValoriLuca, 29/10) :** ne passer en CBO que les gagnantes de l'ABO (voir `sources/conseils-x/valoriluca-2026-10-29.md`). L'ABO force la dépense et « montre » la créa à l'algo.
-3. **CBO « bid cap »** : chaque semaine, les meilleures créas de la CBO scaling (plus de 15 % de marge), 3 à 5 pubs par adset. Pas de budget à régler : elle dépense ce qu'elle trouve sous le plafond. Enchère plafonnée à un CPA garantissant 15 % de marge. Elle dépense surtout le week-end, et c'est elle qui fait le meilleur ROAS.
+   - **Chronologie (J31 à J44) :** ABO lancée au J31 avec les créas qui avaient reçu moins de 1 $ dans la CBO ; 5 pubs par adset, c'était trop (une seule dépensait), passé à 3 au J34, puis 2 ; bilan à 3 jours et coupe de ce qui est sous l'équilibre ; au J43, 35 % du budget en test faisait tomber la marge à 11 %. (AC J31-J44) (voir `sources/adam-citron/journal-j31-j44.md`)
+3. **CBO « bid cap »** : chaque semaine, les meilleures créas de la CBO scaling (plus de 15 % de marge), 3 à 5 pubs par adset. Pas de budget à régler : elle dépense ce qu'elle trouve sous le plafond. Enchère plafonnée à un CPA garantissant 15 % de marge. Elle dépense surtout le week-end, et c'est elle qui fait le meilleur ROAS. Lancée au J39 avec ses 14 meilleures créas (10 vidéos, 4 statiques, toutes à 2,5 minimum), CPA max à 20 % de marge, +1 $ si elle ne dépense pas en 24 h (3 ou 4 fois au plus). J40 : partie tout de suite (32 ventes au CPA cible) ; du lundi au jeudi suivants, presque plus rien. (AC J39-J44)
 (AC vidéo J45)
 
 ## M17. Le week-end comme accélérateur
@@ -97,6 +102,7 @@ Musique ajoutée, variantes IA, retouches automatiques… Adam : « tout ce que 
 - **Vendredi soir :** monter le budget.
 - **Samedi et dimanche :** augmenter en cours de journée si le ROAS dépasse 2,5 vers 10-11 h puis vers 13-14 h à New York (+10 à 20 % chaque fois).
 - **Dimanche après minuit (heure de New York) :** redescendre, mais moins bas que la semaine précédente.
+- Vécu : J40 et J41 (week-end) à 9 459 et 10 223 $, puis −35 % le lundi (J42) ; ses bid caps ne dépensent que le week-end. « Aux US, les perfs sont toujours meilleures le samedi et le dimanche. » (AC J40-J44)
 (AC vidéo J45)
 
 ## M18. Meta surestime le ROAS

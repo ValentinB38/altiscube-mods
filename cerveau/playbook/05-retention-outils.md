@@ -32,7 +32,7 @@ Une campagne sur le nom de la boutique, qui ne coûte presque rien, pour ne pas 
 
 ## R9. Les avis : un formulaire pour toutes, une invitation pour toutes
 - Le flow d'Adam, déclenché à la livraison : un email de conseils, puis un formulaire. Les mécontentes reçoivent une solution (brouillon préparé par Claude), et seules les contentes sont invitées sur Trustpilot.
-- **Chez nous :** le formulaire et la résolution des problèmes, oui. Mais l'invitation à laisser un avis va à **toutes** les clientes. Trier pour ne solliciter que les contentes (« review gating ») est interdit par Trustpilot et contraire à la règle FTC sur les avis. (AC vidéo J45, `07-conformite-us.md`)
+- **Chez nous :** le formulaire et la résolution des problèmes, oui. Mais l'invitation à laisser un avis va à **toutes** les clientes. Trier pour ne solliciter que les contentes (« review gating ») est interdit par Trustpilot et contraire à la règle FTC sur les avis. (AC vidéo J45, `07-conformite-us.md`) Mis en place au J43. (AC J43)
 
 ## R10. Un flow de suivi de livraison
 Un email environ tous les 3 jours après l'expédition, avec le lien de suivi. Presque plus de tickets « où est ma commande ? », et la cliente s'habitue aux emails de la marque. Indispensable avec 7 à 12 jours de livraison. (AC vidéo J45)
@@ -52,3 +52,4 @@ Au J16, 20 commandes parties dans la mauvaise variante : il s'excuse, renvoie gr
 - Shopify Payments verse l'argent à J+5 ouvrés, alors que Meta et le fournisseur se paient tout de suite. Quand on scale, la trésorerie se tend.
 - Garder une réserve, et surveiller l'argent immobilisé en stock.
 (AC vidéos J30, J45)
+- J40-J44 : les deux journées à 10 000 $ du week-end n'étaient pas encaissées le mercredi ; il a mis de l'argent perso dans la société pour payer stock et pubs. Chez nous, le compte publicitaire est prépayé (M20) : garder de l'avance dessus. (AC J40, J44)
