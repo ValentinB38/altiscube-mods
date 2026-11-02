@@ -10,7 +10,9 @@ Scripts écrits pendant la production des pubs unlined. Ils demandent `ffmpeg` (
 | `raccourcir-silences.py` | Raccourcit des silences précis d'une voix off pour la faire tenir dans une durée (par exemple sous 30 s pour Wan). |
 | `comparer-voix.py` | Compare plusieurs voix candidates : durée, hauteur de voix (plus grave = plus mature), expressivité, transcription. |
 | `effacer-logo.py` | Efface un faux logo inventé par l'IA sur un objet du décor, image par image (reconstruction OpenCV). |
+| `accroche-medaillon.py` | Accroche « médaillon » : gros plan macro des rides, feutre rouge animé et actrice en médaillon sur les premières secondes, puis la vidéo d'origine, avec ses sous-titres (fichier ASS). Polices Bodoni Moda et DM Sans dans `polices/`. |
+| `accroche-garantie.py` | Bandeau « Smoother-looking lip lines in about 60 seconds. Or your money back » sur les 3,6 premières secondes d'une vidéo sous-titrée. |
 | `cart-drawer.liquid` | Panier tiroir Shopify autonome (balisage, style et script) : à mettre dans `snippets/` et à rendre avant `</body>`. |
 | `srt-vers-texte.py` | Transforme des sous-titres automatiques YouTube en texte lisible, avec un repère par minute. |
 
-Les sous-titres utilisent la police DM Sans : télécharge-la sur Google Fonts et place `DMSans-Bold.ttf` dans `outils/polices/`.
+Les sous-titres utilisent la police DM Sans : télécharge-la sur Google Fonts et place `DMSans-Bold.ttf` dans `outils/polices/`. Les accroches demandent aussi `DMSans-Regular.ttf`, `BodoniModa-Bold.ttf` et `BodoniModa-Black.ttf`.

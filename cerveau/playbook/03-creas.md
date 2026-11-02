@@ -45,6 +45,8 @@ Le CPM baisse et le CTR tient. Chez Adam : CTR stable autour de 4 %, CPM divisé
 - Rejeter les images de référence dont l'étiquette du tube est en miroir.
 - **Variantes d'accroche gratuites** pour les vidéos animées : seul le bandeau du début change (`hook_variant.py` dans le dossier de production). Elles comptent comme des créas en plus pour Meta.
 - **Variantes de statiques gratuites** : même format, texte ou angle différent (M16).
+- **Accroche « médaillon » (lot 3, d'après le format gagnant d'Eline)** : pendant les 6 à 8 premières secondes, un gros plan macro des rides (FLUX, environ 3 crédits), un feutre rouge qui entoure la zone, l'actrice dans un médaillon rond en bas et un bandeau en haut ; puis la vidéo d'origine en plein écran, avec le son et les sous-titres d'origine. Script : `outils/accroche-medaillon.py` (environ 6 minutes de rendu).
+- **Accroche « garantie »** : un bandeau « Smoother-looking lip lines in about 60 seconds. Or your money back » sur les 3,6 premières secondes de la vidéo sous-titrée. Gratuit (`outils/accroche-garantie.py`).
 
 **Testé chez unlined le 28-29/10 (ancien compte) :** les 2 UGC Wan à rendu iPhone et voix ElevenLabs, ajoutées le 28/10, font les 3 ventes de la période : « Botox is dead » (salle de bain) 2 ventes et ROAS 1,64, « barcode » v2 (voiture) 1 vente et CTR 8,8 %. L'UGC Seedance non-smoker : ≈ 115 € sans vente depuis le 27/10. Petit échantillon : un premier signal pour la recette Wan et pour les angles Botox et barcode, à confirmer sur le compte US (C9). (NOUS)
 
