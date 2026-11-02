@@ -22,7 +22,7 @@ Ancien compte en euros. Taux observé : 1 € ≈ 1,104 $ (31,24 € = 34,50 $).
 
 Du 31/10 au 01/11 (jours 5 et 6), aucune pub ne diffuse : le solde de l'ancien compte est épuisé et les comptes US ne dépensent pas.
 **Cause trouvée le 02/11 : aucun argent n'avait été mis sur le compte US (compte prépayé).** La page n'était pas en cause (vérifié avec l'agence). Voir M20.
-**02/11 : le compte US commence enfin à dépenser** après l'approvisionnement (journée incomplète, non jugée). J1 = mardi 03/11. Premiers chiffres : vers 5 h à New York, 9 $ dépensés, CPM 242 $, 0 clic (environ 37 affichages, trop peu pour juger). **Première vente à 13 h 30 (Paris), soit 7 h 30 à New York.**
+**02/11 : le compte US commence enfin à dépenser** après l'approvisionnement (journée incomplète, non jugée). J1 = mardi 03/11. Premiers chiffres : vers 5 h à New York, 9 $ dépensés, CPM 242 $, 0 clic (environ 37 affichages, trop peu pour juger). **Première vente à 13 h 30 (Paris), soit 7 h 30 à New York** : arrivée par Instagram sur la fiche produit, UTM campagne « CBO UNLINED », contenu « IMG 4 » (une image). Le suivi UTM fonctionne. L'heure de visite affichée par Shopify (08:22) montre que la boutique est restée à UTC-4, alors que New York est passé à UTC-5 le 01/11 : une heure de décalage avec le compte Meta.
 
 ### Ventes Shopify (fuseau UTC-4, réglé par Valentin)
 L'ancien compte Meta est à l'heure de Paris : sa journée commence à 19 h (UTC-4) la veille. Les deux journées ne se recouvrent qu'en partie, donc on compare des cumuls sur plusieurs jours.
