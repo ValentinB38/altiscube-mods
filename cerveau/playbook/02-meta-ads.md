@@ -59,6 +59,7 @@ Au J30, il constate une grosse vague de bans d'agences : « rien ne sera plus pe
 
 ## M10. Les pubs mènent directement à la fiche produit
 Pas d'advertorial ni de listicle au début : le produit, l'offre et les créas comptent avant tout. (AC vidéo J7)
+Observation concurrente (02/11) : Eline Paris envoie une partie de ses pubs vers un advertorial et un listicle, avec le bouton « Learn more ». On reste sur la fiche produit au lancement ; un listicle sera **à tester** une fois la traction trouvée (voir C7). (NOUS)
 
 ## M11. Le fuseau horaire du compte publicitaire décide de la journée
 Le budget repart à zéro à minuit dans le fuseau du compte. Un compte réglé sur Paris démarre la journée à 19 h à New York. Fuseau et devise ne se changent plus après la création du compte. Nouveau compte unlined : UTC-4, USD. (NOUS, 28/10)

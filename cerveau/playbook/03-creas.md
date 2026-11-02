@@ -55,10 +55,24 @@ Le CPM baisse et le CTR tient. Chez Adam : CTR stable autour de 4 %, CPM divisé
 | « Non-smoker with smoker's lines? » | 277k, Royaume-Uni | refaite avec Seedance |
 | « Botox for lip lines is dead » | 92k | refaite avec Wan |
 | « If the skin above your lip looks like a barcode… » | 84k, en forte hausse | refaite avec Wan |
-| « Please be careful with Botox… 400 $ » | 64k | à faire |
-| Format animé type Pixar « ended creams » | 75k | à faire |
+| « Please be careful with Botox… 400 $ » | 64k | faite avec Wan (lot 2, careful-botox) |
+| Format animé type Pixar « ended creams » | 75k | proche : nos vidéos animées A (lot 2) |
 
 Toutes reposent sur la même idée : une ride de la lèvre est un creux, pas un manque d'hydratation. « Comme une fissure dans un mur : la crème repeint, il faut combler. »
+
+**Veille Eline Paris US du 02/11 (TrendTrack, pubs actives triées par hausse de portée sur 7 jours) :**
+- **Volume :** 475 pubs actives vers elineparis-us.com, diffusées depuis plusieurs pages : « Women's Wellness Journal » (511 pubs actives), « Scults », « Hairel ». Ciblage US, Canada, Royaume-Uni, Australie, Nouvelle-Zélande, parfois bien plus. Bouton « Learn more » partout. Pages d'arrivée : fiche produit, variantes de fiche (« -listicle », « -lip-lines ») et un advertorial (`/pages/creams-lip-lines`). La portée mesurée vient surtout du Royaume-Uni : les chiffres US sont sous-estimés.
+- **Les gagnantes installées (60 à 71 jours, en tête de page) :** « Non-smoker with smoker's lines? Here's the part nobody explains » (n°1, 130k), « Botox for lip lines is dead », « barcode », « Please be careful… Botox », « tensing polymers ended creams ». Leur format : une femme qui parle dans un médaillon, sur un gros plan des rides où l'on dessine au feutre rouge.
+- **Les nouvelles qui montent :**
+
+| Accroche | Signal | Pour nous |
+|---|---|---|
+| « 20 Years of Lip Line GONE in 3 minutes OR MONEY BACK » (gros plan) | +23k de portée en 7 jours, 8 jours d'âge, vers un listicle | **La garantie dans l'accroche** : on peut, la nôtre est réelle (90 jours). « Gone » est trop fort pour un cosmétique : on garde « look smoother ». |
+| « This is how $400 filler around my mouth ruined my life » (médaillon + flèche rouge) | n°1 de la page « Scults » | **Nouvel angle : les limites du filler** (gonfle la lèvre, s'en va en quelques mois). À faire en explication, pas en faux témoignage d'une actrice IA. |
+| Image « NOT A CREAM. It fills the lines above your lip in about 3 minutes », avec un fer à repasser sur les rides | en hausse, vers l'advertorial | **Une métaphore visuelle forte.** On fait la nôtre (par exemple un enduit qui comble une fissure), sans copier la leur. |
+| Image illustrée avant/après « Not a Cream. Lip Lines FILLED In 3 Minutes », avec « Individual results may vary » | en hausse | Un format simple à décliner en statique. |
+
+- **À ne jamais copier (07) :** une voix qui se présente comme praticienne (« patients come to see me for Botox ») ; « tested on 107 women » et « 7,837 women rated 4.8 », invérifiables pour nous ; « 1 SOLD EVERY 10 MINUTES » ; « Buy 1 Get 1 Free Today Only » sur une offre permanente ; des faux témoignages à la première personne ; des pages au nom de « journal », qui font passer une pub pour un média. (NOUS, 02/11)
 
 8lab (28/10) : parler à l'émotion derrière l'achat (« une femme qui achète une robe veut avant tout se sentir plus belle et plus confiante »). Nos accroches expliquent surtout le mécanisme. **À tester :** l'émotion, se sentir de nouveau à l'aise avec son rouge à lèvres, de près et en photo (voir `sources/conseils-x/8lab-2026-10-28.md`).
 
