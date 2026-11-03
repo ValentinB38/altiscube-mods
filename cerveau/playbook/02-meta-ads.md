@@ -95,6 +95,7 @@ Musique ajoutée, variantes IA, retouches automatiques… Adam : « tout ce que 
    - Les mêmes créas sont aussi ajoutées à la CBO scaling, **le même jour** : chaque nouvelle créa a deux destinations. **Variante à tester (@ValoriLuca, 29/10) :** ne passer en CBO que les gagnantes de l'ABO (voir `sources/conseils-x/valoriluca-2026-10-29.md`). L'ABO force la dépense et « montre » la créa à l'algo.
    - **Chronologie (J31 à J44) :** ABO lancée au J31 avec les créas qui avaient reçu moins de 1 $ dans la CBO ; 5 pubs par adset, c'était trop (une seule dépensait), passé à 3 au J34, puis 2 ; bilan à 3 jours et coupe de ce qui est sous l'équilibre ; au J43, 35 % du budget en test faisait tomber la marge à 11 %. (AC J31-J44) (voir `sources/adam-citron/journal-j31-j44.md`)
 3. **CBO « bid cap »** : chaque semaine, les meilleures créas de la CBO scaling (plus de 15 % de marge), 3 à 5 pubs par adset. Pas de budget à régler : elle dépense ce qu'elle trouve sous le plafond. Enchère plafonnée à un CPA garantissant 15 % de marge. Elle dépense surtout le week-end, et c'est elle qui fait le meilleur ROAS. Lancée au J39 avec ses 14 meilleures créas (10 vidéos, 4 statiques, toutes à 2,5 minimum), CPA max à 20 % de marge, +1 $ si elle ne dépense pas en 24 h (3 ou 4 fois au plus). J40 : partie tout de suite (32 ventes au CPA cible) ; du lundi au jeudi suivants, presque plus rien. (AC J39-J44)
+   - **J45 à J62 :** règle de scale de l'ABO (30 $, puis double à plus de 2,5 de ROAS sur plusieurs jours, et on arrête de monter quand la CBO prend la créa) ; environ 50 % des adsets tiennent après 48 h ; une créa poussée en ABO finit par dépasser la gagnante historique dans la CBO (J51). **CBO cost cap** avec les créas « moyennes » (7,5 à 15 % de marge) : 800 $ à 2,8 de ROAS un samedi (J54). Campagne bid cap « zombie » avec 125 créas coupées, pour une seconde chance (J61). (voir `sources/adam-citron/journal-j45-j62.md`)
 (AC vidéo J45)
 
 ## M17. Le week-end comme accélérateur
@@ -103,6 +104,7 @@ Musique ajoutée, variantes IA, retouches automatiques… Adam : « tout ce que 
 - **Samedi et dimanche :** augmenter en cours de journée si le ROAS dépasse 2,5 vers 10-11 h puis vers 13-14 h à New York (+10 à 20 % chaque fois).
 - **Dimanche après minuit (heure de New York) :** redescendre, mais moins bas que la semaine précédente.
 - Vécu : J40 et J41 (week-end) à 9 459 et 10 223 $, puis −35 % le lundi (J42) ; ses bid caps ne dépensent que le week-end. « Aux US, les perfs sont toujours meilleures le samedi et le dimanche. » (AC J40-J44)
+- J45 à J62 : scale fort samedi et dimanche, redescente le dimanche après minuit, stabilisation en semaine à un palier plus haut (6 000 → 13 000 → 22 000 → 40 000 $ en trois semaines). Ne pas surfscaler à ROAS 2, y aller fort à 2,5 (J53). Piège : au J55, +13 000 $ de CA pour seulement +500 $ de bénéfice. Lancer les gros lots de créas le vendredi. (voir `sources/adam-citron/journal-j45-j62.md`)
 (AC vidéo J45)
 
 ## M18. Meta surestime le ROAS
@@ -114,4 +116,5 @@ Un compte publicitaire d'agence prépayé sans fonds affiche des pubs « Active 
 ## M19. Une fois que les US marchent : le Canada
 Dupliquer la CBO avec les meilleures vidéos et statiques. Chez Adam : ROAS 3,5 dès le premier jour et un CPM 2 fois moins cher, aidé par les données US du pixel. (AC vidéo J30)
 Détail (J24-J30) : CBO à 100 $ avec 18 vidéos et 14 statiques, celles qui avaient le plus dépensé aux US. J1 : 109 $ dépensés, 380 $ de CA, CPM 40 $ contre 50 $ aux US. Puis 3 et 4,11, et une première perte (1,36) au J30 après un scale rapide. (AC J24-J30)
+Plus tard : un marché plus petit, plus dur à scaler (J57) ; et penser à y ajouter aussi les nouvelles gagnantes US (oubli découvert au J60). (voir `sources/adam-citron/journal-j45-j62.md`)
 Autre canal évoqué, **à tester plus tard** : TikTok Shop aux US (post X du 28/10). À vérifier : conditions pour un vendeur établi hors des US, catégorie cosmétique, stock aux US (voir `sources/conseils-x/post-us-2026-10-28.md`).

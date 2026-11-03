@@ -9,6 +9,7 @@ Sources : AC = Adam Citron (vidéo J7), NOUS = unlined.
 
 ## R2. AfterSell : upsell après achat
 Voir O4. (AC J7, J8)
+Au J53, il analyse le revenu par visiteur (RPV) de ses tunnels et lance des A/B tests : « chaque dizaine de centimes de RPV, c'est des centaines voire des milliers de dollars par jour ». NOUS : installé le 03/11 (tube cadeau à 14,90 $). (voir `sources/adam-citron/journal-j45-j62.md`)
 
 ## R3. Un tableau de bord quotidien
 Adam utilise Triple Whale en version gratuite, branché à Shopify et Meta, pour suivre ses KPI au jour le jour.
@@ -41,6 +42,7 @@ Un email environ tous les 3 jours après l'expédition, avec le lien de suivi. P
 Claude rédige un brouillon pour chaque ticket, l'humain corrige, et Claude apprend. On délègue à une assistante quand les brouillons sont justes du premier coup. Faire soi-même le service client au début, c'est apprendre à connaître la cliente. (AC vidéos J14, J30, J45)
 Au J11, il installe un CRM de service client dès les premiers emails : « tous les clients doivent être satisfaits, car je construis un asset sur le long terme ». Réponse rapide et chaleureuse par email, sur la page Facebook et sous les publications. (AC J11)
 Au J16, 20 commandes parties dans la mauvaise variante : il s'excuse, renvoie gratuitement le bon produit, et la cliente garde celui reçu. Toutes acceptent. (AC J16)
+J56-J62 : recrutement de deux personnes à plein temps au SAV via un formulaire Google trié par Claude (shortlist), puis entretiens vidéo pour juger les soft skills. Il refuse de sous-traiter son SAV à une agence. (voir `sources/adam-citron/journal-j45-j62.md`)
 
 ## R12. Les commentaires sous les pubs
 - Modérer les commentaires et y répondre, car c'est public : la preuve sociale et une page qui répond rassurent.
@@ -53,3 +55,4 @@ Au J16, 20 commandes parties dans la mauvaise variante : il s'excuse, renvoie gr
 - Garder une réserve, et surveiller l'argent immobilisé en stock.
 (AC vidéos J30, J45)
 - J40-J44 : les deux journées à 10 000 $ du week-end n'étaient pas encaissées le mercredi ; il a mis de l'argent perso dans la société pour payer stock et pubs. Chez nous, le compte publicitaire est prépayé (M20) : garder de l'avance dessus. (AC J40, J44)
+- J48 à J55 : ligne de crédit de l'agent (proposée par lui, 50 000 $ puis 100 000 $) pour le stock et la livraison, 50 000 $ d'actions vendues, demande à Shopify Payments de raccourcir les délais. Une relation de confiance avec son agent depuis 2019. (voir `sources/adam-citron/journal-j45-j62.md`)

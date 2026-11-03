@@ -14,6 +14,7 @@
 | `journal-j16-j20.md` | Posts quotidiens des jours 16 à 20 (erreur de variantes et contrôle qualité, lancement du produit 3, 1,7 → 2,7 sans rien toucher) | fait |
 | `journal-j21-j30.md` | Posts des jours 21 à 30, sans le J27 (frais de port et conversion, défaut du P2, Canada, 1 092 $ de bénéfice au J28) | fait |
 | `journal-j31-j44.md` | Posts des jours 31 à 44 (naissance de l'ABO testing et de la bid cap, 5 000 puis 10 000 $/jour, trust score, effet week-end, trésorerie) | fait |
+| `journal-j45-j62.md` | Posts des jours 45 à 62 (machine à créas ABO, statiques à la chaîne, cost cap, rythme semaine/week-end, 20 000 puis 62 000 $/jour, trésorerie, recrutement) | fait |
 | `video-j07.md` | Vidéo « Jour 7 : premier testing, 1 791 $ de CA » (25 min) | fait |
 | `video-j01.md` | « Jour 1 : 15 M€, un exit, 2 ans de pause » (21 min) | fait |
 | `video-j14.md` | « Jour 14 : premier jour à 1 000 $, 2e testing, je scale » (41 min) | fait |
