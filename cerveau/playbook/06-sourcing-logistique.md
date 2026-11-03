@@ -44,7 +44,7 @@ La franchise de minimis a pris fin en 2025 : toutes les importations sont taxée
 - Une quantité raisonnable, sans immobiliser trop de trésorerie.
 - Le déclencheur au J15 : 15 jours d'historique, des budgets qui montent chaque jour et des performances qui tiennent. Gains : coût produit plus bas, expédition plus rapide. (AC J15)
 - Au J20, grosse commande de stock : l'agent a négocié −15 % sur le coût produit. (AC J20)
-- J58 : deux commandes de stock par semaine, et des échantillons commandés chez d'autres usines pour comparer la qualité et avoir un plan B. (voir `sources/adam-citron/journal-j45-j62.md`)
+- J58 : deux commandes de stock par semaine, et des échantillons commandés chez d'autres usines pour comparer la qualité et avoir un plan B. (voir `sources/adam-citron/journal-j45-j63.md`)
 (AC vidéos J14, J30)
 
 ## S9. Comparer les agents et se méfier des plateformes
@@ -54,4 +54,4 @@ La franchise de minimis a pris fin en 2025 : toutes les importations sont taxée
 (AC vidéo J30)
 
 ## S10. Taxe de vente US (sales tax)
-De 0 à 10 % selon l'État, à collecter seulement au-delà d'un seuil de ventes dans l'État (post X du 28/10 : 100 000 $). Bon sens, à vérifier : certains États comptent aussi un nombre de commandes, d'autres ont un seuil de 500 000 $ (Californie, Texas, New York). Shopify Tax suit les ventes par État. À faire confirmer par un comptable avant d'approcher ces montants (voir `sources/conseils-x/post-us-2026-10-28.md`). Chez Adam, la taxe de vente apparaît dans ses comptes au J59 (97 $, puis jusqu'à 414 $ par jour), vers 30 000 à 60 000 $ de CA par jour. (voir `sources/adam-citron/journal-j45-j62.md`)
+De 0 à 10 % selon l'État, à collecter seulement au-delà d'un seuil de ventes dans l'État (post X du 28/10 : 100 000 $). Bon sens, à vérifier : certains États comptent aussi un nombre de commandes, d'autres ont un seuil de 500 000 $ (Californie, Texas, New York). Shopify Tax suit les ventes par État. À faire confirmer par un comptable avant d'approcher ces montants (voir `sources/conseils-x/post-us-2026-10-28.md`). Chez Adam, la taxe de vente apparaît dans ses comptes au J59 (97 $, puis jusqu'à 414 $ par jour), vers 30 000 à 60 000 $ de CA par jour. (voir `sources/adam-citron/journal-j45-j63.md`)

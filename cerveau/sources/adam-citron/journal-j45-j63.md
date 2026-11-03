@@ -1,6 +1,6 @@
-# Adam Citron : jours 45 à 62 (posts quotidiens)
+# Adam Citron : jours 45 à 63 (posts quotidiens)
 
-Source : ses posts X, transmis par Valentin le 03/11/2026. Montants en dollars. Dernier post reçu : J62.
+Source : ses posts X, transmis par Valentin le 03/11/2026. Montants en dollars. Dernier post reçu : J63.
 Bénéfice = CA − pubs − COGS − frais de paiement − taxe de vente (à partir du J59). Coûts fixes non comptés.
 
 ## Les chiffres
@@ -25,8 +25,9 @@ Bénéfice = CA − pubs − COGS − frais de paiement − taxe de vente (à pa
 | 60 | 39 672 | 17 476 | 13 805 | 1 836 | 217 | +6 338 | 16 % | 2,27 | Les statiques performent (3 à 4 de ROAS) ; créas oubliées au Canada |
 | 61 | 49 092 | 21 554 | 17 090 | 2 214 | 275 | +7 959 | 16 % | 2,28 | Samedi ; campagne « zombie » de la seconde chance |
 | 62 | 62 081 | 28 954 | 21 720 | 2 792 | 414 | +8 201 | 13 % | 2,14 | **Dimanche : 62 000 $** ; toujours seul avec une VA et Claude Code |
+| 63 | 43 619 | 18 852 | 15 370 | 2 059 | 271 | +7 067 | 16 % | 2,31 | Lundi : stabilisation au-dessus de 40 000 $ ; la CBO « zombie » démarre à 2,5 ; 2 recrues au SAV |
 
-**Sur les 18 jours :** 443 575 $ de CA, 196 569 $ de pubs, 69 911 $ de bénéfice (15,8 %), ROAS global de 2,26.
+**Sur les 18 jours J45 à J62 :** 443 575 $ de CA, 196 569 $ de pubs, 69 911 $ de bénéfice (15,8 %), ROAS global de 2,26. **J63 :** 43 619 $ de CA, 7 067 $ de bénéfice (16 %).
 
 ## Ce qu'il faut retenir, thème par thème
 
@@ -34,7 +35,7 @@ Bénéfice = CA − pubs − COGS − frais de paiement − taxe de vente (à pa
 - **J45 :** chaque nouvelle créa va à la fois dans la CBO de scaling et dans un adset ABO à 30 $. La CBO n'y dépense pas au début : elle reste sur ses gagnantes. Si l'adset ABO tient plus de 2,5 de ROAS plusieurs jours, il double (60 $, puis 120 $…). Dès que la CBO commence à dépenser sur la créa, il arrête de monter l'ABO : « l'ABO sert à forcer la dépense pour montrer à l'algo que la créa performe ».
 - **J46 à J52 :** des lots de 40 à 102 créas, 2 ou 3 créas par adset (avec 5, une seule dépense). Coupe à 24 h pour celles sans vente et aux métriques très mauvaises, sinon test sur 48 h. **Environ 50 % des adsets tiennent après 48 h.** Il lance les gros lots le vendredi pour profiter du week-end.
 - **J49 à J51 : ça marche.** Une créa scalée en ABO finit par prendre le budget de la CBO, puis **dépasse la gagnante historique** : l'algo a « vu la créa historique s'essouffler » et a basculé de lui-même.
-- **J49 et J61 :** les créas coupées après un bon départ ont droit à une 2e chance (6 relancées en ABO, puis 125 dans une CBO bid cap « zombie »).
+- **J49 et J61 :** les créas coupées après un bon départ ont droit à une 2e chance (6 relancées en ABO, puis 125 dans une CBO bid cap « zombie »). **J63 :** la CBO zombie dépense 180 $ le premier jour, à 2,5 de ROAS, avec des créas qui étaient sous l'équilibre en ABO.
 
 **Les statiques (C4)**
 - **J57 :** « les statiques, c'est souvent du bottom of funnel : ça close beaucoup de ventes », derrière le trafic amené par les vidéos.
@@ -50,11 +51,11 @@ Bénéfice = CA − pubs − COGS − frais de paiement − taxe de vente (à pa
 
 **L'upsell (R2) :** au J53, il passe une journée à analyser le revenu par visiteur (RPV) de ses tunnels AfterSell et lance des A/B tests : « chaque dizaine de centimes de RPV, c'est des centaines voire des milliers de dollars par jour ».
 
-**La trésorerie (R13) :** Shopify Payments à 5 jours ouvrés, pubs et stock payés d'avance. Solutions : ligne de crédit de l'agent (proposée au J48, 50 000 $ au J51, 100 000 $ au J55), 50 000 $ d'actions vendues, demande à Shopify Payments de raccourcir les délais. « Construire des relations de confiance avec les bons partenaires » (agent depuis 2019).
+**La trésorerie (R13) :** Shopify Payments à 5 jours ouvrés, pubs et stock payés d'avance. Solutions : ligne de crédit de l'agent (proposée au J48, 50 000 $ au J51, 100 000 $ au J55, 200 000 $ au J63), 50 000 $ d'actions vendues, demande à Shopify Payments de raccourcir les délais. « Construire des relations de confiance avec les bons partenaires » (agent depuis 2019).
 
 **La taxe de vente (S10) :** elle apparaît dans ses comptes au J59 (97 $, puis jusqu'à 414 $ par jour), vers 30 000 à 60 000 $ de CA par jour.
 
-**L'équipe (R11, C10) :** seul avec une VA et Claude Code jusqu'à 60 000 $/jour. Recrutement du SAV via un formulaire Google trié par Claude (shortlist), entretiens vidéo pour juger les soft skills ; il refuse les agences. Monteurs vidéo : test payant de 48 h (une vidéo concurrente à reproduire, une vidéo IA + b-roll).
+**L'équipe (R11, C10) :** seul avec une VA et Claude Code jusqu'à 60 000 $/jour. Recrutement du SAV via un formulaire Google trié par Claude (shortlist), entretiens vidéo pour juger les soft skills ; il refuse les agences. **J63 :** 2 personnes à plein temps, 6 jours sur 7, embauchées tant que le volume est encore raisonnable (250 tickets la semaine précédente, plus la modération des commentaires), pour qu'elles apprennent le produit et les process avant la hausse ; onboarding avec accès au CRM, à Shopify et à Meta Business Suite, modèles de réponses, SOP, automatisations et vidéos Loom. Monteurs vidéo : test payant de 48 h (une vidéo concurrente à reproduire, une vidéo IA + b-roll).
 
 **Le sourcing (S8) :** deux commandes de stock par semaine ; il commande son produit chez d'autres usines pour comparer la qualité et avoir un plan B (J58).
 
