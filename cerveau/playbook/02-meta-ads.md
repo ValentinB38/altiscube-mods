@@ -35,6 +35,7 @@ Pour ses tests suivants, il lance **vidéos et statiques dès le premier jour, d
 
 ## M6. Lire la répartition par âge et par placement après 4-5 jours
 Chez Adam, 90 % des ventes viennent des 55-64 ans et des 65 ans et plus. La tranche 55-64 ans est la plus rentable. On adapte alors la page et les créas à cette cliente. « Il faut écouter la data que donne Facebook. » (AC J7)
+**Premier signal chez unlined (02-03/11, compte US) :** les 3 premiers achats attribués par Meta viennent de femmes de 55-64 ans (1) et de 65 ans et plus (2), comme chez Adam. (NOUS)
 
 ## M7. Les KPI à suivre chaque jour, et les repères d'Adam (US)
 
