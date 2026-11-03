@@ -55,6 +55,12 @@ Au J20, le CPM du P1 est à 44 $ et continue de baisser. Son P3 démarre à 65 $
 Post X du 28/10 : des CPM « aberrants » aux US, parce que la concurrence y est la plus forte au monde (voir `sources/conseils-x/post-us-2026-10-28.md`).
 @MurpazECOM (28/10) : « day 1 cpm is always ugly, meta is still figuring out who to show it to ». À nos 138 $ de CPM sans vente au J2, il répond « not the best » (voir `sources/conseils-x/`).
 
+**Repère de marché et diagnostic d'un CPM anormal (bon sens Meta et sources web, 03/11, à vérifier) :**
+- **Repère :** CPM médian aux US d'environ 27 $ en novembre 2025, le pic de l'année à cause du Black Friday ; environ 17-20 $ en janvier ([SuperAds](https://www.superads.ai/facebook-ads-costs/cpm/united-states), [Admake](https://admakeai.com/blog/how-much-do-facebook-ads-cost)). Novembre est le mois le plus cher, mais nos 240-290 $ du 02/11 sont environ 9 fois ce repère : la saison n'explique pas tout.
+- **Causes citées :** un compte neuf sans historique (M8), des créas qui retiennent peu l'attention (faible « hold rate »), une audience trop étroite, des restrictions sur le compte ([Segwise](https://segwise.ai/blog/why-is-my-meta-cpm-so-high), [AdKit](https://adkit.so/resources/troubleshooting/facebook-ads-high-cpm), [Flighted](https://www.flighted.co/blog/how-to-reduce-meta-ads-cpm-2026-tactics)).
+- **Diagnostic sans toucher à la campagne :** (1) Qualité du compte et de la page dans le BM ; (2) colonnes « classement de qualité / d'engagement / de conversion » de chaque pub dès 500 affichages ; (3) ventilation par placement, âge et sexe ; (4) pour les vidéos, la part des affichages qui regardent 3 secondes. Ne pas juger sur le CPM seul : ce qui compte, c'est le coût par achat.
+- **Chez unlined :** l'audience est déjà large (vérifiée le 03/11), donc on cherche du côté du compte, de la page et des créas.
+
 ## M9. Ne jamais dépendre d'un seul BM ou d'une seule agence
 Le BM d'agence d'Adam a été restreint en moins de 24 h et l'agence l'a laissé attendre. Il a reconstruit ses propres BM avec des administrateurs de secours.
 NOUS : on est sur un compte d'agence (Adscale) et un compte US est demandé. Prévoir un BM à nous, vérifié, avec 2 vrais administrateurs et un moyen de paiement de secours. Pas de faux profils : c'est contraire aux conditions de Meta. (AC vidéo J1)
