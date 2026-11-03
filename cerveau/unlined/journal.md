@@ -30,8 +30,8 @@ ROAS de rentabilité : environ 1,52, CPA max environ 20 $ (fiche marque).
 
 | Date (NY) | Dépense | Achats | CA | ROAS | CPA | CPM | CTR lien | CPC | Notes |
 |---|---|---|---|---|---|---|---|---|---|
-| 02/11 (incomplète, dès ~5 h) | **142,25 $** (VIDEO 96,71 $, STATIC 45,54 $ ; budget 100 $, +42 %) | 3 sur Shopify (VIDEO 4, VIDEO 8 = animée B Botox, IMG 4 = static 1b) | 89,70 $ | **0,63** (Shopify) | 47 $ | **≈ 242 $** (vidéos 286 $, images 183 $) | 3,9 % | 6,18 $ | Journée de démarrage, non jugée : seulement 587 affichages. VIDEO 4 : 45,49 $, 1 achat. VIDEO 8 : 22,39 $, CPM 546 $, 1 clic, 1 achat. IMG 6 : 34,89 $, 0 achat, CTR 2,2 %. IMG 4 : 4,51 $, 3 clics, 1 vente (UTM Shopify, pas comptée par Meta). |
-| 03/11 (J1, en cours) | 11,39 $ à l'export | 1 (VIDEO 4, vers 1 h à New York) | 29,90 $ | – | – | ≈ 331 $ | – | – | J1 du test. |
+| 02/11 (incomplète, dès ~5 h) | **142,25 $** (VIDEO 96,71 $, STATIC 45,54 $ ; budget 100 $, +42 %) | 3 sur Shopify (VIDEO 4 = UGC Wan « Botox is dead », VIDEO 8 = animée B Botox, IMG 4 = static 1b) | 89,70 $ | **0,63** (Shopify) | 47 $ | **≈ 242 $** (vidéos 286 $, images 183 $) | 3,9 % | 6,18 $ | Journée de démarrage, non jugée : seulement 587 affichages. VIDEO 4 : 45,49 $, 1 achat. VIDEO 8 : 22,39 $, CPM 546 $, 1 clic, 1 achat. IMG 6 : 34,89 $, 0 achat, CTR 2,2 %. IMG 4 : 4,51 $, 3 clics, 1 vente (UTM Shopify, pas comptée par Meta). |
+| 03/11 (J1, en cours) | 11,39 $ à l'export | 1 (VIDEO 4, vers 1 h à New York) | 29,90 $ | – | – | ≈ 331 $ | – | – | J1 du test. Audience vérifiée le 03/11 : Advantage+, États-Unis, aucune restriction d'âge ni de genre, 248 à 292 millions de personnes (M13 respectée) : le CPM élevé ne vient pas du ciblage. |
 
 ### Ventes Shopify (fuseau UTC-4, réglé par Valentin)
 L'ancien compte Meta est à l'heure de Paris : sa journée commence à 19 h (UTC-4) la veille. Les deux journées ne se recouvrent qu'en partie, donc on compare des cumuls sur plusieurs jours.
