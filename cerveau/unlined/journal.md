@@ -24,6 +24,15 @@ Du 31/10 au 01/11 (jours 5 et 6), aucune pub ne diffuse : le solde de l'ancien c
 **Cause trouvée le 02/11 : aucun argent n'avait été mis sur le compte US (compte prépayé).** La page n'était pas en cause (vérifié avec l'agence). Voir M20.
 **02/11 : le compte US commence enfin à dépenser** après l'approvisionnement (journée incomplète, non jugée). J1 = mardi 03/11. Premiers chiffres : vers 5 h à New York, 9 $ dépensés, CPM 242 $, 0 clic (environ 37 affichages, trop peu pour juger). **Première vente à 13 h 30 (Paris), soit 7 h 30 à New York** : arrivée par Instagram sur la fiche produit, UTM campagne « CBO UNLINED », contenu « IMG 4 » = `unlined-static-1b-lipstick-problem` (« Your lipstick isn't the problem. THE LINES ARE. »), qui n'avait dépensé que 0,93 $ sur 39 $ au total à ce moment-là. **2e vente à 16 h (Paris), soit 10 h à New York**, pour environ 60 $ dépensés (ROAS provisoire ≈ 1 si les deux sont à 29,90 $). Arrivée par Facebook, contenu « VIDEO 8 » = `video-B-before-you-book-botox-44s` (vidéo animée B, angle Botox). **3e vente à 20 h 24 (Paris), soit 14 h 24 à New York.** 6 visites pour environ 60 $ : environ 10 $ la visite. Le suivi UTM fonctionne. L'heure de visite affichée par Shopify (08:22) montre que la boutique est restée à UTC-4, alors que New York est passé à UTC-5 le 01/11 : une heure de décalage avec le compte Meta.
 
+### Compte US n°2 (« Fundree WA USD490 », heure de New York) : performances
+
+ROAS de rentabilité : environ 1,52, CPA max environ 20 $ (fiche marque).
+
+| Date (NY) | Dépense | Achats | CA | ROAS | CPA | CPM | CTR lien | CPC | Notes |
+|---|---|---|---|---|---|---|---|---|---|
+| 02/11 (incomplète, dès ~5 h) | 96,71 $ (adset VIDEO seul ; adset IMG à ajouter) | 3 sur Shopify (VIDEO 4, VIDEO 8 = animée B Botox, IMG 4 = static 1b) | 89,70 $ | ≈ 0,9 (Shopify) | ≈ 32 $ | **≈ 286 $** | 4,4 % | 6,45 $ | Journée de démarrage, non jugée. Seulement 338 affichages pour 97 $. VIDEO 4 : 45,49 $, 174 affichages, 7 clics, 1 achat. VIDEO 8 : 22,39 $, CPM 546 $, 1 clic, 1 achat. |
+| 03/11 (J1, en cours) | 11,27 $ à l'export | 1 (VIDEO 4, vers 1 h à New York) | 29,90 $ | – | – | ≈ 331 $ | – | – | J1 du test. |
+
 ### Ventes Shopify (fuseau UTC-4, réglé par Valentin)
 L'ancien compte Meta est à l'heure de Paris : sa journée commence à 19 h (UTC-4) la veille. Les deux journées ne se recouvrent qu'en partie, donc on compare des cumuls sur plusieurs jours.
 
