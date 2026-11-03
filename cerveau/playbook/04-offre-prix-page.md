@@ -37,6 +37,7 @@ Adam, J22-J23 : son P3, moins cher, avait 10 $ de port : 26 % d'ajouts au panier
 ## O7. Les pourboires au paiement
 Adam encaisse de 1 à 10 $ de « tips » par jour, grâce à l'option de pourboire au paiement de Shopify. C'est marginal, à tester plus tard. (AC J3, J4, J9, J10)
 J12 à J15 : de 1 à 8 $ par jour. (AC J12-J15)
+**Testé chez unlined le 03/11 :** option de pourboire activée ; premier pourboire de 2,99 $ sur une commande à 29,90 $. (NOUS)
 
 ## O8. Une boutique au nom générique, ou une marque ?
 - Adam : « le nom ne fait pas vendre », boutique généraliste, il nichera après la traction. (AC vidéo J1)
