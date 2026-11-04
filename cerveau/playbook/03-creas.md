@@ -62,6 +62,8 @@ Le CPM baisse et le CTR tient. Chez Adam : CTR stable autour de 4 %, CPM divisé
 | « Please be careful with Botox… 400 $ » | 64k | faite avec Wan (lot 2, careful-botox) |
 | Format animé type Pixar « ended creams » | 75k | proche : nos vidéos animées A (lot 2) |
 
+**Désaccord (04/11) :** Andras (YouTube) estime que reprendre les concepts d'un gros annonceur sur la même audience fait payer un CPM plus cher au copieur ; Adam Griffin, que les mots « Botox », « filler » peuvent nous faire entrer dans des enchères plus chères. À tester : nos propres angles (maquillage, cadeau) face aux angles repris d'Eline, sur le CPM et sur le coût par vente (voir `sources/youtube/`).
+
 Toutes reposent sur la même idée : une ride de la lèvre est un creux, pas un manque d'hydratation. « Comme une fissure dans un mur : la crème repeint, il faut combler. »
 
 **Veille Eline Paris US du 02/11 (TrendTrack, pubs actives triées par hausse de portée sur 7 jours) :**
