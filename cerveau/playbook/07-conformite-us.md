@@ -16,6 +16,7 @@ Ces règles passent avant toute astuce marketing. Une pub refusée ou un compte 
 
 ## Publicité Meta
 - **Pas de fausse fonction :** une pub ne doit pas imiter une notification, un bouton système ou un message qui n'existe pas (aperçu « Mom sent you $30 » : à garder pour la démo, pas pour une pub).
+- **Pas d'attribut personnel :** une pub ne doit pas dire ni sous-entendre l'âge, la santé (y compris une condition médicale), l'origine, la religion ou la situation financière de la personne qui la voit (règle Meta « Personal attributes »). « Made for the lip lines that show up after 50 » parle du produit : accepté. « You're over 50? » ou « Other women your age… » : refusé. (Règle Meta, 04/11)
 - **Pas d'avant/après trompeur :** ni pubs qui ciblent un défaut physique de façon humiliante. Rester sur « l'apparence des ridules » et sur un effet cosmétique temporaire.
 
 ## Allégations produit (cosmétique, pas médicament)
