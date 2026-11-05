@@ -47,6 +47,7 @@ Les deux sont compatibles : il nichera après avoir trouvé la traction, et nous
 ## O9. Un panier moyen bas n'empêche pas de scaler
 « Il faut vendre au moins 50-60 $ sur Meta » : un mythe selon Adam, qui scale à environ 30-35 $ de panier. (AC vidéo J30)
 **Désaccord, post X du 28/10 :** « attaquer le marché US avec un AOV minimum de $60 ». Adam passe avant. Notre panier est à 29,90 $ ; ce qui le rapproche de 60 $ : le pack de 4 tubes et l'upsell (O4) (voir `sources/conseils-x/post-us-2026-10-28.md`).
+**Confirmé par @ECOMLAB93 (X, 04/11) :** « augmenter le budget ne résout pas le problème » ; avec des upsells après achat et des bundles, son panier moyen a pris +30 %, puis le ROAS a suivi, puis il a monté le budget (voir `sources/conseils-x/commentaires-jour8-2026-11-04.md`).
 
 ## O10. Monter le panier moyen sans freiner la conversion
 - AfterSell : upsell après achat (O4).
