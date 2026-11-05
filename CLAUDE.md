@@ -17,7 +17,7 @@ Avant de recommander une action (pub, budget, prix, offre, page, créa, fourniss
 ## Ordre de confiance des sources
 
 1. **Nos propres chiffres** (`cerveau/unlined/journal.md`) : ils battent toujours une règle générale.
-2. **Formation Evolve** (`cerveau/sources/evolve/`) : à venir.
+2. **Formation Evolve** : résumés et règles dans le dépôt **privé** `ValentinB38/unlined-cerveau` (dossier `evolve/`), jamais ici.
 3. **Adam Citron** (`cerveau/sources/adam-citron/`) : build in public, de 0 à 1 M$/mois aux US, ce qu'il a réellement fait et obtenu.
 4. **Conseils ponctuels sur X et vidéos YouTube d'autres e-commerçants** (`cerveau/sources/conseils-x/`, `cerveau/sources/youtube/`) : sans chiffres vérifiables, ils confirment une règle mais n'en créent jamais une à eux seuls.
 5. Bon sens e-commerce général : à signaler comme tel.
@@ -30,7 +30,7 @@ Quand deux sources se contredisent, garde les deux dans le playbook et note le d
 - Nouveaux chiffres (export CSV Meta, Shopify) : une ligne par jour dans `cerveau/unlined/journal.md`, avec le ROAS comparé au ROAS de rentabilité.
 - Résultat d'un test : on le note sous la règle concernée (« testé chez unlined le JJ/MM : … »).
 - **Ce dépôt est public** (choix de Valentin le 28/10/2026) : tout ce qui est écrit ici est lisible par n'importe qui. Aucun secret ici : ni mot de passe, ni accès, ni coordonnées clients.
-- **La formation Evolve ne va pas ici** : c'est un contenu payant, et des résumés publiés en public reviendraient à le redistribuer. Il lui faudra un dépôt privé (voir `cerveau/sources/evolve/README.md`). Pour les sources publiques comme Adam Citron, des résumés avec le lien vers la source suffisent.
+- **La formation Evolve ne va pas ici** : c'est un contenu payant, et des résumés publiés en public reviendraient à le redistribuer. Elle vit dans le dépôt privé `ValentinB38/unlined-cerveau` (créé le 05/11/2026, voir `cerveau/sources/evolve/README.md`). Pour les sources publiques comme Adam Citron, des résumés avec le lien vers la source suffisent.
 
 ## Garde-fous permanents (conformité US)
 
