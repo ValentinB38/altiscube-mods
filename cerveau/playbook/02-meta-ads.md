@@ -86,6 +86,7 @@ Premier constat (à confirmer) : nos ventes tombent surtout le soir aux US. Le 3
 
 ## M12. Ne pas lancer en pleine journée
 Programmer le démarrage à 00:00 dans le fuseau du compte. Sinon, Meta tente de dépenser le budget du jour en quelques heures et le CPM grimpe. (NOUS, bon sens Meta, à confirmer)
+**Testé chez unlined le 05/11 (Eye Smoother, campagne neuve lancée vers 10 h à New York) :** 39 $ en environ 30 minutes pour environ 61 affichages, CPM ≈ 640 $ (jusqu'à 1 245 $ sur une pub), contre 150-270 $ pour la Line Smoother le même jour sur le même compte. Ça va dans le sens de la règle, sans le prouver (démarrage à froid, 61 affichages). Evolve programme lui aussi le départ à minuit (dépôt privé).
 
 ## M13. Ciblage : ne rien restreindre
 CBO « États-Unis, 18 ans et plus », sans genre, sans tranche d'âge, sans centre d'intérêt. « L'algorithme sait si un produit est pour les femmes. » C'est la répartition par âge (M6) qui dit qui achète, et c'est la page qu'on adapte, pas le ciblage. (AC vidéo J14)

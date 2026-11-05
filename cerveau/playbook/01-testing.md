@@ -16,6 +16,7 @@ Sources : AC = Adam Citron (J1 à J10, vidéos J1 et J7), NOUS = nos chiffres un
 Couper avant 24 h seulement si tout est mauvais en même temps : zéro vente, zéro ajout au panier, CPM déraisonnable. Sinon, on attend 3 jours. (AC vidéo J1)
 Son produit 3 : ROAS 0,89 au premier jour, avec de bons KPI Meta (CPM 65 $, CTR près de 5 %) mais peu d'ajouts au panier. Il ne touche à rien : 2,05 le lendemain, puis 3 jours de suite au-dessus de 2. « J'ai bien fait de ne pas paniquer. » (AC J17-J20)
 Même conseil de @MurpazECOM le 28/10 : « give it 3 days before touching anything ». Son repère : « 1 sale on day 1 is a good sign » ; unlined a fait 2 ventes au J1 (voir `sources/conseils-x/`). @ValoriLuca (29/10), sur nos 3 commandes du 2e jour : « already a start ».
+**Testé chez unlined le 05/11 :** l'Eye Smoother coupée après environ 30 minutes (39 $, CPM ≈ 640 $, 2 clics, 0 vente). Conforme à la règle, tout étant mauvais en même temps ; mais sur 61 affichages, la coupure protège le budget sans rien apprendre du produit.
 
 ## T4. Une journée négative, c'est de la variance. Deux de suite, c'est une tendance.
 À 100-150 $/jour, deux ou trois ventes de plus ou de moins font basculer la journée. Après une journée rouge, on ne touche à rien. Après deux journées rouges consécutives, on agit : nouvelle offre, nouveau prix, ou on coupe. (AC J4, J5)
