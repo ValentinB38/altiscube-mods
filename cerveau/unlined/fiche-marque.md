@@ -18,7 +18,7 @@
 - **Livraison offerte sur toutes les commandes US depuis le 28/10** (avant : environ 4,60 $ sous 59 $).
 - Panier tiroir (snippet `cart-drawer`) et relance de paiement abandonné en 3 emails (Shopify Email : 1 h, 24 h, 48 h) en place depuis le 28/10.
 - Garantie de 90 jours satisfaite ou remboursée, même ouvert.
-- Concurrents : Eline Paris vend son pack à 49 $ ; blooe.
+- Concurrents : Eline Paris vend son pack à 49 $ ; blooe ; **Nirvola « Line Smoother »** (nirvola.com, boutique déclarée en France, créée le 13/09, produit lancé le 21/10) : 39,99 $ avec BOGO, garantie 30 jours, 33 pubs actives au 05/11 (+58 % en une semaine), angles « Botox bills », « never smoked », « needles at 60 », avec un avis client cité et des récits à la première personne (TrendTrack, 05/11).
 
 ## ROAS de rentabilité (estimation, à confirmer)
 - CA moyen par commande : environ 29,90 $ depuis la livraison offerte (34,50 $ avant, port compris).
