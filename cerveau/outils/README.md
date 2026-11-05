@@ -15,6 +15,6 @@ Scripts écrits pendant la production des pubs unlined. Ils demandent `ffmpeg` (
 | `accroche-bandeau.py` | Même bandeau, avec ses propres textes : 2 lignes et une pastille rouge (ex. « Before your next / Botox appointment… / watch this »). |
 | `cart-drawer.liquid` | Panier tiroir Shopify autonome (balisage, style et script) : à mettre dans `snippets/` et à rendre avant `</body>`. |
 | `srt-vers-texte.py` | Transforme des sous-titres automatiques YouTube en texte lisible, avec un repère par minute. |
+| `prompts-realisme.json` | Prompts testés pour des images et des vidéos qui ne font pas « IA » : actrice UGC, plan de coupe, statiques, photos du site, repas de famille. Nano Banana 2.1 pour les photos, Wan 3.0 pour les vidéos (règle C6). |
 
 Les sous-titres utilisent la police DM Sans : télécharge-la sur Google Fonts et place `DMSans-Bold.ttf` dans `outils/polices/`. Les accroches demandent aussi `DMSans-Regular.ttf`, `BodoniModa-Bold.ttf` et `BodoniModa-Black.ttf`.
-- `prompts-realisme.json` : prompts testés pour des images et des vidéos qui ne font pas « IA » (actrice UGC, plan de coupe, statiques, photos du site, repas de famille). Nano Banana 2.1 pour les photos, Wan 3.0 pour les vidéos (règle C6).
