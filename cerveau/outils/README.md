@@ -17,3 +17,4 @@ Scripts écrits pendant la production des pubs unlined. Ils demandent `ffmpeg` (
 | `srt-vers-texte.py` | Transforme des sous-titres automatiques YouTube en texte lisible, avec un repère par minute. |
 
 Les sous-titres utilisent la police DM Sans : télécharge-la sur Google Fonts et place `DMSans-Bold.ttf` dans `outils/polices/`. Les accroches demandent aussi `DMSans-Regular.ttf`, `BodoniModa-Bold.ttf` et `BodoniModa-Black.ttf`.
+- `prompts-realisme.json` : prompts testés pour des images et des vidéos qui ne font pas « IA » (actrice UGC, plan de coupe, statiques, photos du site, repas de famille). Nano Banana 2.1 pour les photos, Wan 3.0 pour les vidéos (règle C6).
