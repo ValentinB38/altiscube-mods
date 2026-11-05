@@ -41,7 +41,7 @@
 | UGC « Barcode » v2 | Wan, voiture, voix Nora, rendu iPhone (AD 8 : la meilleure vendeuse de l'ancien compte, 3 à 4 ventes selon les exports) | 30 s |
 | UGC « Botox is dead » | Wan, salle de bain, voix Opal, rendu iPhone (AD 9 : 2 ventes le 28/10, puis 0 le 29/10 pour 25,95 €) | 30 s |
 | Statiques 1 à 4 | why-cream, 60-seconds, vs-injections, red-again | – |
-| Posts organiques 1 à 6 | pour la page Facebook (4 à 6 ajoutés le 29/10) | – |
+| Posts organiques 1 à 10 | pour la page Facebook et Instagram (4 à 6 ajoutés le 29/10 ; 7 à 10 le 05/11 : mode d'emploi, FAQ, rouge des fêtes, « second tube », sur l'angle maquillage des pubs du lot 5) | – |
 
 Avec le lot 2 du 28/10 (3 UGC, 4 variantes d'accroche, 8 statiques de plus) : **12 vidéos et 12 statiques**, gardées pour le compte US. Adam lance avec environ 25 créas (C1).
 
