@@ -12,6 +12,7 @@ Scripts écrits pendant la production des pubs unlined. Ils demandent `ffmpeg` (
 | `effacer-logo.py` | Efface un faux logo inventé par l'IA sur un objet du décor, image par image (reconstruction OpenCV). |
 | `accroche-medaillon.py` | Accroche « médaillon » : gros plan macro des rides, feutre rouge animé et actrice en médaillon sur les premières secondes, puis la vidéo d'origine, avec ses sous-titres (fichier ASS). Polices Bodoni Moda et DM Sans dans `polices/`. |
 | `accroche-garantie.py` | Bandeau « Smoother-looking lip lines in about 60 seconds. Or your money back » sur les 3,6 premières secondes d'une vidéo sous-titrée. |
+| `accroche-bandeau.py` | Même bandeau, avec ses propres textes : 2 lignes et une pastille rouge (ex. « Before your next / Botox appointment… / watch this »). |
 | `cart-drawer.liquid` | Panier tiroir Shopify autonome (balisage, style et script) : à mettre dans `snippets/` et à rendre avant `</body>`. |
 | `srt-vers-texte.py` | Transforme des sous-titres automatiques YouTube en texte lisible, avec un repère par minute. |
 
