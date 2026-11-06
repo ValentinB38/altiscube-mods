@@ -91,7 +91,7 @@ Programmer le démarrage à 00:00 dans le fuseau du compte. Sinon, Meta tente de
 ## M13. Ciblage : ne rien restreindre
 CBO « États-Unis, 18 ans et plus », sans genre, sans tranche d'âge, sans centre d'intérêt. « L'algorithme sait si un produit est pour les femmes. » C'est la répartition par âge (M6) qui dit qui achète, et c'est la page qu'on adapte, pas le ciblage. (AC vidéo J14)
 @MurpazECOM (28/10) va dans le même sens : « very broad for big audience » (voir `sources/conseils-x/`).
-**En test chez unlined depuis le 06/11 :** adset CHAMPION resserré sur les femmes de 40 à 65 ans et plus (environ 66 millions), contre l'adset VIDEO en broad, avec la même pub VIDEO 4 dans les deux. Verdict le 09/11 sur le CPM et le coût par achat (voir `unlined/decisions.md`).
+**En test chez unlined depuis le 06/11 :** adset CHAMPION resserré sur les femmes de 40 à 65 ans et plus (environ 66 millions), contre l'adset VIDEO en broad, avec la même pub VIDEO 4 dans les deux. Verdict le 09/11 sur le CPM et le coût par achat (voir `unlined/decisions.md`). **Faussé le 06/11 :** CHAMPION était optimisé sur l'ajout au panier ; relancé en optimisation achat, verdict décalé au 10/11.
 
 ## M14. Décocher toutes les « améliorations » automatiques de Meta
 Musique ajoutée, variantes IA, retouches automatiques… Adam : « tout ce que Facebook te propose, il faut tout décocher ». Par l'API, elles le sont par défaut. (AC vidéo J45)
@@ -123,6 +123,16 @@ Musique ajoutée, variantes IA, retouches automatiques… Adam : « tout ce que 
 - Vécu : J40 et J41 (week-end) à 9 459 et 10 223 $, puis −35 % le lundi (J42) ; ses bid caps ne dépensent que le week-end. « Aux US, les perfs sont toujours meilleures le samedi et le dimanche. » (AC J40-J44)
 - J45 à J62 : scale fort samedi et dimanche, redescente le dimanche après minuit, stabilisation en semaine à un palier plus haut (6 000 → 13 000 → 22 000 → 40 000 $ en trois semaines). Ne pas surfscaler à ROAS 2, y aller fort à 2,5 (J53). Piège : au J55, +13 000 $ de CA pour seulement +500 $ de bénéfice. Lancer les gros lots de créas le vendredi. (voir `sources/adam-citron/journal-j45-j63.md`)
 (AC vidéo J45)
+
+## M21. Check-list avant de publier un adset ou une campagne
+À relire à chaque création, car une erreur de réglage fausse tout le test qui suit :
+1. Objectif **Ventes** ; emplacement de conversion **site web** ; **événement de conversion : Achat (Purchase)**, jamais ajout au panier ni vue de contenu.
+2. Le bon pixel ou jeu de données, et la bonne page Facebook et le bon compte Instagram.
+3. Départ programmé à **minuit, heure du compte** (M12).
+4. Améliorations créatives et destinations personnalisées : **tout décoché** (M14).
+5. Paramètres d'URL (UTM) présents ; en ouvrant l'aperçu, le bouton mène à la bonne page avec le bon prix.
+6. Pour une pub reprise d'une autre (champion) : mêmes likes et commentaires que l'originale, sinon ce n'est pas la même publication.
+**Origine (NOUS, 06/11) :** l'adset CHAMPION a tourné une nuit optimisé sur l'ajout au panier : 86 $ dépensés, CPM de 62 à 90 $ (contre 260 $ en optimisation achat), environ 87 clics, 0 achat. Leçon secondaire : le CPM dépend beaucoup de l'événement optimisé ; une enchère « acheteuses » coûte bien plus cher qu'une enchère « ajout au panier ».
 
 ## M18. Meta surestime le ROAS
 On recoupe avec les UTM dans Shopify. Plus tard : Triple Whale Sonar (260 $/mois) pour mieux remonter les données à Meta, car le pixel de base est limité. (AC vidéos J30, J45)
