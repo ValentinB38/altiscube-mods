@@ -15,3 +15,17 @@
 
 **Recommandation (hypothèse à tester, pas une règle) :** le n°1, en sprint de Noël ; lancement à minuit (M12) dès que l'agent confirme le délai vers la France et le coût livré ; un petit budget au départ ; on juge après 3 jours (T3, T4).
 À vérifier avant : délai de livraison vers la France (au plus 8 à 10 jours), coût livré, étiquette de composition textile en français, et un opérateur économique dans l'UE pour les produits vendus en ligne (règlement européen sur la sécurité des produits, GPSR : la société de Valentin peut tenir ce rôle).
+
+---
+
+## Recherche approfondie, même jour (demande de Valentin : « vendu en masse, 0 pub il y a une semaine et là à fond, qui se vend longtemps, pas qu'à Noël »)
+**Méthode :** 100 produits vendus en France (publiés depuis le 01/09) : les 50 plus fortes dépenses pub en Europe (au moins 3 000 $), plus les 50 plus fortes pressions publicitaires (au moins 30 pubs lancées en 7 jours) ; tri par dépense quotidienne ; analyse détaillée des 3 meilleurs ; vérification de la catégorie (environ 400 crédits TrendTrack ; One Radar refuse la recherche sans abonnement payant).
+
+| Candidat | Signaux | Durée de vie | Verdict |
+|---|---|---|---|
+| **Appareil de massage cervical 3-en-1** : coussin en forme de cacahuète, chaleur, massage par impulsions et étirement (Cervéa, doctinolab.fr, 69,90 €) | Mis en ligne le 13/10 ; **pubs 4 → 29 → 78 → 131 en 3 semaines** (+68 % la dernière semaine) ; 22 500 $ de dépense en Europe ; 2,5 millions de personnes touchées en France et en Belgique ; un seul annonceur | **Durable** : la catégorie fait vivre plusieurs boutiques françaises depuis des mois (CerviCalm de myspinea.com : 431 pubs, environ 25 000 $/mois, 27 pays ; oreillers Somnilys : environ 21 000 et 18 500 $/mois) ; en plus, une idée cadeau pour Noël | **Recommandé** : une catégorie prouvée, un nouveau venu qui explose, un seul produit sans tailles, un panier élevé |
+| Mini-poupée personnalisée à partir d'une photo (cadeauplus.com, dietollemode.com, customchic.co.uk ; 19,95 €) | La plus grosse dépense du moment : environ 5 100 $/jour sur une seule fiche, environ 13 000 $/jour sur 7 fiches et 3 boutiques ; 2 → 60 pubs en une semaine (dietollemode) ; 156 avis à 4,97 | Surtout un cadeau de Noël, une mode « IA » qui peut passer ; fabrication à la demande (photo de la cliente, délais, qualité) | Sprint de Noël seulement, ne répond pas à « longtemps » |
+| Gouttes « drainage lymphatique » Nuria (nuria-shop.com, 39,90 €) | Pubs 9 → 104 en 7 semaines, environ 800 $/jour, environ 20 000 $/mois estimés | Durable | **Écarté** : complément alimentaire, et ses allégations (« élimine les toxines », « renforce l'immunité », « réduit l'inflammation ») sont interdites en Europe (règlement 1924/2006) |
+
+**Ce qu'on ne copie jamais chez Cervéa (règle 07, et droit européen) :** le faux médecin en blouse, les faux avis (« Martin G., de Bordeaux »), les chiffres « 96 % / 106 400 personnes » invérifiables, « cliniquement confirmé », « soulage la douleur » (une promesse thérapeutique peut faire de l'appareil un dispositif médical au sens du règlement européen 2017/745). Notre angle : détente de la nuque, chaleur et massage, routine du soir de 15 minutes, « ne remplace pas un avis médical ».
+**À vérifier avant de lancer :** le modèle exact chez l'agent (chaleur, impulsions, recharge USB-C), le coût livré, un échantillon (T11, l'électronique casse plus qu'un tube), le marquage CE et une notice en français, le délai de livraison vers la France.
