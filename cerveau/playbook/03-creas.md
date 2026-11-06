@@ -66,6 +66,8 @@ Le CPM baisse et le CTR tient. Chez Adam : CTR stable autour de 4 %, CPM divisé
 
 **Désaccord (04/11) :** Andras (YouTube) estime que reprendre les concepts d'un gros annonceur sur la même audience fait payer un CPM plus cher au copieur ; Adam Griffin, que les mots « Botox », « filler » peuvent nous faire entrer dans des enchères plus chères. À tester : nos propres angles (maquillage, cadeau) face aux angles repris d'Eline, sur le CPM et sur le coût par vente (voir `sources/youtube/`).
 
+**Reprendre un format gagnant, c'est aussi reprendre son montage (NOUS, 06/11, Maison Ouate) :** la première version de nos vidéos d'essayage reprenait l'accroche et l'angle de la pub n°1 de domelyah.com, mais pas son montage. La comparaison image par image a montré 3 écarts : (1) le cadrage : chez lui, chaque couleur a un gros plan tenu à la main où la matière remplit l'écran, puis un plan miroir ; nous n'avions que des plans larges ; (2) le rythme : une coupe toutes les ~1,4 s chez lui, ~2,2 s chez nous ; (3) les légendes : les siennes sont empilées au milieu de l'écran, notre appel à l'action était dans le bas, que Reels recouvre (nom de la page, texte, bouton). Avant de livrer une reprise, on extrait 8 à 15 images de la pub d'origine et on compare cadrage, rythme et place des légendes, pas seulement le texte. Résultat à lire au verdict du 14/11.
+
 Toutes reposent sur la même idée : une ride de la lèvre est un creux, pas un manque d'hydratation. « Comme une fissure dans un mur : la crème repeint, il faut combler. »
 
 **Veille Eline Paris US du 02/11 (TrendTrack, pubs actives triées par hausse de portée sur 7 jours) :**
