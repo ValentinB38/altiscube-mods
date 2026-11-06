@@ -91,6 +91,7 @@ Programmer le démarrage à 00:00 dans le fuseau du compte. Sinon, Meta tente de
 ## M13. Ciblage : ne rien restreindre
 CBO « États-Unis, 18 ans et plus », sans genre, sans tranche d'âge, sans centre d'intérêt. « L'algorithme sait si un produit est pour les femmes. » C'est la répartition par âge (M6) qui dit qui achète, et c'est la page qu'on adapte, pas le ciblage. (AC vidéo J14)
 @MurpazECOM (28/10) va dans le même sens : « very broad for big audience » (voir `sources/conseils-x/`).
+**En test chez unlined depuis le 06/11 :** adset CHAMPION resserré sur les femmes de 40 à 65 ans et plus (environ 66 millions), contre l'adset VIDEO en broad, avec la même pub VIDEO 4 dans les deux. Verdict le 09/11 sur le CPM et le coût par achat (voir `unlined/decisions.md`).
 
 ## M14. Décocher toutes les « améliorations » automatiques de Meta
 Musique ajoutée, variantes IA, retouches automatiques… Adam : « tout ce que Facebook te propose, il faut tout décocher ». Par l'API, elles le sont par défaut. (AC vidéo J45)
