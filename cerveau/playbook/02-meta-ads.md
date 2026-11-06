@@ -127,7 +127,7 @@ Musique ajoutée, variantes IA, retouches automatiques… Adam : « tout ce que 
 ## M21. Check-list avant de publier un adset ou une campagne
 À relire à chaque création, car une erreur de réglage fausse tout le test qui suit :
 1. Objectif **Ventes** ; emplacement de conversion **site web** ; **événement de conversion : Achat (Purchase)**, jamais ajout au panier ni vue de contenu.
-2. Le bon pixel ou jeu de données, et la bonne page Facebook et le bon compte Instagram.
+2. Le bon pixel ou jeu de données, et la bonne page Facebook et le bon compte Instagram. Sur un nouveau compte, le compte Instagram doit être **relié à la page et attribué au compte publicitaire** dans les paramètres du portefeuille business, sinon Meta bloque la publication (erreur #1815199 « Ad account does not have access to Instagram account », vue chez Maison Ouate le 06/11 avec « Use Facebook Page »). On préfère un vrai compte Instagram de marque : c'est lui qui s'affiche dans les pubs sur Instagram et qui garde les likes et commentaires.
 3. Départ programmé à **minuit, heure du compte** (M12).
 4. Améliorations créatives et destinations personnalisées : **tout décoché** (M14).
 5. Paramètres d'URL (UTM) présents ; en ouvrant l'aperçu, le bouton mène à la bonne page avec le bon prix.
