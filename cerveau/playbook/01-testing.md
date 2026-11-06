@@ -40,6 +40,8 @@ Ni le prix, ni le budget, ni les créas. Adam s'est contredit trois fois. La seu
 | Beaucoup d'ajouts au panier, peu d'achats | Souvent les frais de port | Baisser ou offrir le port (O6) : le P3 d'Adam passe de 8 à 17 % de conversion avec 3 $ de port en moins |
 | Ventes concentrées sur une tranche d'âge | Meta a trouvé l'avatar | Adapter la page et les créas (M6) |
 
+**Confirmé par un e-commerçant américain (X, 06/11) :** même grille, ligne par ligne (CTR haut sans vente = la page ; CTR bas = l'accroche ; ajouts au panier sans paiement = friction ou offre). Il ajoute « CPA qui remonte après 5-7 jours = fatigue de la créa » (à surveiller sur VIDEO 4 au 09/11). **Désaccord sur le CPM :** pour lui, un CPM élevé veut dire que la pub « ressemble à une pub » et que les gens passent. Chez nous, 42 % regardent 3 secondes et 6 % cliquent : son explication ne colle pas, la piste compte neuf, niche et saison (M8) reste la nôtre (voir `sources/conseils-x/grille-diagnostic-us-2026-11-06.md`).
+
 Repères de conversion d'Adam (J13) : P1, 20 % d'ajouts au panier et 7 % de conversion ; P2, 8 % et 2 %. unlined (Shopify, UTC-4) : 5,7 % de conversion le 27/10 (2 commandes pour 35 visites), 7,3 % le 28/10 (3 pour 41). (AC J13, NOUS)
 
 ## T7. Le prix se décide sur le bénéfice, pas sur le ROAS

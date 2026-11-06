@@ -9,6 +9,7 @@ Des réponses et des threads lus sur X, sans chiffres vérifiables derrière.
 | `valoriluca-2026-10-29.md` | [@ValoriLuca](https://x.com/ValoriLuca) | Tester en petites ABO, ne passer que les gagnantes en CBO (réponse à Valentin) |
 | `post-us-2026-10-28.md` | auteur à préciser | Le marché US : taxes, CPM, panier moyen, bundles, TikTok Shop |
 | `8lab-2026-10-28.md` | [@8labEcosystem](https://x.com/8labEcosystem) | Vendre un produit saturé : (branding + marketing + pricing) × produit |
+| `grille-diagnostic-us-2026-11-06.md` | e-commerçant américain connu, compte à préciser | Lire son compte pub : CTR, CPM, CPA, fatigue, paiement ; confirme notre diagnostic, désaccord sur la cause du CPM |
 | `commentaires-jour8-2026-11-04.md` | 12 comptes (@moha78fr, @eduardjps, @barrocheq, @flaviecsg, @ECOMLAB93, @PavelFlit…) | Réponses au post « Jour 8 » : même CPM chez d'autres vendeurs de cosmétique US, remontée des achats, page, panier moyen |
 
 ## Réponses courtes (une ligne, sans fichier dédié)
