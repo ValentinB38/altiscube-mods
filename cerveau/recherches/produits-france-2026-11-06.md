@@ -29,3 +29,17 @@
 
 **Ce qu'on ne copie jamais chez Cervéa (règle 07, et droit européen) :** le faux médecin en blouse, les faux avis (« Martin G., de Bordeaux »), les chiffres « 96 % / 106 400 personnes » invérifiables, « cliniquement confirmé », « soulage la douleur » (une promesse thérapeutique peut faire de l'appareil un dispositif médical au sens du règlement européen 2017/745). Notre angle : détente de la nuque, chaleur et massage, routine du soir de 15 minutes, « ne remplace pas un avis médical ».
 **À vérifier avant de lancer :** le modèle exact chez l'agent (chaleur, impulsions, recharge USB-C), le coût livré, un échantillon (T11, l'électronique casse plus qu'un tube), le marquage CE et une notice en français, le délai de livraison vers la France.
+
+---
+
+## 3e passage, même jour (critères de Valentin : 1 ou 2 concurrents seulement, « 0 $ il y a une semaine et 1 500 $/jour maintenant », durable)
+**Méthode :** 219 produits vendus en France (4 recherches TrendTrack croisées) ; tri sur la dépense pub estimée en Europe, le nombre d'annonceurs (au plus 2) et la date de lancement (depuis le 15/10) ; plus 40 pubs lancées depuis le 23/10 en France triées par portée (dominées par les grandes marques, donc peu utiles) ; détail des pubs de Cervéa.
+**Limite des données :** pour les produits récents, la « dépense quotidienne » de TrendTrack est la dépense totale divisée par 14 jours (estimée depuis la portée × un CPM moyen). Elle ne montre pas la courbe jour par jour. Pour voir un vrai « 0 → 1 500 $/jour », il faut suivre les boutiques plusieurs jours de suite (Brandtracker + radar quotidien, 1 crédit par jour).
+
+| Produit | Concurrents | Lancement et montée | Dépense estimée | Durée de vie | Lecture |
+|---|---|---|---|---|---|
+| Ensemble polaire « cosy », cadeau de Noël pour elle (domelyah.com) | 1 (+ covalie.com, ensemble sherpa, environ 527 $/jour depuis septembre) | Publié le 23/10 ; pubs 3 → 11 → 30 → 55 ; une seule pub touche 1,47 million de personnes en 2 semaines | environ 20 000 $ en 2 semaines, soit environ 1 400 $/jour | Automne-hiver, de novembre à février (pas toute l'année) | **Le seul qui coche « 0 → 1 500 $/jour avec 1 à 2 concurrents »**, mais saisonnier |
+| Coussin de massage cervical (Cervéa, doctinolab.fr) | 1 sur ce modèle (+ CerviCalm de myspinea.com, catégorie installée) | Publié le 13/10 ; pubs 4 → 29 → 78 → 131 | environ 22 500 $ au total selon la portée, mais ses pubs récentes touchent peu de monde chacune (200 à 2 000 personnes) : il teste beaucoup de créas plutôt qu'il ne dépense fort | **Toute l'année** | Le plus durable ; dépense actuelle incertaine, à suivre |
+| Mini-poupée personnalisée par photo (cadeauplus.com et autres) | 3 boutiques ou plus | Publiée les 23-26/10 | environ 5 100 $/jour sur une seule fiche | Surtout Noël, mode « IA » | Trop de concurrents, saisonnier |
+
+**Conclusion honnête :** aucun produit de l'échantillon ne coche les 4 critères à la fois. Le plus proche de « 0 → 1 500 $/jour » est saisonnier (l'ensemble polaire) ; le plus durable (le coussin cervical) dépense moins fort aujourd'hui. Proposition : suivre ces boutiques 3 jours dans le Brandtracker avant de choisir, pendant que l'agent chiffre les deux produits.
