@@ -1,0 +1,69 @@
+{
+  "_mode_d_emploi": "Prompts testés le 05/11/2026 pour des créas qui ne font pas « IA ». Remplacer les {variables}. Images : nano_banana_2_1, 2k, thinking_level high (2 crédits). Vidéos : wan3_0, 720p, generate_audio true, enable_thinking true, avec l'image de l'actrice et le packshot en image_references (52,5 crédits pour 30 s), puis voice_change vers une voix ElevenLabs, puis cerveau/outils/filtre-iphone.sh et sous-titres-ugc.py. Toujours vérifier l'application (sous l'oeil, jamais sur la paupière) et ajouter un plan de coupe si besoin. Photos du site : voir « photo_site » (verdict de Valentin le 05/11 : FLUX fait IA, Nano Banana 2.1 non).",
+  "regles_anti_IA": [
+    "Dire ce que c'est : « a real, unedited front-camera iPhone video frame, not a photoshoot ».",
+    "Donner un appareil et un défaut d'appareil : objectif 24 mm, légère distorsion, mise au point un peu molle, bruit de capteur, HDR léger, compression réseaux sociaux.",
+    "Mélanger deux lumières de couleurs différentes (fenêtre + ampoules chaudes) et accepter qu'elle soit inégale.",
+    "Décrire la peau avec ses défauts : pores, taches de rousseur, cernes et plis réels, un peu de correcteur sec dans les plis, asymétrie, mèches rebelles, racines grises.",
+    "Un décor vécu et un peu encombré : gobelet à brosse à dents, serviette pliée, plante, bord du miroir.",
+    "Une expression en plein milieu d'une phrase, bouche un peu ouverte, pas un sourire de pub.",
+    "Toujours finir par une liste de refus : pas de filtre beauté, pas de retouche, pas de lumière de studio, pas de texte, pas d'étiquette inversée, cinq doigts.",
+    "En vidéo : micro-tremblements, respiration de l'exposition, mise au point qui cherche une fraction de seconde, clignements, petit rire, regard vers le miroir, texte exact « word for word, nothing added »."
+  ],
+  "actrice_ugc_image": {
+    "modele": "nano_banana_2_1",
+    "format": "9:16",
+    "references": [
+      "packshot Eye Smoother (job a2397351-464f-4057-917c-83be72652579)"
+    ],
+    "prompt": "A real, unedited front-camera iPhone video frame, not a photoshoot. A {age}-year-old American woman with {cheveux}, {peau} with visible pores, freckles, soft jowls and real under-eye puffiness with fine creases, a little dried concealer settled in the creases under her eyes, no other makeup, {bijoux}, wearing {vetement}. She sits at {lieu} in the morning, holding the slim ivory tube with a silver tip and red 'unlined' wordmark from image 1 casually at chest height, label toward the camera, and looks straight into the lens mid-sentence with a candid, friendly, slightly tired expression, mouth slightly open. Background: {decor_vecu}. Lighting: soft daylight from a small window mixed with warm bulbs, a bit uneven. Camera: phone propped at chest height, 24mm wide front camera, slight upward angle, mild barrel distortion, slightly soft focus, natural sensor noise, mild HDR, compressed social-media look. Skin and anatomy must look completely real: asymmetry, flyaway hairs, natural teeth, five fingers. No beauty filter, no retouching, no studio light, no text overlays, no extra logos, label not mirrored.",
+    "exemple_valide": "59 ans, carré court blond cendré aux racines grises, sweat gris chiné, salle de bain carrelage métro (job 6ee26cdb-4fa6-4b7d-8d7e-621b13054815)"
+  },
+  "ugc_video_wan": {
+    "modele": "wan3_0",
+    "duree": 30,
+    "references": [
+      "image de l'actrice",
+      "packshot Eye Smoother"
+    ],
+    "prompt": "Raw, unedited front-camera iPhone video that a real woman filmed herself in her {lieu}, not an ad shoot: phone propped against the mirror, tiny hand-bump wobbles, auto-exposure breathing when she leans in, focus hunting for a split second, mild sensor noise, slightly soft image, mixed daylight and warm bulbs, compressed social-media look, no beauty filter, no music, no on-screen text, no subtitles.\n\nThe woman is exactly the woman from image 1 ({description_courte}) in exactly that room. The product is exactly the slim ivory tube from image 2 with a glossy crimson-red cap, a short polished silver metal tip and the red vertical wordmark 'unlined' correctly spelled.\n\nShe talks to the lens like she is giving her sister a frank tip: warm, slightly raspy American voice of a woman near sixty, natural pace, tiny pauses, one small laugh, natural blinking, small head tilts, she glances at the mirror once, perfect lip sync. She says only these lines, word for word, nothing added.\n\n{plans : Shot 1 (0-5s) ... She says: \"...\"}\n\nFor the application shot: she glides the silver metal tip in a thin line across the puffy skin under her eye, below the lower lash line, never on the eyelid and never near the eye itself, then gently pats it with her ring finger.",
+    "accroche_5s": "Même prompt de tournage, durée 5 s, un seul plan, la phrase d'accroche seule. On colle ensuite l'accroche devant la vidéo principale (à partir de la 5e seconde)."
+  },
+  "plan_de_coupe_application": {
+    "modele": "nano_banana_2_1",
+    "format": "9:16",
+    "prompt": "A real, unedited front-camera iPhone video frame, tight close-up, of exactly the woman from image 1 holding the slim ivory tube from image 2: its polished silver tip is pressed against the puffy skin under her left eye, about one centimeter below the lower lash line, on the top of the cheek; the eye is open and looking slightly up, the tip clearly away from the eyelid and the eye. Same room and light as image 1, slight softness, sensor noise, real skin texture with pores and creases. Five fingers, label not mirrored, no text."
+  },
+  "statique_probleme_macro": {
+    "modele": "nano_banana_2_1",
+    "format": "4:5",
+    "prompt": "Extreme close-up phone photo, taken in a bathroom mirror under a warm vanity bulb, of the under-eye area of a real {age}-year-old woman with {peau}: soft puffiness, fine crepey creases, and beige concealer that has dried, cracked and settled into every crease by midday, a few stray lower lashes, visible pores, slight redness. Shot on an iPhone, slightly soft focus, natural sensor noise, true-to-life colors, unretouched, no filter. Framing from the lower eyelid to the top of the cheek. No text, no product."
+  },
+  "statique_minuteur": {
+    "modele": "nano_banana_2_1",
+    "format": "4:5",
+    "prompt": "Candid iPhone photo, top-down at a slight angle, of a cluttered real bathroom counter in the morning: a woman's hand in her sixties with natural short nails holding the slim ivory tube with a silver tip and the red wordmark 'unlined' from image 1, next to an iPhone lying on the counter showing a large countdown timer at 4:58, a half-used beige concealer, a hair clip, a cup of coffee with a lipstick mark, water droplets. Soft window daylight, real textures, slight motion softness, natural noise, unstaged. Label correctly spelled, not mirrored. No other brand names, no text other than the timer digits."
+  },
+  "statique_jour_de_photo": {
+    "modele": "nano_banana_2_1",
+    "format": "4:5",
+    "prompt": "A real candid iPhone photo taken by a friend at {evenement}: a laughing {age}-year-old American woman with {cheveux}, soft natural makeup, leaning toward the camera with {personne_proche}, warm string lights and a decorated table in the background, slight motion blur on hands, on-camera flash mixed with warm ambient light, real skin texture with fine lines and under-eye creases, imperfect framing, natural noise. Nobody holds a product. No text, no logos."
+  },
+  "interdits_07": [
+    "Pas de résultat montré par IA (pas d'avant/après, pas de « watch them disappear »).",
+    "L'actrice ne dit jamais que le produit a marché sur elle et ne se présente pas comme professionnelle.",
+    "Pas de médecin, de blouse blanche, de faux logo de presse, de faux avis.",
+    "Pas de « remove / erase / eliminate / disappear » : « look smoother, tighter-looking »."
+  ],
+  "photo_site": {
+    "modele": "nano_banana_2_1, 2k, 2 crédits",
+    "references": [
+      "image de l'actrice (job Higgsfield) pour garder le même visage d'une photo à l'autre",
+      "packshot du tube si le produit est visible",
+      "embout (applicateur) si le tube est ouvert"
+    ],
+    "prompt": "A real, unedited {front-camera iPhone selfie | iPhone photo taken by a friend}, not a photoshoot: {âge et description de la femme, peau avec pores, ridules, taches}, {vêtement et bijoux}, {lieu vécu : cuisine, salon, salle de bain}. {Action : tient le tube / applique juste AU-DESSUS de la lèvre supérieure, jamais sur la lèvre / tapote / met son rouge}. Background: {objets du quotidien, un peu de désordre}. Lighting: window daylight mixed with warm bulbs, a bit uneven. Camera: 24mm wide, slight distortion, slightly soft focus, natural sensor noise, mild HDR, compressed social-media look. Asymmetry, flyaway hairs, natural teeth, five fingers. No beauty filter, no retouching, no studio light, no text, label correctly spelled and not mirrored.",
+    "repas_de_famille": "A real candid iPhone photo taken by a relative at a family holiday dinner at home: {femme, âge, cheveux}, deep red lipstick, laughing toward the camera with {proches}, warm string lights, half-finished plates, wine glasses, crumpled napkins, on-camera flash mixed with warm ambient light, slight motion blur on a raised hand, imperfect framing, natural noise. Nobody holds a product. No text, no logos, no retouching.",
+    "appel_final_du_theme": "Format 16:9 : sujet sur le tiers DROIT, moitié gauche calme et floue (mur, guirlande floue), sans visage ni objet net : le titre du thème s'y affiche sans fond sur ordinateur."
+  }
+}
