@@ -42,6 +42,7 @@ Détails : `cerveau/playbook/07-conformite-us.md`.
 ## Plan
 
 - `cerveau/unlined/` : fiche marque, journal des chiffres, journal des décisions
+- `cerveau/maison-ouate/` : fiche de la boutique française Maison Ouate (lancée le 06/11) ; ses chiffres et ses décisions restent dans le journal et `decisions.md` d'unlined
 - `cerveau/playbook/` : règles par thème (testing, Meta Ads, créas, offre et page, rétention et outils, sourcing, conformité)
 - `cerveau/sources/` : résumés de chaque source, avec chiffres et citations courtes
 - `cerveau/outils/` : scripts de production réutilisables (filtre iPhone, sous-titres, voix)
