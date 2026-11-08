@@ -43,3 +43,13 @@
 | Mini-poupée personnalisée par photo (cadeauplus.com et autres) | 3 boutiques ou plus | Publiée les 23-26/10 | environ 5 100 $/jour sur une seule fiche | Surtout Noël, mode « IA » | Trop de concurrents, saisonnier |
 
 **Conclusion honnête :** aucun produit de l'échantillon ne coche les 4 critères à la fois. Le plus proche de « 0 → 1 500 $/jour » est saisonnier (l'ensemble polaire) ; le plus durable (le coussin cervical) dépense moins fort aujourd'hui. Proposition : suivre ces boutiques 3 jours dans le Brandtracker avant de choisir, pendant que l'agent chiffre les deux produits.
+
+## Suivi du concurrent domelyah.com (TrendTrack, 08/11, données arrêtées au 06/11)
+- **Il accélère :** dépense pub estimée en Europe d'environ 23 900 $ au total, soit environ **1 700 $/jour** (1 425 $/jour au 06/11) ; 2,65 millions de personnes touchées (2,2 millions au 06/11), presque toutes en France.
+- **56 pubs actives** (43 au 06/11), +264 % en une semaine ; il reste le seul annonceur sur ce produit.
+- **Nouveaux pays :** depuis le 04/11, 13 pubs ciblent la Belgique et le Canada (hommes et femmes, 18-65 ans), avec le même texte « Ne cherchez plus le cadeau de Noël parfait pour elle ».
+- **Offre inchangée :** 38,99 € avec un prix barré à 64,99 € (« -40 % »), 4 couleurs, 2 tailles ; livraison annoncée en 7 à 9 jours ouvrés.
+- **Sa page reste petite :** 346 mentions J'aime sur Facebook, 2 541 abonnés Instagram.
+- **Limites :** ce sont des estimations tirées de la portée publiée en Europe ; on ne voit ni ses ventes ni son ROAS. Mais on n'augmente pas sa dépense pendant 2 semaines en perdant de l'argent.
+- **Pour nous, à tester plus tard (hypothèse) :** la Belgique francophone, comme lui, une fois notre campagne validée en France (même logique que M19).
+
