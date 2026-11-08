@@ -11,7 +11,9 @@ Boutique française mono-produit, lancée le 06/11 (maisonouate.fr). Ses chiffre
 ## Coûts et rentabilité (estimation du 08/11)
 - **Coût livré : 12,79 € par ensemble** (agent, donné par Valentin le 08/11). À demander : le prix d'un colis de 3 ensembles, sans doute moins de 3 × 12,79 € (O6).
 - Frais de paiement estimés : 2,5 % + 0,25 € par commande (à vérifier sur les premiers versements).
-- **La TVA change tout ; le statut de la société reste à confirmer :**
+- **Statut confirmé par Valentin le 08/11 : pas de TVA (franchise en base). Ce sont donc les chiffres de la colonne « Sans TVA » qui comptent : ROAS d'équilibre 1,56 pour 1 ensemble, 2,08 pour un 2 + 1.**
+- **Attention au plafond de la franchise :** elle s'arrête au-delà d'un chiffre d'affaires annuel (de l'ordre de 85 000 € pour la vente de marchandises, seuils discutés en 2025-2026 : à vérifier avec un comptable). À 10 000 €/jour, il serait dépassé en une dizaine de jours ; la TVA s'appliquerait alors, avec un ROAS d'équilibre de 2,11 et 3,19. Le plafond du régime micro lui-même (environ 188 700 € pour la vente de marchandises, à vérifier) viendrait ensuite. À anticiper avant de monter le budget.
+- Les deux cas :
 
 | Commande | Sans TVA (franchise en base) | Avec TVA à 20 % |
 |---|---|---|
@@ -32,7 +34,7 @@ Boutique française mono-produit, lancée le 06/11 (maisonouate.fr). Ses chiffre
 - domelyah.com (page « Maison Samyah ») : même produit, 38,99 € avec un faux prix barré à 64,99 €, même 2 + 1. Environ 1 700 $/jour estimés au 06/11, 56 pubs, ouverture de la Belgique et du Canada. Suivi : `../recherches/produits-france-2026-11-06.md`.
 
 ## À faire
-- Confirmer le statut TVA de la société.
+- Voir avec un comptable le passage à la TVA et au-delà du régime micro, avant de scaler.
 - Recevoir l'échantillon (les visuels sont faits par IA : le produit livré doit leur correspondre).
 - Coût d'un colis de 3 ensembles chez l'agent.
 - SEO de la page d'accueil (encore « dépouf »), relance des paiements abandonnés, renommer « New Sales ad ».

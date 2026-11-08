@@ -1,5 +1,7 @@
 # unlined : fiche marque (état au 28/10/2026)
 
+> **08/11/2026 : boutique US arrêtée par Valentin** (pas rentable : du 02 au 06/11, 584,88 $ de pub pour 10 ventes, ROAS 0,56 contre 1,52 d'équilibre, CPM d'environ 260 $). Les efforts passent sur Maison Ouate (`../maison-ouate/fiche-marque.md`). Le reste de cette fiche décrit l'état avant l'arrêt.
+
 ## Produit et marque
 - **Produit :** lissant pour les ridules au-dessus de la lèvre (« line smoother »). Un film transparent qui comble l'apparence des lignes en environ une minute, se retire le soir.
 - **Site :** [tryunlined.com](https://tryunlined.com), fiche `/products/line-smoother`. Thème Shopify OS 2.0 sur mesure, inspiré de la page de blooe.
