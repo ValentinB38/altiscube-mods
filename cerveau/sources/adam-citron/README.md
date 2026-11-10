@@ -20,12 +20,13 @@
 | `video-j14.md` | « Jour 14 : premier jour à 1 000 $, 2e testing, je scale » (41 min) | fait |
 | `video-j30.md` | « Jour 30 : 37 906 $ de CA, bilan + bénéfice restant » (78 min) | fait |
 | `video-j45.md` | « Jour 45 : 10 k$/jour + ma stratégie media buying » (36 min) | fait |
+| `video-j60.md` | « Jour 60 : 400 k en 30 jours, bilan du mois 2 + vos questions » (61 min) : 412 k$, 16 % net, trésorerie, « premier sur son marché » | fait |
 
-Liens : [J1](https://www.youtube.com/watch?v=Qf4m7mh1J90) · [J7](https://www.youtube.com/watch?v=8Zb66BjlbDs) · [J14](https://www.youtube.com/watch?v=6B_jIyAl4Wc) · [J30](https://www.youtube.com/watch?v=bQcO4pZYPJ4) · [J45](https://www.youtube.com/watch?v=IlS8gTyH53Q)
+Liens : [J1](https://www.youtube.com/watch?v=Qf4m7mh1J90) · [J7](https://www.youtube.com/watch?v=8Zb66BjlbDs) · [J14](https://www.youtube.com/watch?v=6B_jIyAl4Wc) · [J30](https://www.youtube.com/watch?v=bQcO4pZYPJ4) · [J45](https://www.youtube.com/watch?v=IlS8gTyH53Q) · [J60](https://www.youtube.com/watch?v=Vwqq60Rfa_8)
 
 ## Limites à garder en tête
 
 - Ce sont ses chiffres déclarés, non vérifiés.
-- Sa trajectoire : à l'équilibre la semaine 1, 15 % de marge la semaine 2, 37 906 $ de CA et environ 10 % net le premier mois, 10 k$/jour avec 19 % de marge au jour 45.
+- Sa trajectoire : à l'équilibre la semaine 1, 15 % de marge la semaine 2, 37 906 $ de CA et environ 10 % net le premier mois, 10 k$/jour avec 19 % de marge au jour 45, puis 412 000 $ de CA et 16 % net au mois 2 (jours 31 à 60).
 - Il a de l'expérience (une revente, 8 ans de marketing) et a trouvé son produit gagnant dès le premier test : un débutant peut en tester 10 à 15 avant de trouver.
 - Il ne compte pas ses coûts fixes (apps, abonnements IA) dans le bénéfice quotidien.
