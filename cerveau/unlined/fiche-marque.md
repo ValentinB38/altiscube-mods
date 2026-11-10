@@ -1,6 +1,6 @@
 # unlined : fiche marque (état au 28/10/2026)
 
-> **08/11/2026 : boutique US arrêtée par Valentin** (pas rentable : du 02 au 06/11, 584,88 $ de pub pour 10 ventes, ROAS 0,56 contre 1,52 d'équilibre, CPM d'environ 260 $). Les efforts passent sur Maison Ouate (`../maison-ouate/fiche-marque.md`). Le reste de cette fiche décrit l'état avant l'arrêt.
+> **08/11/2026 : boutique US arrêtée par Valentin** (pas rentable : du 02 au 06/11, 584,88 $ de pub pour 10 ventes, ROAS 0,56 contre 1,52 d'équilibre, CPM d'environ 260 $). Les efforts passent sur Maison Ouate (`../maison-ouate/fiche-marque.md`). Le reste de cette fiche décrit l'état avant l'arrêt. Dernier jour le 09/11 (solde épuisé) ; bilan du compte US du 02 au 09/11 sans le 07/11 : 803,72 $, 19 ventes, ROAS 0,74 (voir la fin du journal).
 
 ## Produit et marque
 - **Produit :** lissant pour les ridules au-dessus de la lèvre (« line smoother »). Un film transparent qui comble l'apparence des lignes en environ une minute, se retire le soir.
