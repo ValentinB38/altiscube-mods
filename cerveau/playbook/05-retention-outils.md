@@ -49,6 +49,7 @@ J56-J62 : recrutement de deux personnes à plein temps au SAV via un formulaire 
 - Meta interroge les acheteuses, et les BM, comptes publicitaires et pages ont une note. Des clientes mécontentes font baisser les performances, voire mènent au ban.
 (AC vidéo J30)
 - Au J28, avec le volume : process et automatisations du SAV, gestion du stock avec l'agent, modération des commentaires sous les pubs Facebook et Instagram. (AC J28)
+- Vidéo J60 : son compte publicitaire tient parce que le produit est bon et les clientes contentes (« Meta sonde les clientes »), avec très peu de rétrofacturations. Délais de livraison affichés sur le site, « évidemment ». Pas de retour en dropshipping : il rembourse. (AC vidéo J60)
 
 ## R13. La trésorerie
 - Shopify Payments verse l'argent à J+5 ouvrés, alors que Meta et le fournisseur se paient tout de suite. Quand on scale, la trésorerie se tend.
@@ -56,3 +57,4 @@ J56-J62 : recrutement de deux personnes à plein temps au SAV via un formulaire 
 (AC vidéos J30, J45)
 - J40-J44 : les deux journées à 10 000 $ du week-end n'étaient pas encaissées le mercredi ; il a mis de l'argent perso dans la société pour payer stock et pubs. Chez nous, le compte publicitaire est prépayé (M20) : garder de l'avance dessus. (AC J40, J44)
 - J48 à J55 : ligne de crédit de l'agent (proposée par lui, 50 000 $, puis 100 000 $, puis 200 000 $ au J63) pour le stock et la livraison, 50 000 $ d'actions vendues, demande à Shopify Payments de raccourcir les délais. Une relation de confiance avec son agent depuis 2019. (voir `sources/adam-citron/journal-j45-j63.md`)
+- **Vidéo J60 :** paiement Shopify toujours à 5 jours ouvrés ; 100 000 $ remis de sa poche au mois 2 (démarré avec 50 000 $) ; l'agent avance le stock et les envois, avec une ligne de crédit qui pourrait monter à environ 500 000 $. Risque : un gel de Shopify Payments un week-end avec 400 000 à 500 000 $ en attente. Le cashback de 2 % de sa carte bancaire sur la dépense Meta couvre presque ses coûts fixes (4 125 $, 1 % du CA). (AC vidéo J60)

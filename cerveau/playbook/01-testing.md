@@ -20,6 +20,7 @@ Même conseil de @MurpazECOM le 28/10 : « give it 3 days before touching anythi
 
 ## T4. Une journée négative, c'est de la variance. Deux de suite, c'est une tendance.
 À 100-150 $/jour, deux ou trois ventes de plus ou de moins font basculer la journée. Après une journée rouge, on ne touche à rien. Après deux journées rouges consécutives, on agit : nouvelle offre, nouveau prix, ou on coupe. (AC J4, J5)
+**Confirmé (AC vidéo J60) :** une mauvaise journée ne justifie pas de baisser le budget ; un ROAS qui chute **3 jours de suite**, si. Une pub en ABO qui fait une mauvaise journée a 24 h de sursis, et la plupart se rattrapent le lendemain.
 Même sur un produit qui marche, le CA peut faire −50 % ou +100 % d'un jour à l'autre sans aucun changement. **On juge la tendance sur 3 jours minimum, 7 dans l'idéal, et à la semaine.** (AC vidéos J14, J30)
 J12-J13 : ses deux produits s'inversent chaque jour (P1 à 2,4 et P2 à 1,6, puis l'inverse), et le taux de conversion aussi (J13 : beaucoup de paniers abandonnés, « juste de la variance » ; J14 : record). Lissé sur plusieurs jours, il reste positif. (AC J12-J14)
 **Testé chez unlined le 28/10 :** un export Meta pris vers 17 h (Paris) montrait 0 vente ; la journée US complète en a compté 3 sur Shopify. On ne juge une journée que sur un export de fin de journée, et avec un compte à l'heure de Paris, sur des cumuls de plusieurs jours (M11). (NOUS)
@@ -65,3 +66,11 @@ Au J16, il renforce le contrôle qualité : l'agent juge la qualité, puis Adam 
 
 ## T12. Le budget de départ
 Un test, c'est environ 100 $/jour pendant 3 jours, soit 300 $. Adam recommande au moins 3 000 $ « confortables » pour se lancer aux US. (AC vidéo J30)
+Nuance (AC vidéo J60) : pour les US sur Meta, 3 000 €, « c'est chaud » : un test produit, c'est au moins une CBO à 100 $ pendant 2 jours, donc une vingtaine de tests au maximum en comptant le reste.
+
+## T13. Être premier sur son marché, ou nettement meilleur que le concurrent
+- Prendre un produit qui cartonne sur un marché et le lancer là où personne ne le vend encore : un autre pays (des US vers la France, de la France vers la Suède…) ou une autre plateforme (de Meta vers TikTok…).
+- **Ne pas copier un concurrent qui scale sur le même marché** : Meta est un système d'enchères, et une CBO à 100 $ ne gagne pas le trafic face à quelqu'un qui dépense 10 000 $/jour. Les copies à l'identique de son site et de ses 50 meilleures créas ont toutes coupé au bout de 3 jours.
+- **Seule exception : pouvoir faire nettement mieux** que lui (page, offre, créas). Adam était premier sur son produit et y reste seul. (AC vidéo J60)
+- Rejoint le désaccord noté en C7 (Andras, YouTube : reprendre les concepts d'un gros annonceur sur la même audience fait payer un CPM plus cher).
+- **Notre cas, Maison Ouate (hypothèse à surveiller) :** même produit et même marché que domelyah.com (environ 1 700 $/jour estimés au 06/11). Nos chiffres passent avant la règle : sur nos 3 premiers jours corrigés, CPM de 19 à 22 € et une journée rentable. Mais l'enchère se durcira avec la montée de nos budgets. Pistes : un vrai « mieux » (offre honnête, 5 couleurs, vraie date de livraison avant Noël, de vrais avis), et un pays où personne ne vend encore ce produit.
