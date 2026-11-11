@@ -53,3 +53,17 @@
 - **Limites :** ce sont des estimations tirées de la portée publiée en Europe ; on ne voit ni ses ventes ni son ROAS. Mais on n'augmente pas sa dépense pendant 2 semaines en perdant de l'argent.
 - **Pour nous, à tester plus tard (hypothèse) :** la Belgique francophone, comme lui, une fois notre campagne validée en France (même logique que M19).
 
+## 4e passage, 11/11 : un 2e produit en plein scale (demande de Valentin)
+**Méthode (règle T13, « premier sur son marché ») :** produits publiés depuis le 07/10 qui scalent en Allemagne, Espagne, Italie, Pays-Bas ou Royaume-Uni **sans être vendus en France**, plus les lancements français depuis le 21/10 classés par pression publicitaire ; puis vérification de la concurrence française pour chaque piste (environ 280 crédits TrendTrack).
+
+| Piste | Signaux | Concurrence en France | Verdict |
+|---|---|---|---|
+| **Plaid de lecture à capuche personnalisé** (prénom + petite lectrice dessinée), « Coccolibro » de monera.it (Italie), copié par regalora-madrid.com (Espagne) depuis le 01/11 | Publié le 22/10 ; pubs 3 → 18 → 87 → 127 (+383 % en une semaine) ; environ 12 300 $ de dépense estimée et 1,37 million de personnes touchées en Italie ; 59,99 € (barré 89,99 €), tailles enfant et adulte | **Aucune pub trouvée en France** (recherche par l'adresse du produit et par mots-clés) | **N° 1**. Un cadeau pour une mère ou une grand-mère qui lit : le même acheteur que Maison Ouate, et l'univers cocooning de la marque. Fabrication à la demande (impression personnalisée) : délai, coût et outil de personnalisation à valider vite pour Noël |
+| Nettoyant oreilles chien et chat (sensatine.com, puis helloorvo.com depuis le 02/11) | Publié le 24/10 ; pubs 11 → 19 → 26 (+73 %) ; environ 1 600 $ de dépense ; 34,90 €, 1 acheté + 1 offert | 2 boutiques, petites | Possible, toute l'année ; mais un liquide (transport), une autre clientèle, et sans lien avec Maison Ouate |
+| Chaussons à semelle « nuage » (plufeet.com, Espagne) | 165 pubs en 30 jours, environ 6 700 $ de dépense, 746 000 personnes touchées | **Pris** : Pluffi (pluffi.fr) installé depuis 2024, plus Giesswein et Isotoner | Non en produit d'appel ; éventuellement en vente complémentaire dans la boutique |
+| Chiffon microfibre « magique » (shopgenieclean.com, Royaume-Uni) | 103 pubs, environ 3 800 $ de dépense, ventes estimées environ 2 700 $/jour | **Pris** : Miroclean (746 pubs actives) | Non |
+| L'ensemble polaire en Italie ou en Allemagne | — | **Italie prise** : get-kavora.com traduit mot pour mot la pub de domelyah depuis le 06/11 ; Allemagne : beiiry.com vend un ensemble proche | Non pour l'instant (l'Espagne reste à vérifier) |
+
+**Concurrent domelyah.com au 11/11 :** environ 32 000 $ de dépense estimée au total (23 900 $ au 06/11), 103 pubs actives (+91 % en une semaine) : il accélère encore.
+**Ce qu'on ne copie pas chez monera.it :** sa pub est une histoire à la première personne (« Ma mère lit depuis que j'ai des souvenirs… ») présentée comme vécue ; chez nous, ce serait un faux témoignage (07, L121-4). On garde l'idée (le cadeau pour celle qui lit), pas le faux récit.
+
