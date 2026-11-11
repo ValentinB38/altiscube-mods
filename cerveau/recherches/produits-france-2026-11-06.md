@@ -73,3 +73,22 @@
 - **Prix vérifié sur la page le 11/11 :** 69,99 € (enfant, 127 × 102 cm) et 79,99 € (adulte, 178 × 119 cm), « prix Black Friday jusqu'au 30/11 ». Leur page affiche aussi « 4,8/5 (102 594+ avis) » et un minuteur de panier, à ne jamais reprendre (07).
 - **Leur personnalisation :** l'app Shopify Teeinblue. 9 calques : couleur du plaid (4), teint (4), coiffure (45 modèles × 6 couleurs), lunettes (3 + sans), pyjama (9), livre (fixe), boisson (12), prénom (15 caractères maximum). Environ 1,9 million de combinaisons, avec aperçu en direct. Notre version sera écrite par nous, avec nos propres dessins : on reprend le principe (choisir sa lectrice et son prénom), jamais leurs illustrations ni leur nom de produit.
 
+
+### Ses pubs, relevé du 11/11 (TrendTrack, pubs actives vers /products/coccolibro, triées par portée)
+- **118 pubs actives**, presque toutes de « Monera Italia », plus une copie espagnole (Regalora Madrid, « Su manta de lectura con su nombre -33% »). La n° 1 a fait environ 896 000 affichages, dont 547 000 en 7 jours ; dépense estimée par TrendTrack : environ 8 000 $.
+- **Un seul texte pour toutes** : une longue histoire à la première personne (une fille raconte le cadeau fait à sa mère qui lit), puis le lien et « Choisis sa lectrice, écris son prénom, 2 minutes ». Titre : « La sua coperta da lettura col suo nome 📚 -35% ». Description : « Spedizione Gratuita in Italia ». Bouton : Acheter.
+- **Vidéos** : 9:16, 14 à 25 s, avec un plan toutes les 1,5 à 2 s et une bulle blanche en haut qui change à chaque plan. Les accroches :
+  - « J'ai trouvé le cadeau parfait pour celle qui lit toujours » ;
+  - « Il me la vole tous les soirs » ;
+  - « Moi, le chat et 400 pages » ;
+  - « Je la lui ai achetée pour lire… ».
+  Les plans :
+  - porté de dos, bras ouverts ;
+  - sur le canapé ;
+  - gros plan de la polaire ;
+  - un homme qui le porte ;
+  - **l'enregistrement d'écran du configurateur** (choix des cheveux, saisie du prénom, « Aperçu ») ;
+  - une carte de fin avec 3 arguments, dont un « +100 000 clients heureux » invérifiable.
+  Musique : une chanson sous droits. Une version finit sur « OFFERTA DI NATALE -40% Solo per pochi giorni ».
+- **Visuels** : en 1:1. Plié avec des livres et un sceau « Édition Noël » ; sur l'accoudoir ; porté devant le sapin avec « -40% » ; à plat sur le lit ; « ULTIMI GIORNI » ; emballé avec de la ficelle ; « Calda come un abbraccio ».
+- **Notre version (11/11)** : 5 vidéos et 8 visuels, dans le même système mais sans le faux récit, sans fausse réduction ni fausse urgence, avec notre dessin et notre musique (voir `decisions.md`).
