@@ -55,6 +55,7 @@ Les deux sont compatibles : il nichera après avoir trouvé la traction, et nous
 - Quand une partie des clientes commence à visiter le site, soigner la page d'accueil et la page de collection.
 (AC vidéos J14, J30)
 8lab (28/10) : des produits complémentaires bien placés montent la valeur perçue et le panier moyen sans toucher au prix de base. Pour unlined : le 2e produit pour la même cliente (voir `sources/conseils-x/8lab-2026-10-28.md`).
+**À tester chez Maison Ouate (11/11, hypothèse) : le pack présélectionné peut freiner la conversion.** La fiche présélectionne « 2 achetés + 1 offert » (77,98 €). Signes : environ 3,7 ajouts au panier Meta par panier (donc surtout des paniers de 3 lignes) ; 4 des 6 commandes sont des ensembles seuls (ces acheteurs ont changé de palier) ; les paiements commencés partent dès le premier écran, celui qui affiche le total, avant de saisir l'e-mail. Pour un homme qui cherche un seul cadeau, 77,98 € au paiement est une surprise. Test : présélectionner 1 ensemble, garder le pack en avant avec son badge. Bon à savoir : en droit européen, une option par défaut qui ajoute un paiement doit avoir l'accord exprès de la cliente (directive 2011/83, article 22) ; présélectionner 1 ensemble est aussi plus sûr. (NOUS)
 
 ## O11. Une fois la traction confirmée : packaging et variantes
 - Un packaging personnalisé avec le logo fait monter la valeur perçue.
