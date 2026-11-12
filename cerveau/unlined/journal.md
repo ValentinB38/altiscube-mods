@@ -127,3 +127,5 @@ L'ancien compte Meta est à l'heure de Paris : sa journée commence à 19 h (UTC
 - la livraison est bien gratuite pour 1 et 3 ensembles, et la réduction 2 + 1 s'applique au panier (77,98 €) ;
 - **mais la méthode de livraison s'appelle « Colissimo Domicile, 3 à 5 jours »**, alors que la fiche annonce 7 à 9 jours ouvrés ;
 - **la fiche affiche toujours « +98 651 clientes », « 4,8/5 sur 34 814 avis » et des avis rédigés** (« Commande arrivée très rapidement… »), sur une boutique ouverte le 06/11 avec 6 commandes : ce sont de faux avis, interdits (L121-4 du Code de la consommation).
+
+**Maison Ouate, 12/11 (partiel, non jugé, M11, d'après Valentin) : première vente du plaid de lecture personnalisé, à 79,99 €** (sans aucune pub du plaid, qui n'en a pas encore), **et 0 € sur le pyjama Le Cocon.** À retrouver dans la fiche de la commande : la provenance de la vente (organique ou visiteur venu d'une pub du pyjama). Le plaid n'a encore ni imprimeur confirmé, ni délai réel. Au paiement, la livraison affichée est « Colissimo Domicile, 3 à 5 jours » : la cliente peut donc attendre son plaid sous 3 à 5 jours.

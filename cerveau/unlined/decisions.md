@@ -108,3 +108,11 @@ Chaque décision cite la règle du playbook qui la justifie. On note ensuite le 
 5. Regarder dans Shopify (Analyses > Rapports, comportement au paiement) à quelle étape du paiement les gens partent.
 
 Budget : on garde 50 €/jour pendant les corrections (T4 : une mauvaise journée ne justifie pas de baisser). **Si le 12/11 est aussi rouge (3e journée de suite, règle AC J60) et que la commande test ne révèle rien, on baisse ou on coupe le 13/11 au soir**, avant le verdict du 14/11. | T4, T6, M7, 07, droit de la consommation (L121-4, consentement) | Des paiements qui aboutissent de nouveau : au moins 1 sur 3 paiements commencés. |
+| 12/11 | **Plaid de lecture : une vraie commande (79,99 €) est arrivée avant que la production soit prête. Priorité : l'honorer et prévenir la cliente.** Actions :
+1. Récupérer dans la commande les lignes de personnalisation (Prénom, Plaid, Lectrice, Réf. personnalisation), sans les coordonnées de la cliente, puis générer le fichier d'impression avec l'outil atelier.
+2. Faire chiffrer à l'agent, dès aujourd'hui, l'impression à l'unité sur un plaid à capuche doublé sherpa : coût, délai réel jusqu'en France, photo d'un exemplaire. Piste de secours, non vérifiée : un fournisseur d'impression à la demande.
+3. Écrire tout de suite à la cliente : article fabriqué à la commande, délai estimé honnête, remboursement possible si le délai ne lui convient pas. La livraison doit respecter le délai annoncé, ou 30 jours au maximum (L216-1) ; sinon, la cliente peut annuler.
+4. Créer un profil d'expédition à part pour le plaid, avec le vrai délai (fabrication + transport), à la place de « Colissimo 3 à 5 jours ».
+5. Repasser le plaid en brouillon (ou « Bientôt disponible ») tant que l'agent n'a pas confirmé, ou afficher le vrai délai sur la fiche.
+
+Les pubs du plaid restent en attente : premier en France (T13), mais pas avant que la production suive. | T11, T13, 07, L216-1 (délai de livraison) | La cliente reçoit un plaid conforme à son aperçu, dans le délai annoncé ; le coût réel et le délai de l'agent sont connus, ce qui permet de fixer le prix et de lancer les pubs. |
