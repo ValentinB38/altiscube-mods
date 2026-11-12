@@ -116,3 +116,9 @@ Budget : on garde 50 €/jour pendant les corrections (T4 : une mauvaise journé
 5. Repasser le plaid en brouillon (ou « Bientôt disponible ») tant que l'agent n'a pas confirmé, ou afficher le vrai délai sur la fiche.
 
 Les pubs du plaid restent en attente : premier en France (T13), mais pas avant que la production suive. | T11, T13, 07, L216-1 (délai de livraison) | La cliente reçoit un plaid conforme à son aperçu, dans le délai annoncé ; le coût réel et le délai de l'agent sont connus, ce qui permet de fixer le prix et de lancer les pubs. |
+| 12/11 | **Rectificatif : les pubs du plaid sont déjà en ligne (lancées par Valentin le 12/11), et la première vente vient d'elles.** On ne coupe pas un produit qui vend dès son premier jour (T5), mais **on ne monte pas le budget tant que la production n'est pas confirmée**. Chaque nouvelle commande est une promesse de livraison à tenir. Aujourd'hui :
+1. Afficher un délai prudent et honnête sur la fiche et au paiement (profil d'expédition du plaid) : par exemple « Fabriqué à la commande, livraison en 12 à 18 jours ouvrés », à corriger dès que l'agent donne le vrai délai.
+2. Obtenir de l'agent un oui ferme, le coût et le délai.
+3. **Si aucun fournisseur n'est confirmé le 13/11 au soir, on met en pause les pubs du plaid** et on rembourse les commandes qu'on ne pourra pas livrer à temps.
+
+Prix (79,99 €) et ROAS d'équilibre : à calculer dès que le coût livré est connu. | T5, T11, M4, 07, L216-1 | Les pubs continuent sans promesse intenable ; production confirmée sous 24 h, ou pause. |
