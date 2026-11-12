@@ -103,3 +103,27 @@ L'ancien compte Meta est à l'heure de Paris : sa journée commence à 19 h (UTC
 **Maison Ouate, 11/11 à midi (partiel, non jugé, M11) :** 17 visites, 3 paiements abandonnés, 0 vente. Le paiement reste le point faible : sur les journées dont on a l'entonnoir (08, 09 et 11/11 à midi), environ 2 paiements terminés pour 10 commencés, contre environ 1 sur 2 d'habitude en e-commerce (bon sens, à vérifier). À vérifier dans les paiements abandonnés (ceux-là ont laissé leur e-mail) : le montant, l'étape où ils s'arrêtent et le délai de livraison affiché ; et la commande test complète, toujours pas faite.
 **Maison Ouate, 11/11, précision :** les 3 paiements commencés de la matinée ne sont pas dans la liste des paiements abandonnés : ils sont partis dès le premier écran du paiement, avant de saisir leur e-mail (comme le 06/11). Contrôle de la fiche en ligne : le délai est bien affiché (« Expédition sous 24 à 48 h, livraison en 7 à 9 jours ouvrés », plus une date estimée sous le bouton), à confirmer avec le vrai délai de l'agent. La correction de la fiche décidée le 09/11 (blocs de preuve sociale et section vidéo) n'est pas encore faite. Prochain test : une commande complète en passant par la pub, dans le navigateur de Facebook ou d'Instagram.
 **Maison Ouate, 11/11 en fin de journée (partiel) :** 21 visites, 4 paniers (19 %), 4 paiements commencés, 0 vente. Tous les paniers vont jusqu'au paiement, puis plus rien. **Test du paiement par Claude (iPhone simulé, navigateur normal, aucune commande passée) :** 3 ensembles au panier = 77,98 € (116,97 € barré), le paiement s'affiche en français avec le bon total, carte, PayPal, Klarna et paiement express ; pas d'erreur. Le paiement n'est donc pas cassé dans un navigateur normal. Pistes restantes : PayPal ou le paiement express qui échouent (la personne part sans avoir saisi d'e-mail), le navigateur intégré de Facebook et d'Instagram, la confiance. À corriger aussi : la case « Envoyez-moi des nouvelles et des offres » est cochée par défaut (un consentement pré-coché n'est pas valable en droit européen). Ce test ajoute une visite et un paiement commencé aux chiffres du 11/11.
+
+**Maison Ouate, 11/11 (journée complète) : 47,11 € dépensés, 0 vente (Meta et Shopify), ROAS 0** pour un équilibre réel d'environ 1,83, soit −47 €. Environ 1 760 affichages, **CPM ≈ 26,7 €**, environ 57 clics (CTR ≈ 3,2 %, CPC ≈ 0,83 €), 27 vues de page. Par pub :
+- S2 : 22,78 €, 17 vues de page, 4 ajouts au panier ;
+- « New Sales ad » (V1) : 8,70 € ;
+- V2 : 5,63 €, 3 ajouts au panier ;
+- S8 : 4,74 € ;
+- S6 : 1,98 € ;
+- V3 : 1,66 € ;
+- S1 : 1,24 € ;
+- S3, S5 : quelques centimes ; S4 et S7 : rien.
+
+**Shopify : 34 visites, 7 paniers (20,6 %), 5 paiements commencés (14,7 %), 0 commande.** Ces chiffres comprennent nos tests du 11/11 au soir : le test du paiement par Claude (1 panier, 1 paiement commencé) et une dizaine de visites des tests automatiques de la fiche du plaid. Sans eux : environ 24 visites, 6 paniers, 4 paiements commencés, 0 commande.
+
+**Deuxième journée rouge de suite** (10/11 : −24 € ; 11/11 : −47 €).
+
+**Depuis la correction de l'offre (07-11/11) : 253,59 €, 6 commandes, 302,92 €, ROAS 1,19, résultat ≈ −88 €.** Avec le J0 : 290,67 €, ROAS 1,04.
+
+**Le blocage est au paiement, pas avant :** les visiteurs ajoutent au panier et commencent le paiement à des taux corrects (20 % et 15 %), puis ne terminent pas. Depuis le 08/11 : environ 2 paiements terminés pour 19 commencés.
+
+**Contrôles du 12/11 sur la boutique en ligne** (lecture de la page sans navigateur, plus un panier vidé aussitôt) :
+- le palier « 1 ensemble » est bien présélectionné (changement fait) ;
+- la livraison est bien gratuite pour 1 et 3 ensembles, et la réduction 2 + 1 s'applique au panier (77,98 €) ;
+- **mais la méthode de livraison s'appelle « Colissimo Domicile, 3 à 5 jours »**, alors que la fiche annonce 7 à 9 jours ouvrés ;
+- **la fiche affiche toujours « +98 651 clientes », « 4,8/5 sur 34 814 avis » et des avis rédigés** (« Commande arrivée très rapidement… »), sur une boutique ouverte le 06/11 avec 6 commandes : ce sont de faux avis, interdits (L121-4 du Code de la consommation).
