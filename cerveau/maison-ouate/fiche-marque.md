@@ -23,6 +23,14 @@ Boutique française mono-produit, lancée le 06/11 (maisonouate.fr). Ses chiffre
 - Marge = chiffre d'affaires (hors TVA le cas échéant) − coût livré − frais de paiement, avant la pub. Le ROAS d'équilibre se lit sur le chiffre d'affaires TTC que montre Meta.
 - **J1 (07/11) :** 2 commandes d'un ensemble (38,99 € et 29,99 €) pour 37,09 € de pub : environ +4 € sans TVA, environ −7 € avec TVA.
 
+## 2e produit : le plaid de lecture personnalisé (depuis le 12/11)
+- Plaid à capuche doublé sherpa, avec une lectrice dessinée et un prénom à composer sur la fiche ; configurateur et photo portée codés par nous (`../unlined/decisions.md`, 11/11). Fiche : `/products/plaid-de-lecture`.
+- **Prix : 79,99 € (adulte, 178 × 119 cm) et 69,99 € (enfant, 127 × 102 cm)**, sans prix barré. Livraison offerte.
+- **Coût livré : 25 € (donné par Valentin le 13/11 ; production gérée par lui avec l'agent).**
+- **Sans TVA (franchise) : marge 52,74 € sur l'adulte, ROAS d'équilibre 1,52, CPA max ≈ 53 € ; enfant : marge 42,99 €, équilibre 1,63.** Avec TVA à 20 % : 2,03 (adulte) et 2,23 (enfant).
+- Pubs : campagne séparée « PLAID », 5 vidéos et 8 statiques (format repris de monera.it), lancée le 12/11. J1 : 59,91 €, 2 ventes, ROAS 2,67, environ +46 €.
+- Garde-fous : délai réel affiché sur la fiche et au paiement ; pas de droit de rétractation pour un article personnalisé (L221-28, 3°), à écrire dans les CGV.
+
 ## Publicité
 - Compte agence Adscale Media (« EUR 1140 »), en euros, heure de Paris. Campagne « OUATE | Ventes | FR », CBO 50 €/jour (Meta en dépense environ 37 €, M2), départ le 06/11 en journée.
 - Adset vidéos : V1 (nommée « New Sales ad » dans le compte), V2, V3. Adset statiques : S1, S2, S3, S4.

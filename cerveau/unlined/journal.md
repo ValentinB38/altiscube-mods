@@ -149,3 +149,5 @@ Le ROAS d'équilibre dépend du coût livré, pas encore connu : avec 30 € de 
 **Journée entière (12/11) :** 93,44 € de pub pour 237,96 € de ventes, ROAS 2,55.
 
 **Meta rate encore des ventes :** 2 sur 3 le 12/11. Depuis le 09/11, 5 commandes sur 10 ne sont pas remontées.
+
+**Plaid, coût livré connu (13/11) : 25 €.** ROAS d'équilibre 1,52 pour l'adulte à 79,99 €, sans TVA. **Le 12/11 (J1 des pubs) : 59,91 € de pub, 2 ventes, ROAS 2,67, soit environ +45,57 €.** Toute la boutique le 12/11 : environ +49 €, la meilleure journée depuis le lancement.
