@@ -129,3 +129,23 @@ L'ancien compte Meta est à l'heure de Paris : sa journée commence à 19 h (UTC
 - **la fiche affiche toujours « +98 651 clientes », « 4,8/5 sur 34 814 avis » et des avis rédigés** (« Commande arrivée très rapidement… »), sur une boutique ouverte le 06/11 avec 6 commandes : ce sont de faux avis, interdits (L121-4 du Code de la consommation).
 
 **Maison Ouate, 12/11 (partiel, non jugé, M11, d'après Valentin) : première vente du plaid de lecture personnalisé, à 79,99 €** (venue des pubs du plaid : Valentin les a lancées le 12/11, avant la confirmation de l'imprimeur), **et 0 € sur le pyjama Le Cocon.** Le plaid n'a encore ni imprimeur confirmé, ni délai réel. Au paiement, la livraison affichée est « Colissimo Domicile, 3 à 5 jours » : la cliente peut donc attendre son plaid sous 3 à 5 jours.
+
+**Maison Ouate, 12/11 (journée complète), deux campagnes :**
+
+**Plaid de lecture, J1 des pubs (lancées par Valentin le 12/11) :** 59,91 €, environ 3 140 affichages, **CPM ≈ 19,1 €**, 56 clics (CTR ≈ 1,8 %, CPC ≈ 1,07 €), 21 vues de page. **2 ventes sur Shopify à 79,99 €, soit 159,98 €, ROAS Shopify 2,67.** Meta ne voit qu'une vente (V3-mamie, 5,66 € dépensés), donc ROAS Meta 1,34. Par pub :
+- V1-cadeau-celle-qui-lit : 20,60 €, 25 clics, 11 vues de page, 1 ajout au panier ;
+- S2-celle-qui-lit : 11,27 €, CTR 0,56 % (faible) ;
+- S8-squatte : 5,54 €, **CTR 5,5 %**, 5 vues de page ;
+- V3-mamie : 5,66 €, 1 vente selon Meta ;
+- V4 : 4,90 € ;
+- S4 : 3,58 € ;
+- les autres : moins de 2,50 € chacune.
+
+Le ROAS d'équilibre dépend du coût livré, pas encore connu : avec 30 € de coût, environ 1,68, soit un bénéfice d'environ +36 € sur la journée ; avec 40 €, environ 2,12, soit environ +16 €.
+
+**Pyjama Le Cocon :** 33,53 €, environ 1 310 affichages, CPM ≈ 25,6 €, 39 clics (CTR ≈ 3,0 %, CPC ≈ 0,86 €), 21 vues de page. **1 commande d'un pack 2 + 1 à 77,98 € sur Shopify**, que Meta n'a pas vue. **ROAS 2,33, pour un équilibre à 2,08 sur un 2 + 1, soit environ +4 €.** La série de journées rouges s'arrête (T4). S2 : 14,14 €, 20 clics, 10 vues de page.
+**Pyjama depuis la correction de l'offre (07-12/11) :** 287,12 €, 7 commandes, 380,90 €, ROAS 1,33, environ −84 €.
+
+**Journée entière (12/11) :** 93,44 € de pub pour 237,96 € de ventes, ROAS 2,55.
+
+**Meta rate encore des ventes :** 2 sur 3 le 12/11. Depuis le 09/11, 5 commandes sur 10 ne sont pas remontées.

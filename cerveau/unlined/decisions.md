@@ -122,3 +122,8 @@ Les pubs du plaid restent en attente : premier en France (T13), mais pas avant q
 3. **Si aucun fournisseur n'est confirmé le 13/11 au soir, on met en pause les pubs du plaid** et on rembourse les commandes qu'on ne pourra pas livrer à temps.
 
 Prix (79,99 €) et ROAS d'équilibre : à calculer dès que le coût livré est connu. | T5, T11, M4, 07, L216-1 | Les pubs continuent sans promesse intenable ; production confirmée sous 24 h, ou pause. |
+| 13/11 | **Maison Ouate après le 12/11 : rien ne bouge sur les pubs, la priorité est la production du plaid et le suivi des ventes par Meta.**
+- **Plaid** : J1 à 2,67 de ROAS Shopify, avec 2 ventes. On ne touche à rien pendant 3 jours (T5), et on ne monte pas le budget après une seule bonne journée (M4), d'autant que la production n'est pas confirmée.
+- **La condition du 12/11 tient** : sans fournisseur confirmé ce soir, on met en pause les pubs du plaid. Il y a déjà 2 commandes à honorer.
+- **Pyjama** : +4 €, la série rouge s'arrête (T4). On continue jusqu'au verdict du 14/11.
+- **Suivi des ventes** : Meta n'a pas vu 5 commandes sur 10 depuis le 09/11. Il optimise donc avec la moitié des signaux. À vérifier dans Shopify (application Facebook et Instagram > Partage de données) : le partage des données doit être réglé sur « Maximum » (API Conversions). | T4, T5, M4, M18 | Plaid : un fournisseur confirmé ce soir, ou la pause. Les ventes Shopify et Meta concordent à nouveau. |
