@@ -151,3 +151,20 @@ Le ROAS d'équilibre dépend du coût livré, pas encore connu : avec 30 € de 
 **Meta rate encore des ventes :** 2 sur 3 le 12/11. Depuis le 09/11, 5 commandes sur 10 ne sont pas remontées.
 
 **Plaid, coût livré connu (13/11) : 25 €.** ROAS d'équilibre 1,52 pour l'adulte à 79,99 €, sans TVA. **Le 12/11 (J1 des pubs) : 59,91 € de pub, 2 ventes, ROAS 2,67, soit environ +45,57 €.** Toute la boutique le 12/11 : environ +49 €, la meilleure journée depuis le lancement.
+
+**Maison Ouate, 13/11 (vendredi, journée complète) :**
+- **Pyjama : 53,81 € de pub, 4 commandes (2 packs 2 + 1 et 2 ensembles seuls), 233,94 €, ROAS 4,35, environ +71 €.** Meta voit les 4 ventes (« New Sales ad » 2, S6-un-pour-chacune 2 ; S6 prend 37,38 €).
+- **Plaid : 49,84 €, 0 vente, −50 €.** S3-noel 13,87 €, V1 12,68 €, S8-squatte 12,09 € (CTR 1 %). S2-celle-qui-lit : CTR 11,4 %, 15 vues de page pour 4,08 €.
+- **Journée : 103,65 € de pub, 233,94 € de ventes, ROAS 2,26, environ +21 €.**
+
+**Maison Ouate, 14/11 (samedi, journée complète), record :**
+- **Pyjama : 44,74 € de pub, 7 commandes d'un ensemble seul (7 × 38,99 = 272,93 €), ROAS 6,10, environ +130 €.** Le palier « 1 ensemble » présélectionné se voit : 7 commandes d'un ensemble, aucune réduction. Meta voit 4 ventes : « New Sales ad », V2, S2 et S8, une chacune ; S6 prend 22,62 € sans vente.
+- **Plaid : 39,22 €, 2 ventes, 159,98 €, ROAS 4,08, environ +66 €.** Les ventes viennent de S3-noel-celle-qui-lit (21,30 €) et de S8-squatte (4,04 €).
+- **Journée : 83,96 € de pub, 432,91 € de ventes (9 commandes, panier moyen 48,10 €), ROAS 5,16, environ +196 €.** Samedi : Meta dépense moins que le budget, comme le décrit Adam (M17).
+
+**Cumuls au 14/11 :**
+- Pyjama (depuis le 07/11) : 385,67 € de pub, 18 commandes, 887,77 €, **ROAS 2,30, environ +117 €** (−88 € au 11/11). Trois journées positives de suite : +4, +71, +130 €.
+- Plaid (depuis le 12/11) : 148,97 €, 4 ventes, 319,96 €, **ROAS 2,15 pour un équilibre à 1,52, environ +62 €.** Journées : +46, −50, +66 €.
+- Boutique entière depuis le 07/11 : 534,64 € de pub, 1 207,73 € de ventes, ROAS 2,26, environ +179 €.
+
+**15/11 (dimanche) vers 10 h (partiel, non jugé, M11) :** 22 € sur le plaid et 24 € sur le pyjama, puis une vente de pyjama : ROAS de la matinée ≈ 0,85.
