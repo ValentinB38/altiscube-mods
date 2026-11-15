@@ -32,6 +32,10 @@ Quand deux sources se contredisent, garde les deux dans le playbook et note le d
 - **Ce dépôt est public** (choix de Valentin le 28/10/2026) : tout ce qui est écrit ici est lisible par n'importe qui. Aucun secret ici : ni mot de passe, ni accès, ni coordonnées clients.
 - **La formation Evolve ne va pas ici** : c'est un contenu payant, et des résumés publiés en public reviendraient à le redistribuer. Elle vit dans le dépôt privé `ValentinB38/unlined-cerveau` (créé le 05/11/2026, voir `cerveau/sources/evolve/README.md`). Pour les sources publiques comme Adam Citron, des résumés avec le lien vers la source suffisent.
 
+## Tweets du jour (build in public)
+
+Ne jamais nommer ni décrire les produits (ni « pyjama », ni « plaid », ni « cadeau personnalisé ») : seulement les chiffres et les leçons. Demande de Valentin du 15/11/2026.
+
 ## Garde-fous permanents (conformité US)
 
 Pas de faux avis, de faux médecins, de faux stocks ou de fausses ruptures, de fausses notifications (règle Meta), de « 200 000 clientes » inventées.
