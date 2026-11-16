@@ -156,3 +156,30 @@ Côté compléments :
 2. Contacter 3 à 5 fabricants à façon français (marque blanche, quantités minimales, délais, prix).
 3. Trouver un vétérinaire nutritionniste pour la formule et les allégations.
 4. Monter la marque (nom, histoire, emballage), et ouvrir une liste d'attente ou des précommandes avant de produire.
+
+---
+
+## Mise à jour du 16/11 : articulations ou digestion d'abord ?
+**Nouvelles informations de Valentin :** il a accès à une expertise vétérinaire et au terrain d'un centre équestre, où **les produits pour les articulations sont très utilisés**. C'est notre propre observation : elle passe avant les signaux généraux (ordre de confiance du cerveau).
+
+**Avis : lancer les articulations d'abord, avec un seul produit phare ; la digestion devient le 2e produit, 2 à 3 mois après, pour la vente croisée et un pack « duo ». Ne pas lancer les deux d'un coup.**
+
+**Pourquoi les articulations :**
+- notre propre observation de terrain ;
+- un besoin que tout le monde comprend (chevaux âgés, chevaux de sport), plus simple à expliquer dans une pub ;
+- de gros signaux à l'étranger : 100x Osteo-MAX environ 174 000 $ par mois, OptiWize environ 117 000 $, Wild Mane environ 82 000 $ en 5 mois avec un seul produit, Alpurial, Kristallkraft Move.
+
+**Pourquoi pas les deux d'un coup :**
+- deux stocks, deux formules à faire valider, deux jeux de créas ;
+- un budget pub coupé en deux, donc un apprentissage plus lent ;
+- l'ADN voulue : un produit parfait d'abord.
+
+**Le revers :** en sellerie, les articulations sont la catégorie la plus encombrée (beaucoup de marques installées). Il faut donc se démarquer :
+- une formule conçue par un vétérinaire, avec les doses affichées ;
+- des lots analysés pour les substances interdites en compétition (pas d'harpagophytum, entre autres) ;
+- un prix en direct sans la marge de la sellerie ;
+- l'abonnement.
+
+**Pour trancher avec des chiffres (à tester) :** avant de produire, 5 à 7 jours de pub sur deux pages « liste d'attente », une pour les articulations et une pour la digestion, environ 10 € par jour chacune. On compare le coût d'une inscription et le taux de clic, et on garde la plus forte. C'est la même méthode que pour nos tests de produits.
+
+**À vérifier :** ce qu'un vétérinaire peut faire publiquement pour une marque qu'il cofonde (usage du titre dans la communication, conflits d'intérêts), auprès de l'Ordre des vétérinaires.
