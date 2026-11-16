@@ -168,3 +168,17 @@ Le ROAS d'équilibre dépend du coût livré, pas encore connu : avec 30 € de 
 - Boutique entière depuis le 07/11 : 534,64 € de pub, 1 207,73 € de ventes, ROAS 2,26, environ +179 €.
 
 **15/11 (dimanche) vers 10 h (partiel, non jugé, M11) :** 22 € sur le plaid et 24 € sur le pyjama, puis une vente de pyjama : ROAS de la matinée ≈ 0,85.
+
+**Maison Ouate, 15/11 (dimanche, journée complète), mauvaise journée** (ventes Shopify à confirmer par Valentin ; Meta n'en voit qu'une) :
+- **Pyjama : 67,75 € de pub**, environ 3 310 affichages, CPM ≈ 20,4 €, 116 clics (CTR 3,5 %, CPC 0,58 €), 48 vues de page, 10 ajouts au panier. **1 vente selon Meta (38,99 €)**. S6-un-pour-chacune a pris 50,27 € (42 vues de page, 10 ajouts au panier, 1 vente).
+- **Plaid : 70,71 € de pub**, environ 3 690 affichages, CPM ≈ 19,2 €, **164 clics (CTR 4,4 %, CPC 0,43 €), mais seulement 36 vues de page (22 % des clics)**, 3 ajouts au panier, 0 vente. S3-noel a pris 39,25 € ; V1 11,34 € ; S8-squatte 10 €.
+- **Journée : 138,46 € dépensés pour 100 € de budget** (Meta dépasse le dimanche, M2 et M17, à moins que le budget ait été monté à 14 h). Avec une seule vente : ROAS ≈ 0,28, environ −113 €.
+
+**Cumuls (avec une seule vente le 15/11) :**
+- Pyjama depuis le 07/11 : environ +75 €. Sur les 3 derniers jours (13-15/11) : 166,30 € de pub, 545,86 € de ventes, ROAS 3,28.
+- Plaid depuis le 12/11 : 219,68 € de pub, 4 ventes, 319,96 €, **ROAS 1,46 pour un équilibre à 1,52, environ −9 €.**
+
+**Contrôles du 16/11 :**
+- La boutique, les deux fiches et le panier fonctionnent. Le correctif de la photo portée est en ligne.
+- Chargement sur iPhone en 4G lente : sur la fiche du pyjama, le plus gros élément s'affiche en 1,4 s, mais la page charge 3 vidéos d'environ 4,7 Mo chacune (section « Vous le portez ») ; sur la fiche du plaid, en 3,9 s pour la photo portée, pour un poids total d'environ 1 Mo.
+- **Les faux compteurs et faux avis sont toujours sur la fiche du pyjama** (« 98,651 », « 34,814 »).
