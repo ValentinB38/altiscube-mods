@@ -89,3 +89,70 @@ Côté français, peu de marques font de la pub :
 **Attention :**
 - C'est un projet de 12 à 24 mois, avec du stock et de vraies photos de chevaux : les cavalières repèrent vite un cheval ou un équipement mal généré par IA.
 - C'est un autre jeu que les tests rapides de Maison Ouate.
+
+---
+
+## Recherche approfondie, même jour : la niche la plus forte (achats répétés, concurrence invisible en France, gros signaux ailleurs)
+**Méthode :**
+- 586 produits équestres actifs en pub mais **pas en France**, triés par ventes estimées ;
+- les produits pour chevaux vendus **par abonnement** dans le monde ;
+- l'analyse détaillée des deux candidats les plus nets ;
+- les annonceurs « cheval » qui touchent la France, triés par nombre de pubs actives.
+
+Coût : environ 500 crédits (environ 4 800 restants jusqu'au 26/11).
+
+**Le résultat est net : les compléments pour chevaux vendus en ligne, souvent par abonnement, scalent en Allemagne, au Royaume-Uni, aux États-Unis et en Australie, et personne ne le fait en France.**
+
+| Marque (pays) | Produits | Ventes estimées (boutique, 30 jours) | Signal |
+|---|---|---|---|
+| **Kristallkraft** (Allemagne) | **Coolly, « estomac sensible », 72,90 €** ; Move (articulations) ; No1 (« liant de toxines ») | **environ 520 000 $** ; Coolly seul environ 242 000 $ (3 000 ventes par mois), 781 avis à 4,7 | Pubs de Coolly : 8 en mai, 92 aujourd'hui (+20 % sur la semaine) ; ventes +146 % sur 14 jours. Allemagne et Autriche seulement. Leurs arguments : « Hofmanufaktur » (fabriqué à la ferme), sans mélasse, plantes, « 6 semaines satisfait ou remboursé », « plus de 100 000 chevaux » |
+| **Alpurial** (Allemagne) | Gelenkfit (articulations), Sehnenstark (tendons), 59,90 € en abonnement | environ 288 000 $ | — |
+| **100x Equine** (États-Unis) | **Gut X (digestion) 134,79 $**, Osteo-MAX (articulations) 231,56 $, en abonnement | **environ 881 000 $** ; Gut X environ 404 000 $ | Sans pub Meta active (marque installée) |
+| **Neighked / Naked Horse** (Royaume-Uni) | Huile crins et robe, calmant, peau, en abonnement | environ 450 000 $ | — |
+| OptiWize, BioMane, Equinety, Poseidon (gut, métabolisme), Kelato (gut), Mavrik (spray naturel) | États-Unis, Australie | de 50 000 à 360 000 $ chacune | Poseidon : 35 pubs, 66 lancées en 30 jours |
+| Wild Mane (États-Unis, lancée en juin 2026) | Un seul produit : friandises articulations, 109,90 $ | environ 82 000 $ | 217 pubs en 5 mois : une boutique à produit unique qui scale |
+
+**En France**, les annonceurs « cheval » qui font le plus de pub vendent :
+- du matériel et des vêtements : Winderen, Ariat, We are Pomme, Horse Pilot, Dada Sport ;
+- des soins : karitale (265 pubs, mais seulement environ 353 000 personnes touchées par mois).
+
+Côté compléments :
+- **Audevard** (81 pubs, environ 193 000 personnes touchées par mois) ;
+- NAF (8 pubs) ;
+- equi-mojo (23 à 35 pubs, environ 6 500 $ par mois estimés).
+
+**Aucune marque française de compléments vendus en ligne avec abonnement n'a de taille** : les grandes marques passent par les selleries et les vétérinaires.
+
+**Les sous-niches, de la plus forte à la moins forte :**
+1. **La digestion (« estomac sensible », flore intestinale) :** Kristallkraft Coolly, 100x Gut X, Poseidon, Kelato. **C'est la plus forte.** Les chevaux de sport et ceux qui vivent au box y sont très exposés (ulcères d'estomac fréquents : bon sens vétérinaire, à confirmer avec un vétérinaire). On en donne tous les jours, donc la cliente rachète.
+2. **Les articulations et les tendons :** Osteo-MAX, OptiWize, Alpurial, Kristallkraft Move, Wild Mane. Ça touche surtout les chevaux âgés et les chevaux de sport.
+3. **Les crins et la robe :** BioMane, Neighked, Glow. Très visuel en pub, mais moins vital pour la propriétaire.
+4. Les calmants : Neighked, Nupafeed. **Risque de dopage** (certaines plantes sont interdites en compétition), à éviter en premier produit.
+
+**Recommandation (hypothèse à tester) : une marque française de compléments pour la digestion du cheval, avec un produit phare et un abonnement**, sur le modèle de Kristallkraft Coolly, avec l'ADN « Apple » voulue par Valentin :
+- un seul produit au départ, et un emballage très soigné ;
+- une formule et des doses affichées en toute transparence ;
+- une formule conçue avec un vétérinaire nutritionniste, fabriquée en France ;
+- **chaque lot analysé pour les substances interdites en compétition** (à confirmer avec un laboratoire, par exemple le Laboratoire des courses hippiques) ;
+- un abonnement souple (livraison toutes les 4 à 8 semaines, sans engagement) ;
+- une garantie satisfait ou remboursé de 6 semaines, comme Kristallkraft.
+
+**Ce qu'il faut savoir avant :**
+- **Réglementation :** c'est un aliment complémentaire (règlement 767/2009). Il faut :
+  - enregistrer l'entreprise ou passer par un fabricant déjà enregistré ;
+  - un étiquetage réglementaire ;
+  - **aucune promesse de soin** : pas de « soigne les ulcères », c'est le rôle d'un médicament vétérinaire. On peut dire « soutient le confort digestif », dans les limites des allégations autorisées, à faire valider.
+- **Fabrication :** un fabricant à façon français, en marque blanche au départ (une formule existante sous notre marque, avec de petites quantités minimales) pour aller vite, puis une formule à nous.
+- **Économie** (ordre de grandeur, à confirmer avec les devis) : 60 à 75 € par mois, pour un coût de revient de 10 à 20 € plus l'envoi d'un seau ou d'un sachet de 2 à 4 kg. Avec 4 à 6 mois d'abonnement, une cliente rapporte 250 à 450 €, ce qui permet de payer une pub plus chère à l'acquisition.
+- **Risques :**
+  - la confiance des propriétaires, qui suivent leur vétérinaire et leur gérant d'écurie ;
+  - les marques installées en sellerie ;
+  - Kristallkraft pourrait arriver en France (pour l'instant Allemagne et Autriche seulement) : la fenêtre pour être le premier est ouverte, mais pas pour toujours (T13) ;
+  - du stock et une logistique (3PL), donc un capital de départ ;
+  - des colis lourds (S7).
+
+**Prochaines étapes proposées :**
+1. Interroger 10 propriétaires : leurs problèmes digestifs, ce qu'ils donnent aujourd'hui, à quel prix, et ce qu'ils pensent d'un abonnement.
+2. Contacter 3 à 5 fabricants à façon français (marque blanche, quantités minimales, délais, prix).
+3. Trouver un vétérinaire nutritionniste pour la formule et les allégations.
+4. Monter la marque (nom, histoire, emballage), et ouvrir une liste d'attente ou des précommandes avant de produire.
