@@ -46,3 +46,46 @@ Côté français, peu de marques font de la pub :
 1. Une recherche d'avatar (C10) : 10 cavalières interrogées dans l'entourage de Valentin (ce qu'elles achètent, à quel prix, ce qu'on leur offre), plus les commentaires sous les pubs d'Equestrian Stockholm et d'étalon vert.
 2. Des devis de broderie à l'unité : tapis de selle et bonnet.
 3. Un premier produit testé en pub avec un petit budget (T12), sous une marque à part de Maison Ouate.
+
+---
+
+## Suite du 16/11 : compléments ou tapis, pour une marque durable « type Apple » ?
+**La marque vue au salon, c'est Flex-On** (flex-on.fr, étriers de sécurité en composite, personnalisables : couleurs, élastomères, stickers). Sur Meta, sa présence est modeste : 125 pubs au total, 8 actives, environ 436 000 personnes touchées en 30 jours, 65 000 abonnés Instagram, une audience de femmes en France, Belgique, Espagne, Allemagne et Pologne. Elle utilise aussi Google Ads et fait des promotions (« jusqu'à 60 % », « Early Black Friday »). Son site n'est pas sur Shopify (absent du suivi des ventes TrendTrack). Elle vend surtout en sellerie et sur les salons, d'où le stand soigné.
+
+**Compléments alimentaires pour chevaux** (36 produits suivis en Europe) :
+- Au Royaume-Uni, des marques en ligne vivent de l'abonnement. **Neighked** (soin de la peau, 48 £ en abonnement) : environ 450 000 $ de ventes estimées par mois pour la boutique. Omega Equine et Horse Straights Direct : environ 25 000 $ par mois chacune. Tendonall (États-Unis) : 350 $ pour 3 mois.
+- **En France, presque personne ne vend en ligne avec de la pub** : equi-mojo (59 € le produit, environ 6 500 $ par mois estimés) et karitale (soins). Les grandes marques (NAF, Equine America…) passent par les selleries.
+- **Contraintes :**
+  - C'est de l'alimentation animale (« aliment complémentaire ») : enregistrement comme opérateur auprès de la DDPP, étiquetage selon le règlement 767/2009, aucune allégation de soin ;
+  - les allégations « diététiques » sont limitées à une liste officielle ;
+  - **le risque de dopage en compétition** : faire analyser chaque lot si on promet « sans substance interdite » ;
+  - il faut un nutritionniste ou un vétérinaire pour les formules et un fabricant sous contrat (quantités minimales) ;
+  - il faut du stock et une logistique, et les pots sont lourds (S7).
+- **Pour :** des achats qui reviennent tous les mois, une forte marge, et une place vide en France.
+
+**Matériel sans enjeu de sécurité** (tapis, bonnets, bandes, couvertures, sacs, vêtements de la cavalière) :
+- **Pour :**
+  - pas de réglementation lourde, des produits légers ;
+  - très visuel, fait pour Instagram, avec un angle cadeau ;
+  - la personnalisation (brodé au nom du cheval) nous distingue ;
+  - les collections par couleur font revenir les clientes (le modèle d'Equestrian Stockholm, 275 pubs et 519 000 abonnés) ;
+  - pas d'équivalent français en publicité.
+- **Contre :**
+  - du stock par couleur et par taille (poney ou cheval ; dressage ou obstacle) ;
+  - un risque de mode ;
+  - de grosses marques étrangères (Equestrian Stockholm, LeMieux) ;
+  - des achats qui reviennent moins souvent que des compléments.
+
+**« Ultra haut de gamme à prix ultra compétitifs » :**
+- Faisable seulement en partie. La vente directe en ligne supprime la marge de la sellerie, qui double souvent le prix : on peut donc offrir la qualité d'un tapis à 100-130 € pour environ 60-80 €, avec peu de références.
+- Mais on ne peut pas être à la fois le plus haut de gamme et le moins cher. **Une position tenable : le premium au juste prix, avec un prix transparent.**
+- Le modèle français est Asphalte : précommandes et transparence sur les coûts. Les précommandes réduisent le risque de stock, à condition d'afficher clairement les délais.
+- **L'ADN « type Apple »** : peu de produits, un design parfait, un déballage soigné, une histoire vraie, une identité visuelle très cohérente.
+
+**Avis (hypothèse à tester) :**
+1. **Commencer par le matériel** (un produit phare : tapis et bonnet assortis, personnalisables) : c'est plus rapide, sans réglementation, et ça colle à ce qu'on sait faire (Meta, visuels, configurateur).
+2. **Ajouter ensuite une gamme de compléments**, pour les achats répétés, une fois l'audience et la confiance installées et un nutritionniste trouvé.
+
+**Attention :**
+- C'est un projet de 12 à 24 mois, avec du stock et de vraies photos de chevaux : les cavalières repèrent vite un cheval ou un équipement mal généré par IA.
+- C'est un autre jeu que les tests rapides de Maison Ouate.
