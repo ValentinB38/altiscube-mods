@@ -214,3 +214,57 @@ La digestion vend environ 3,4 fois plus, et à peu près 2 fois plus par pub act
 - Le panier moyen des articulations est souvent plus élevé (Osteo-MAX 231 $), mais à volume égal la digestion fait plus de chiffre d'affaires (Kristallkraft).
 
 **Avis mis à jour : pour vendre sur Facebook et Instagram, la digestion d'abord ; les articulations en 2e produit.** Pour trancher avec nos chiffres, le test des deux pages « liste d'attente » reste valable (environ 100 €).
+
+---
+
+## Mise à jour du 16/11 : quelles pubs font les concurrents ? (TrendTrack, pubs actives)
+**Le volume :**
+- **Kristallkraft** (Allemagne, Autriche, Luxembourg) : 249 pubs actives, environ 1,8 million de personnes touchées en 30 jours.
+- **Alpurial** (Allemagne, Autriche) : 163 pubs, environ 3,5 millions de personnes touchées en 30 jours.
+- **EquiNectar** (Royaume-Uni) : 12 pubs, environ 1,1 million de personnes touchées en 30 jours.
+- **Horse Herbs** (Royaume-Uni) : 8 pubs, environ 215 000 personnes touchées en 30 jours.
+
+Les deux allemandes jouent sur le volume, beaucoup d'angles et de produits (C1, C4). Les deux anglaises font peu de pubs et les laissent tourner des mois.
+
+**En France :** une recherche sur les pubs en français (cheval avec estomac, ulcères, digestion, intestin) ne remonte que des compléments pour humains (Bonjour, Fruggies…). Aucune marque de digestion pour chevaux ne fait de la pub en volume. Le constat « concurrence invisible en France » tient.
+
+### Les pubs qui tournent le plus longtemps ou montent le plus vite
+
+| Marque | Pub | Format | Jours | Personnes touchées | Dépense estimée |
+|---|---|---|---|---|---|
+| Kristallkraft | « Attention à ces 3 signes ! » : une jeune femme face caméra, dans l'allée de l'écurie (détox No1) | vidéo 4:5 | 448 | 1,2 M | ~11 k$ |
+| EquiNectar | « Votre cheval souffre-t-il de troubles digestifs ? » Résistance, sensibilité à la sangle, refus de travailler, voire boiterie | vidéo 9:16 | 391 | 1,2 M | ~11 k$ |
+| Horse Herbs | Une vraie photo de chevaux, la tête sortie du box, sans texte : « le pouvoir de la nature, mélangé à la main au Royaume-Uni » | statique | 363 | 2,9 M | ~26 k$ |
+| Alpurial | Pack digestion « Magenpferd » : 2 liquides, une gamelle souple offerte (pour manger au sol, utile à ces chevaux), une remise | vidéo 9:16 | 381 | 457 k | ~4 k$ |
+| Kristallkraft | Coolly, « les chevaux adorent Coolly » : la liste des ingrédients (algues, lin, caroube, camomille, menthe, réglisse), garantie satisfait ou remboursé | vidéo, 9 variantes | 343 | ~320 k chacune | ~3 k$ chacune |
+| Kristallkraft | Statique qui renvoie vers un article de blog sur l'acidose | statique | 361 | 141 k | ~1,3 k$ |
+| Alpurial | Le tendon et l'articulation du cheval qui se plaignent, en personnages animés (articulations) | vidéo animée IA | 96 | 814 k | ~7 k$ |
+| Alpurial | « Il couche les oreilles quand tu sangles ? Ce n'est pas du caractère, c'est un signal » : 3 cavalières qui discutent à l'écurie, puis la main sur le ventre du cheval | vidéo 9:16 | 38 | 194 k, dont 149 k en 30 jours | ~1,7 k$ |
+| Kristallkraft | « La plus grosse erreur avec la gale de boue ? La traiter seulement de l'extérieur » : titre éditorial, sac du produit sur gros plan de la jambe | statique 9:16 | 35 | 133 k, presque tout en 30 jours | ~1,2 k$ |
+| Kristallkraft | « 5 € de remise sur Coolly » via le lien de la pub | vidéo | 35 | 113 k | ~1 k$ |
+| EquiNectar | Interview d'une étudiante vétérinaire : quel produit pour quel moment (quotidien, ou concours et transport) | vidéo vers l'article | 32 | 252 k | ~2,3 k$ |
+| EquiNectar | « Cheval de la semaine » : Woody, 9 ans, un vrai client avec sa photo | statique | 12 | 125 k, dont 71 k en 7 jours | ~1,1 k$ |
+
+### Ce qui revient chez tous
+1. **Un signe que la propriétaire voit**, posé comme une question, pas une promesse : la sangle, le caractère, la mue, la gale de boue, l'automne. C'est notre angle « chirurgical ».
+2. **Tourné à l'écurie, au téléphone, en 9:16**, avec des sous-titres incrustés. Les visages sont ceux de l'équipe ou de cavalières. Pas de studio.
+3. **La transparence** : la liste des ingrédients et le rôle de chacun, « liste d'ingrédients transparente, conseil personnalisé » (Kristallkraft Move).
+4. **Une garantie de remboursement dans presque chaque texte.** Alpurial ajoute « si ton cheval ne l'aime pas, on te rembourse » : ça lève la peur n° 1 (« il ne va pas le manger »).
+5. **La mention « nos produits ne remplacent pas le vétérinaire »** en bas de chaque texte de Kristallkraft.
+6. **Un conseiller joignable par téléphone** (« appelle-nous simplement »).
+7. **Une offre simple** : un pack de 2 produits avec un cadeau utile, une remise de 5 à 20 €, ou un prix par jour (« dès 1 £ par jour », Horse Herbs).
+8. **De l'éducation** : un article de blog, l'interview d'une étudiante vétérinaire, de vraies histoires de clients (« cheval de la semaine »).
+9. **L'IA est signalée** : « illustrations créées avec l'IA », « voix off : voix IA ».
+10. **Le ciblage est large** : France chez nous, hommes et femmes, 18-65 ans (Kristallkraft, Alpurial). Seul EquiNectar cible les femmes. Le bouton est « Commander », et « En savoir plus » pour les articles.
+
+**Un format qui marche déjà en France :** l'organe qui parle. Chez Bonjour, « Je suis ton intestin… » : 4,2 M de personnes touchées, 241 jours de diffusion, pour des compléments humains. C'est le même ressort que la pub n° 1 actuelle d'Alpurial (le tendon et l'articulation qui parlent). **À tester chez nous :** « Je suis l'estomac de ton cheval. Je fabrique de l'acide jour et nuit, même quand il n'a rien à manger… », avec un script validé par un vétérinaire.
+
+### Ce qu'on ne reprend pas (07, C8, L121-2 à L121-4, règlement 767/2009 article 13)
+- **Les noms de maladies comme promesse** : « Arthrose ? Lésion du tendon ? », « Sarcoïde », « renforcer le système immunitaire contre l'eczéma ». Un aliment complémentaire ne peut pas prétendre prévenir, traiter ou guérir une maladie. Alpurial prend ce risque, pas nous.
+- **Les preuves invérifiables** : « des milliers de propriétaires n'en reviennent pas », « presque tous nos clients le disent », « plus de 100 000 chevaux nous font confiance ».
+- **« Recommandé par les vétérinaires »** sans preuve écrite.
+- **Le faux test** : « j'ai commandé 8 produits et fait le comparatif », joué par une actrice.
+- **La fausse urgence** : « dernière chance à ce prix », « cadeau secret pour les plus rapides » sur une offre permanente.
+- **Leurs vidéos, photos, textes et noms** : on reprend les formats et les angles, jamais les créas (C10.6).
+
+**Ce que ça change pour notre parcours :** la pub part d'un signe, puis mène au quiz, puis au résultat avec la dose, puis à la fiche. Les concurrents envoient plutôt directement vers la fiche produit (« Commander »). **À tester :** le quiz contre la fiche directe, sur le même angle.
