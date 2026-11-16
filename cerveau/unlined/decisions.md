@@ -135,3 +135,13 @@ Prix (79,99 €) et ROAS d'équilibre : à calculer dès que le coût livré est
 
 On ne coupe aucune pub. Créas à décliner en priorité : « New Sales ad » et S8 côté pyjama, S3-noel et S8-squatte côté plaid. | M4, M17, T4, T5, C9 | Pyjama à 60-65 €/jour en début de semaine avec un ROAS qui reste au-dessus de 2 ; plaid prêt à monter dès 2 jours verts de suite. |
 | 16/11 | **Après le dimanche raté (environ −113 € si une seule vente) : pas de scale lundi, et on ne coupe rien.** La hausse de +20 % prévue lundi demandait un dimanche rentable (M4) : condition non remplie. Si le budget a été monté dimanche, on le redescend à 50 € par campagne (M17 : le dimanche soir, on redescend). Une seule journée rouge, c'est de la variance (T4) : le pyjama reste à ROAS 3,28 sur 3 jours. Le dimanche amène beaucoup de clics bon marché qui n'achètent pas (AC J60 : le plus de trafic, la moins bonne marge). **Plaid : à l'équilibre sur 4 jours (1,46 pour 1,52), on laisse tourner (T9).** Mais **lire tout de suite la répartition par placement et par âge** (M6, on est au J4-J5). Le 15/11, seulement 22 % des clics arrivent sur la page : chercher d'où viennent les clics sans visite (Audience Network ou clics accidentels). Sans restreindre le ciblage (M13) tant qu'on n'a pas les chiffres. **Fiche du pyjama, demandé depuis le 09/11 et toujours pas fait : retirer les faux compteurs et faux avis (illégal, L121-4) et la section « Vous le portez »** (3 vidéos de 4,7 Mo, ce sont nos pubs IA présentées comme des clientes). | T4, T9, M4, M6, M13, M17, 07 | Lundi au budget normal ; décision de palier mardi matin, sur la journée de lundi. |
+| 16/11 | **Ajouter des pubs : oui, mais dans un nouvel adset de chaque campagne, jamais dans un adset qui tourne**, départ à minuit et budget inchangé. Pyjama, « DCT 4 - Cadeau (lui) » :
+- 3 vidéos, la vidéo de « New Sales ad » (V1, la plus efficace : 3 ventes pour environ 10 € les 13-14/11) avec 3 nouvelles accroches (V6 « cadeau réglé », V7 « qu'elle portera vraiment », V8 « elle a toujours froid ») ;
+- la version homme de S6 (S9).
+
+Plaid, « DCT 3 - Déclinaisons » :
+- l'accroche de S3-noel sur 3 autres photos (S9, S10, S11) ;
+- une variante POV de S8-squatte (S12) ;
+- 2 vidéos (V6 « le cadeau de Noël de mamie », V7 « elle lit tous les soirs ? »).
+
+Vidéos et statiques dans des adsets séparés (M5). Coût : 0 crédit, recomposé à partir des scènes existantes. | AC J60 (on ne touche pas un adset qui tourne), C4, C9, M5, M12 | Meta a plus de choix sans hausse de budget. On lit les nouvelles pubs après 3 jours (T3). |
