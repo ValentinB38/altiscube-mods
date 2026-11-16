@@ -183,3 +183,34 @@ Côté compléments :
 **Pour trancher avec des chiffres (à tester) :** avant de produire, 5 à 7 jours de pub sur deux pages « liste d'attente », une pour les articulations et une pour la digestion, environ 10 € par jour chacune. On compare le coût d'une inscription et le taux de clic, et on garde la plus forte. C'est la même méthode que pour nos tests de produits.
 
 **À vérifier :** ce qu'un vétérinaire peut faire publiquement pour une marque qu'il cofonde (usage du titre dans la communication, conflits d'intérêts), auprès de l'Ordre des vétérinaires.
+
+---
+
+## Mise à jour du 16/11 : lequel se vend le mieux sur Facebook et Instagram ?
+**Données TrendTrack** (pubs actives en anglais dans les catégories « cheval ») :
+- environ 1 031 pubs actives sur le thème des articulations ;
+- **environ 1 172 sur le thème de la digestion**.
+
+**Ceux qui touchent le plus de monde ne vendent pas la même chose :**
+- **Articulations :** surtout des appareils (bandes LED Equine LTS, HorseHalo à lumière rouge), plus NAF (Superflex, Metazone).
+- **Digestion :** **des marques de compléments nées sur les réseaux.**
+  - **Horse Herbs** (Royaume-Uni) : une seule pub à environ 2,9 millions de personnes touchées et environ 26 000 $ de dépense.
+  - **EquiNectar** (Royaume-Uni) : environ 1,2 million de personnes touchées, visant les femmes.
+  - **Alpurial** (Allemagne) : son pack digestion « Magenpferd » tourne avec 163 pubs et touche environ 3,5 millions de personnes en 30 jours.
+  - **Kristallkraft Coolly**.
+
+**La comparaison la plus propre : Kristallkraft**, même marque, même public, même machine de pub :
+- **digestion (Coolly) : environ 242 000 $ par mois, 92 pubs, environ 3 000 ventes** ;
+- articulations (Move) : environ 71 000 $ par mois, 51 pubs, environ 750 ventes.
+
+La digestion vend environ 3,4 fois plus, et à peu près 2 fois plus par pub active (estimations).
+
+**Lecture (hypothèse, à confirmer par nos propres tests) :**
+- **Sur Meta, la digestion se vend mieux.** La pub qui marche fait découvrir le problème : « il est sensible à la sangle, grince des dents, refuse de travailler ? Ce n'est peut-être pas son caractère » (voir EquiNectar). Ça accroche fort, et ça crée un besoin que la cliente ne voyait pas.
+- **Les articulations se vendent surtout par habitude en sellerie :**
+  - le besoin est évident, mais la catégorie est encombrée ;
+  - sur Meta, l'attention est prise par les appareils ;
+  - promettre qu'un cheval ne boite plus serait une allégation de soin.
+- Le panier moyen des articulations est souvent plus élevé (Osteo-MAX 231 $), mais à volume égal la digestion fait plus de chiffre d'affaires (Kristallkraft).
+
+**Avis mis à jour : pour vendre sur Facebook et Instagram, la digestion d'abord ; les articulations en 2e produit.** Pour trancher avec nos chiffres, le test des deux pages « liste d'attente » reste valable (environ 100 €).
