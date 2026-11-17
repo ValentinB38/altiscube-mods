@@ -146,3 +146,12 @@ Plaid, « DCT 3 - Déclinaisons » :
 
 Vidéos et statiques dans des adsets séparés (M5). Coût : 0 crédit, recomposé à partir des scènes existantes. | AC J60 (on ne touche pas un adset qui tourne), C4, C9, M5, M12 | Meta a plus de choix sans hausse de budget. On lit les nouvelles pubs après 3 jours (T3). |
 | 16/11 | **Nouveau projet : une marque française de compléments pour chevaux, la digestion d'abord** (choix de Valentin, après les recherches TrendTrack du jour). Les articulations s'achètent surtout chez le vétérinaire. La digestion doit se vendre par les signes que voit la propriétaire, avec un site « ultra chirurgical » : quiz, formule et doses affichées, calculateur de dose, abonnement par défaut. Garde-fous : aucune promesse de soin, renvoi au vétérinaire, lots analysés, caution vétérinaire à valider avec l'Ordre. Fiche : `cerveau/equitation/fiche-projet.md`. | T13 (premier en France), données TrendTrack (Kristallkraft : la digestion vend environ 3,4 fois plus que les articulations), 07 | Une liste d'attente et un test de messages avant de produire ; des devis de fabricants et des analyses en parallèle. |
+| 17/11 | **Après 2 journées rouges (15 et 16/11) : on ne touche ni aux budgets ni aux adsets qui tournent.** L'action en cours, ce sont les nouveaux adsets (pyjama DCT 4, plaid DCT 3), partis à minuit. T4 demande d'agir après 2 journées rouges : on le fait par les créas.
+- **Le lundi n'est pas une alerte.** Meta a dépensé 55,59 € pour 100 € parce qu'il rattrapait le dimanche (M2). Sur un si petit budget, 0 vente était le résultat attendu pour le plaid, et 1 fois sur 5 pour le pyjama.
+- **Pyjama : on reste à 50 €.** Il est rentable sur 3 jours (2,21 pour un équilibre à 1,56) et sur 5 jours (2,73). On ne baisse le budget qu'après 3 jours de chute (T4, AC J60).
+- **Plaid : sous l'équilibre sur 5 jours** (1,30 pour 1,52, −35 €). **Verdict vendredi 20/11 au matin**, sur 3 jours pleins du DCT 3 (T3). S'il reste sous 1,52 sur la semaine :
+  - soit on change l'offre : date limite pour Noël affichée, carte ou emballage cadeau si l'atelier peut le faire ;
+  - soit on coupe le plaid et on remet son budget sur le pyjama.
+- **À obtenir d'ici là :**
+  - la date limite de commande pour Noël, d'après le délai réel de l'atelier : c'est la seule urgence honnête pour un cadeau ;
+  - la répartition par emplacement des 7 derniers jours (M6), car seulement 31 % des clics arrivent sur la page. | T3, T4, M2, M3, M6, T9 | Les nouveaux adsets prennent une part du budget dès mardi ; vendredi, décision sur le plaid avec 3 jours de données. |

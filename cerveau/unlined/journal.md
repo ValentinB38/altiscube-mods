@@ -182,3 +182,21 @@ Le ROAS d'équilibre dépend du coût livré, pas encore connu : avec 30 € de 
 - La boutique, les deux fiches et le panier fonctionnent. Le correctif de la photo portée est en ligne.
 - Chargement sur iPhone en 4G lente : sur la fiche du pyjama, le plus gros élément s'affiche en 1,4 s, mais la page charge 3 vidéos d'environ 4,7 Mo chacune (section « Vous le portez ») ; sur la fiche du plaid, en 3,9 s pour la photo portée, pour un poids total d'environ 1 Mo.
 - **Les faux compteurs et faux avis sont toujours sur la fiche du pyjama** (« 98,651 », « 34,814 »).
+
+**Maison Ouate, 16/11 (lundi, journée complète) : 0 vente** (d'après Valentin, « cata » ; Meta n'en voit aucune non plus) :
+- **Dépense : 55,59 € pour 100 € de budget.** Meta rattrape le dimanche (138,46 €) : sur les 2 jours, 194,05 € pour 200 € (M2 : jusqu'à +75 % un jour, sans dépasser 7 fois le budget sur la semaine).
+- **Pyjama : 28,96 €**, environ 1 550 affichages, CPM ≈ 18,6 €, 55 clics (CTR 3,5 %, CPC 0,53 €), **19 vues de page (35 % des clics)**, 1 ajout au panier (S2), 0 vente.
+  - S6-un-pour-chacune prend encore l'essentiel : 16,79 €, 12 vues de page, aucun ajout au panier.
+  - « New Sales ad » (la vidéo qui a fait 3 ventes pour environ 10 € les 13 et 14/11) : 1,58 €.
+- **Plaid : 26,63 €**, environ 1 240 affichages, CPM ≈ 21,5 €, 41 clics (CTR 3,3 %, CPC 0,65 €), **11 vues de page (27 % des clics)**, 0 ajout au panier, 0 vente. S3-noel : 13,62 € (7 vues de page) ; S8-squatte : 4,97 €.
+- **Journée : −55,59 €. Deuxième journée rouge de suite (T4).**
+- **De moins en moins de clics arrivent jusqu'à la page** : 31 % le 16/11 (27 % sur le plaid), contre 38 % (plaid) et 54 % (pyjama) le 12/11.
+- **S6-un-pour-chacune depuis le 13/11** : environ 127 € pour 3 ventes vues par Meta, soit environ 42 € par vente vue. C'est au-dessus du coût par achat maximum d'un ensemble seul (25 €), mais Meta lui donne la plus grosse part du budget (M3).
+- **Ce n'est presque que de la variance.** Coût moyen par vente depuis le 12/11 : 17,60 € pour le pyjama, 61,60 € pour le plaid. On attendait donc environ 1,6 vente de pyjama (0 arrive environ 1 fois sur 5) et 0,4 vente de plaid (0 arrive environ 2 fois sur 3).
+
+**Cumuls au 16/11 :**
+- **Pyjama depuis le 07/11** : 482,38 € de pub, 19 commandes, 926,76 €, ROAS 1,92, environ +45 €.
+  - Depuis le 12/11 (palier « 1 ensemble » présélectionné) : 228,79 €, 13 commandes, 623,84 €, ROAS 2,73.
+  - Sur 3 jours (14-16/11) : ROAS 2,21 pour un équilibre à 1,56, environ +58 €.
+- **Plaid depuis le 12/11** : 246,31 €, 4 ventes, 319,96 €, **ROAS 1,30 pour un équilibre à 1,52, environ −35 €.** Journées : +46, −50, +66, −71, −27 €.
+- **Boutique depuis le 07/11** : 728,69 € de pub, 1 246,72 € de ventes, ROAS 1,71, environ +10 €.
