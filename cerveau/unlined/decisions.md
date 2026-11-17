@@ -155,3 +155,11 @@ Vidéos et statiques dans des adsets séparés (M5). Coût : 0 crédit, recompos
 - **À obtenir d'ici là :**
   - la date limite de commande pour Noël, d'après le délai réel de l'atelier : c'est la seule urgence honnête pour un cadeau ;
   - la répartition par emplacement des 7 derniers jours (M6), car seulement 31 % des clics arrivent sur la page. | T3, T4, M2, M3, M6, T9 | Les nouveaux adsets prennent une part du budget dès mardi ; vendredi, décision sur le plaid avec 3 jours de données. |
+| 17/11 | **Activer tout de suite la relance des paiements abandonnés sur Maison Ouate.** 2 paiements abandonnés en cours de journée (environ 117 €), et aucune relance en place (R1). Deux actions :
+- relancer à la main les 2 paniers du jour : Commandes > Paiements abandonnés > « Envoyer une notification de panier » ;
+- puis activer l'automatisation Shopify (Marketing > Automatisations > Paiement abandonné), sans fausse urgence ni faux stock (07).
+
+Vérifier en même temps les freins au paiement encore ouverts (T6) :
+- la méthode de livraison s'appelle « Colissimo 3 à 5 jours » alors que la fiche annonce 7 à 9 jours ;
+- l'abonnement aux offres est pré-coché ;
+- faire une commande test dans l'application Instagram. | R1, T6, 07 | Récupérer une partie des paiements abandonnés (souvent 1 sur 10 à 1 sur 5, bon sens e-commerce à vérifier chez nous). |

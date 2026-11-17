@@ -200,3 +200,9 @@ Le ROAS d'équilibre dépend du coût livré, pas encore connu : avec 30 € de 
   - Sur 3 jours (14-16/11) : ROAS 2,21 pour un équilibre à 1,56, environ +58 €.
 - **Plaid depuis le 12/11** : 246,31 €, 4 ventes, 319,96 €, **ROAS 1,30 pour un équilibre à 1,52, environ −35 €.** Journées : +46, −50, +66, −71, −27 €.
 - **Boutique depuis le 07/11** : 728,69 € de pub, 1 246,72 € de ventes, ROAS 1,71, environ +10 €.
+
+**17/11 en cours de journée (partiel, non jugé, M11), d'après Valentin :**
+- 1 vente de pyjama à 38,99 € ;
+- **2 paiements abandonnés** : un de 3 pyjamas (pack 2 + 1, 77,98 €), et un d'un ensemble (38,99 €).
+
+Il n'y a toujours aucune relance des paiements abandonnés sur Maison Ouate (R1, en attente dans la fiche).
