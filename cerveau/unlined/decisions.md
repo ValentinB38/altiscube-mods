@@ -163,3 +163,17 @@ Vérifier en même temps les freins au paiement encore ouverts (T6) :
 - la méthode de livraison s'appelle « Colissimo 3 à 5 jours » alors que la fiche annonce 7 à 9 jours ;
 - l'abonnement aux offres est pré-coché ;
 - faire une commande test dans l'application Instagram. | R1, T6, 07 | Récupérer une partie des paiements abandonnés (souvent 1 sur 10 à 1 sur 5, bon sens e-commerce à vérifier chez nous). |
+| 18/11 | **Pyjama : on garde à 50 €, sans hausse.**
+- Mardi est vert (2,10 pour 1,56), ce qui arrête la série rouge (T4).
+- Pas de hausse pour autant. M4 demande 2 journées de suite au-dessus d'environ 1,86. Et Meta ne dépense déjà que 30 à 37 € des 50 € par jour : monter le budget n'aiderait pas.
+
+**Plaid : 3 journées de suite sans vente (environ −107 €). On garde le verdict de vendredi 20/11 au matin.**
+- Le nouvel adset DCT 3 n'a qu'un jour (T3).
+- Baisser le budget ne changerait presque rien : Meta ne dépense que 27 à 35 € des 50 €.
+- La fiche fonctionne sur iPhone (contrôle du 18/11).
+- **Préparer dès maintenant le changement d'offre**, pour pouvoir l'appliquer vendredi si le plaid reste sous 1,52 :
+  - la date limite de commande pour Noël, d'après le délai réel de l'atelier ;
+  - la phrase de délai sur la fiche et au paiement.
+- Sinon, on coupe le plaid vendredi.
+
+**Les vues de page (33 % des clics) : comparer les sessions Shopify aux clics Meta avant d'agir sur les emplacements (M6, M13).** Hypothèse : ce sont les cookies refusés qui empêchent le pixel de compter, pas des clics perdus. | T3, T4, M2, M4, M6, M13 | Vendredi : offre de Noël ou coupure du plaid ; pyjama stable autour de 2 sur la semaine. |

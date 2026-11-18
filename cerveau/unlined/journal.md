@@ -206,3 +206,32 @@ Le ROAS d'équilibre dépend du coût livré, pas encore connu : avec 30 € de 
 - **2 paiements abandonnés** : un de 3 pyjamas (pack 2 + 1, 77,98 €), et un d'un ensemble (38,99 €).
 
 Il n'y a toujours aucune relance des paiements abandonnés sur Maison Ouate (R1, en attente dans la fiche).
+
+**Maison Ouate, 17/11 (mardi, journée complète) :**
+- **Pyjama : 37,14 € de pub, 2 ventes d'un ensemble sur Shopify** (d'après Valentin ; 2 × 38,99 = 77,98 €, montants à confirmer). **ROAS 2,10 pour un équilibre à 1,56, environ +13 €.** C'est la fin de la série rouge (T4).
+  - Environ 1 490 affichages, CPM ≈ 25 €, 75 clics (CTR 5,1 %, CPC 0,50 €), 24 vues de page, 3 ajouts au panier.
+  - Meta voit une seule vente, sur S6-un-pour-chacune (25,11 €, 20 vues de page, 2 ajouts au panier).
+- **Plaid : 35,28 €, 0 vente, 0 ajout au panier, −35 €.** Troisième journée de suite à 0 vente.
+  - Environ 1 690 affichages, CPM ≈ 20,9 €, 46 clics (CTR 2,7 %), 16 vues de page.
+  - S3-noel : 15,66 € ; S8-squatte : 6,26 €.
+- **Nouveaux adsets, J1 (non jugés, T3) :**
+  - pyjama DCT 4 : 6,28 € (V7-cadeau-qu-elle-portera 3,40 €, V8 1,88 €) ;
+  - plaid DCT 3 : 9,13 €. V7-elle-lit-tous-les-soirs a pris 5,23 € pour 1 clic (CTR 0,33 %) ; V6-mamie-noel 2,80 €.
+  - Meta donne encore 79 % du budget aux anciens adsets.
+- **Journée : 72,42 € de pub pour 100 € de budget** (Meta ne dépense pas tout en semaine, M2), 77,98 € de ventes, ROAS 1,08, environ −22 €.
+- **Vues de page : 33 % des clics**, pareil sur les deux produits.
+  - Lundi à mi-journée, Shopify comptait 29 visiteurs pour environ 47 clics Meta. Or Meta ne compte que 30 vues de page sur toute la journée.
+  - **Hypothèse :** les visiteuses arrivent bien, mais celles qui refusent les cookies ne déclenchent pas le pixel. C'est la même cause que les ventes que Meta ne voit pas (13/11). À vérifier en comparant les sessions Shopify aux clics Meta, jour par jour.
+
+**Contrôle du 18/11, fiche du plaid sur iPhone (Safari, et navigateur intégré d'Instagram simulé) :**
+- La page s'affiche en 2 à 3 s, la photo portée se dessine, aucune erreur JavaScript.
+- Le bouton « Ajouter au panier · 79,99 € » refuse l'ajout tant que la case « J'ai vérifié l'orthographe du prénom » n'est pas cochée. Le message rouge s'affiche juste au-dessus du bouton : c'est voulu (article personnalisé).
+- Le test complet de l'ajout au panier n'a pas pu aller au bout : après plusieurs essais, Shopify a bloqué nos visites automatiques (vérification anti-robot, erreur 429). Le panier avait été testé le 16/11.
+
+**Cumuls au 17/11 :**
+- **Pyjama depuis le 07/11** : 519,52 € de pub, 21 commandes, 1 004,74 €, ROAS 1,93, environ +58 €.
+  - Depuis le 12/11 : 265,93 €, 15 commandes, 701,82 €, ROAS 2,64.
+- **Plaid depuis le 12/11** : 281,59 €, 4 ventes, 319,96 €, **ROAS 1,14 pour un équilibre à 1,52, environ −71 €.**
+  - Journées : +46, −50, +66, −71, −27, −35 €.
+  - 132,62 € sans vente depuis le 14/11.
+- **Boutique depuis le 07/11** : 801,11 € de pub, 1 324,70 € de ventes, ROAS 1,65, **environ −13 €**.
