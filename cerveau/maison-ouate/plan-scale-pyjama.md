@@ -94,37 +94,20 @@ Vidéos et statiques toujours séparées (M5). Mêmes réglages que DCT 1 : Fran
 - **Envoie-moi chaque matin l'export Meta (par pub) et le nombre de commandes Shopify** ; je fais les coupes et les montées adset par adset.
 - **Plaid** : verdict vendredi, comme prévu. S'il est coupé, son budget passe sur l'ABO du pyjama.
 
-## 6. Textes des pubs
-**Texte A (famille, pack) : V9, V12, S10, S12, S14, S15, S16**
+## 6. Texte des pubs (un seul pour toutes, choix de Valentin le 18/11)
 ```
-Un pour ta mère, un pour ta sœur… et un pour elle 🎁
+Le cadeau de Noël qu'elle portera vraiment 🎁
 
-Le Cocon, c'est l'ensemble en polaire torsadée qu'on enfile en rentrant et qu'on ne quitte plus : un sweat ample et un jogger, doux comme un nuage, chauds sans étouffer.
+Le Cocon, c'est l'ensemble en polaire torsadée qu'on enfile en rentrant et qu'on ne quitte plus : un sweat ample et un jogger, doux comme un nuage, chaud sans étouffer.
 
-🎁 2 achetés + 1 offert : 3 ensembles pour le prix de 2
+🎁 2 achetés + 1 offert : un pour elle, un pour ta mère, un pour ta sœur
 🚚 Livraison offerte en France
 🎨 5 couleurs, en S-M et L-XL
-
-Tous tes cadeaux de Noël, en une seule commande 👇
-```
-**Texte B (chauffage, humour) : V10, V13, S11**
-```
-Elle a toujours froid. Toi, jamais. 🔥
-
-Cette année, le débat du chauffage se règle sous le sapin : Le Cocon, l'ensemble pyjama en polaire torsadée ultra-douce, chaud sans étouffer.
-
-✓ Sweat ample + jogger, poignets côtelés
-✓ Lavable en machine, reste doux lavage après lavage
-✓ Livraison offerte · 2 achetés + 1 offert
+🧺 Lavable en machine
 
 Offrez-lui un peu de douceur 👇
 ```
-**Texte C (court, bas de tunnel) : V11, V14, S13, S17, S18**
-```
-Le cadeau de Noël qu'elle portera vraiment 🎁
-Le Cocon : polaire torsadée, coupe ample, 5 couleurs.
-38,99 € · Livraison offerte · 2 achetés + 1 offert 👇
-```
-- **Titres** : « Le Cocon · 2 achetés + 1 offert 🎁 » ; « Le cadeau qu'elle portera vraiment »
+- **Titre** : « Le Cocon · 2 achetés + 1 offert 🎁 »
 - **Description** : « Livraison offerte en France »
 - **Bouton** : Acheter
+- **Paramètres d'URL** (au niveau de la pub, rubrique Suivi) : `utm_source=facebook&utm_medium=paid&utm_campaign={{campaign.name}}&utm_term={{adset.name}}&utm_content={{ad.name}}`
