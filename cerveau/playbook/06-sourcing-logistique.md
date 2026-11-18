@@ -46,6 +46,7 @@ La franchise de minimis a pris fin en 2025 : toutes les importations sont taxée
 - Au J20, grosse commande de stock : l'agent a négocié −15 % sur le coût produit. (AC J20)
 - J58 : deux commandes de stock par semaine, et des échantillons commandés chez d'autres usines pour comparer la qualité et avoir un plan B. (voir `sources/adam-citron/journal-j45-j63.md`)
 (AC vidéos J14, J30)
+- **J69-J70 :** une commande de stock de 50 000 $. « Les usines ne disent jamais non et ne donnent jamais leur capacité maximale. » Les acheteurs de l'agent vérifient la capacité sur place chaque semaine (environ 4 000 commandes par jour, 5 000 au maximum). Des échantillons d'usines de secours, pour pouvoir produire dans deux usines en même temps. (voir `sources/adam-citron/journal-j64-j76.md`)
 
 ## S9. Comparer les agents et se méfier des plateformes
 - 1 $ de moins par commande, à 10 000 commandes, c'est 10 000 $ par mois.

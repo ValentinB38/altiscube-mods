@@ -43,6 +43,7 @@ Claude rédige un brouillon pour chaque ticket, l'humain corrige, et Claude appr
 Au J11, il installe un CRM de service client dès les premiers emails : « tous les clients doivent être satisfaits, car je construis un asset sur le long terme ». Réponse rapide et chaleureuse par email, sur la page Facebook et sous les publications. (AC J11)
 Au J16, 20 commandes parties dans la mauvaise variante : il s'excuse, renvoie gratuitement le bon produit, et la cliente garde celui reçu. Toutes acceptent. (AC J16)
 J56-J62 : recrutement de deux personnes à plein temps au SAV via un formulaire Google trié par Claude (shortlist), puis entretiens vidéo pour juger les soft skills. Il refuse de sous-traiter son SAV à une agence. Au J63 : 2 embauches à plein temps alors que le volume est encore raisonnable (250 tickets par semaine), pour les former avant la hausse. (voir `sources/adam-citron/journal-j45-j63.md`)
+J64-J67 : formation des 2 recrues en visio, avec les documents et les process ; un bot relié à Claude dans un groupe Telegram, avec accès à toute la base du SAV et aux process. Elles lui posent des questions, lui envoient des brouillons et des captures. Environ 50 tickets par personne et par jour. Les cas difficiles remontent à Adam, qui fait des retours en Loom. « Ce sont souvent les soft skills le plus important. » (voir `sources/adam-citron/journal-j64-j76.md`)
 
 ## R12. Les commentaires sous les pubs
 - Modérer les commentaires et y répondre, car c'est public : la preuve sociale et une page qui répond rassurent.
@@ -58,3 +59,13 @@ J56-J62 : recrutement de deux personnes à plein temps au SAV via un formulaire 
 - J40-J44 : les deux journées à 10 000 $ du week-end n'étaient pas encaissées le mercredi ; il a mis de l'argent perso dans la société pour payer stock et pubs. Chez nous, le compte publicitaire est prépayé (M20) : garder de l'avance dessus. (AC J40, J44)
 - J48 à J55 : ligne de crédit de l'agent (proposée par lui, 50 000 $, puis 100 000 $, puis 200 000 $ au J63) pour le stock et la livraison, 50 000 $ d'actions vendues, demande à Shopify Payments de raccourcir les délais. Une relation de confiance avec son agent depuis 2019. (voir `sources/adam-citron/journal-j45-j63.md`)
 - **Vidéo J60 :** paiement Shopify toujours à 5 jours ouvrés ; 100 000 $ remis de sa poche au mois 2 (démarré avec 50 000 $) ; l'agent avance le stock et les envois, avec une ligne de crédit qui pourrait monter à environ 500 000 $. Risque : un gel de Shopify Payments un week-end avec 400 000 à 500 000 $ en attente. Le cashback de 2 % de sa carte bancaire sur la dépense Meta couvre presque ses coûts fixes (4 125 $, 1 % du CA). (AC vidéo J60)
+- **J64 à J70 :** le CA double en une semaine et la trésorerie bloque le scale. Plus de 300 000 $ en attente chez Shopify Payments, avec le risque d'un gel. Il vend des actions, puis la ligne de crédit de l'agent monte à 400 000 $ (jusqu'à 500 000 ou 600 000 $). Quand il ne peut pas scaler, il **maximise la marge** (20 à 25 %) pour reconstituer de la trésorerie avant le week-end. J69 : 5 000 $ empruntés à un ami pour que les pubs ne se coupent pas. « Le marketing, c'est plutôt facile ; la trésorerie et l'approvisionnement, ça prend du temps. » (voir `sources/adam-citron/journal-j64-j76.md`)
+
+## R14. Revendre aux clientes satisfaites (valeur client)
+- « Avec Meta, on paye très cher pour acquérir une cliente. Une fois qu'elle est satisfaite, il faut absolument lui revendre le même produit ou d'autres. »
+- Il analyse les retours des clientes contentes et mécontentes pour améliorer le produit et sortir d'autres produits dans la même niche.
+(AC J65, voir `sources/adam-citron/journal-j64-j76.md`)
+- **Pour nous :**
+  - Maison Ouate : proposer le plaid aux clientes du pyjama qui ont accepté les e-mails, une fois qu'il est rentable ;
+  - projet équitation : l'abonnement par défaut, et un 2e produit (les articulations).
+- En France, n'écrire qu'aux clientes qui ont accepté, ou qui ont été informées au moment de l'achat et peuvent refuser, pour des produits proches (article L34-5 du Code des postes et des communications électroniques). Jamais de case pré-cochée.

@@ -20,6 +20,7 @@ J12 à J15 : après 12-13 jours sur les 25 vidéos du lancement, il ajoute de no
 J26 à J30 : plus d'une semaine sans nouvelles créas sur le P1, alors il les fait passer avant le lancement du P4. Nouvel adset de 15 vidéos (J29), puis 40 vidéos et 20 statiques (J30). « Une seule créa fait la majorité des performances » : pour 5 000 à 10 000 $/jour, il faut d'autres gagnantes, donc d'autres angles et concepts (C9). (AC J26-J30)
 J41 : à 4 000 $ de pub par jour, la fatigue d'une créa unique devient un vrai risque. Son plan : déclinaisons de la gagnante, angles et sous-avatars radicalement différents, et plus de statiques (rapides à décliner, très bons ROAS en bid cap). (AC J41) (voir `sources/adam-citron/journal-j31-j44.md`)
 J57-J60 : « les statiques, c'est souvent du bottom of funnel : ça close beaucoup de ventes » derrière le trafic des vidéos. Au J59, 100 statiques (35 formats × 3 variantes), dont certaines à 3 ou 4 de ROAS dès le lendemain. (voir `sources/adam-citron/journal-j45-j63.md`)
+J64-J66 : « le nombre de visites et le CA des marques qui scalent sont directement liés au nombre de pubs qu'elles lancent » ; au moins 100 créas par semaine pour viser 100 000 $/jour, et un lot de 34 vidéos programmé avant chaque week-end. Une gagnante peut sortir d'un lot mis en ligne **une semaine plus tôt** (J65). (voir `sources/adam-citron/journal-j64-j76.md`)
 
 ## C5. Le signal qu'une créa est bonne
 Le CPM baisse et le CTR tient. Chez Adam : CTR stable autour de 4 %, CPM divisé par 2 en une semaine. (AC vidéo J7)

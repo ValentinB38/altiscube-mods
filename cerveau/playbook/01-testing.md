@@ -54,6 +54,7 @@ Le KPI hebdomadaire d'Adam : le nombre de produits testés. Pour viser un ROAS d
 
 ## T9. Patience quand c'est à l'équilibre
 Des amis d'Adam sont restés à l'équilibre un mois avant que le produit « parte en exponentiel ». Tant qu'on est à l'équilibre, on laisse tourner. (AC vidéo J1, J5)
+Le défi d'Adam : 38 000 $ le premier mois, 412 000 $ le deuxième, puis 645 000 $ en 11 jours. « Le plus long, ça a été le début. » (AC J71, voir `sources/adam-citron/journal-j64-j76.md`)
 
 ## T10. Objectif de marge : 15 % minimum avant coûts fixes
 Adam vise 15 % de marge, 20-25 % dans l'idéal, avant coûts fixes. Au J14 : « tant que je suis au-dessus de 15 % de marge, je peux continuer à scaler » (J11 à J15 : 21 % de marge en moyenne). Il accepte environ 10 % sur une courte période pour nourrir le pixel plus vite. Son premier mois : 15 % avant coûts fixes, environ 10 % net. Repère des coûts fixes : environ 2 450 $ le premier mois (outils IA, apps, Triple Whale, thème). (AC vidéos J14, J30)

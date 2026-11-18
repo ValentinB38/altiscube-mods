@@ -13,10 +13,13 @@ Sources : AC = Adam Citron, NOUS = nos constats unlined.
 ## M2. Meta dépasse le budget
 Chez Adam, environ +20 à +40 % : 122 $ pour 100, 142 pour 120, 193 pour 150. Meta peut aller jusqu'à +75 % sur une journée, sans dépasser 7 fois le budget journalier sur la semaine. Ce n'est pas un bug, c'est le signal que Meta voit des acheteurs. (AC J2, J3, J6)
 L'inverse arrive aussi : au J12, Meta dépense moins que le budget (pas assez de trafic qualifié), puis au J13 presque 100 $ de plus que la veille. Au J19, encore : 390 $ dépensés sur 500. J21 à J26 : 550 $ sur 600, puis 660 $ sur 600, puis 169 $ sur 200. (AC J12-J26)
+J69 : le dimanche, budgets épuisés à 21 h (New York), puis Meta continue jusqu'à environ 120 % du budget. Résultat : plus assez d'argent pour payer les pubs avant le versement de Shopify, et 5 000 $ empruntés en urgence (R13). (voir `sources/adam-citron/journal-j64-j76.md`)
+**Testé chez Maison Ouate du 15 au 17/11 :** 138,46 € le dimanche pour 100 € de budget, puis 55,59 € le lundi et 72,42 € le mardi. Meta compense sur la semaine, et en semaine il ne trouve pas assez d'acheteuses pour tout dépenser. (NOUS)
 
 ## M3. Meta met tout sur une seule créa, et c'est normal
 95 % du budget sur une vidéo, et toutes les ventes en viennent. On ne coupe pas les autres parce qu'elles n'ont rien reçu : plus le budget monte, plus Meta les teste. (AC J6, vidéo J7)
 **Limite (J31) :** avec 250 pubs pour 500 $ par jour, Meta ne dépense que sur une cinquantaine et ne teste jamais les nouvelles. D'où l'ABO testing à part (M16). (AC J31)
+**Avec un gros budget (J65) :** au début, une créa prenait 90 % de la CBO ; avec beaucoup plus de budget, Meta l'étale sur de plus en plus de créas, et les résultats deviennent plus stables et plus prévisibles (J64). (voir `sources/adam-citron/journal-j64-j76.md`)
 
 ## M4. Monter le budget par paliers, jamais après une seule bonne journée
 - Adam : 100 → 120 → 150 → 200 → 250, soit +20 à +33 % à chaque fois, tant que le ROAS reste nettement au-dessus de l'équilibre (il visait plus de 2 pour un équilibre à 1,6).
@@ -118,6 +121,7 @@ Musique ajoutée, variantes IA, retouches automatiques… Adam : « tout ce que 
    - **J45 à J62 :** règle de scale de l'ABO (30 $, puis double à plus de 2,5 de ROAS sur plusieurs jours, et on arrête de monter quand la CBO prend la créa) ; environ 50 % des adsets tiennent après 48 h ; une créa poussée en ABO finit par dépasser la gagnante historique dans la CBO (J51). **CBO cost cap** avec les créas « moyennes » (7,5 à 15 % de marge) : 800 $ à 2,8 de ROAS un samedi (J54). Campagne bid cap « zombie » avec 125 créas coupées, pour une seconde chance (J61). (voir `sources/adam-citron/journal-j45-j63.md`)
 (AC vidéo J45)
 - **Vidéo J60 :** l'ABO fait 21 % de la dépense, et « énormément de gagnantes » en sortent sans avoir jamais dépensé dans la CBO, qui ne dépense que sur 20 à 40 pubs. Bid cap : 3 % de la dépense, surtout le week-end ; cost cap : résultats mitigés ; « pas convaincu » par les deux, il scale surtout en montant la CBO. **Les nouvelles créas vont toujours dans un nouvel adset : on ne touche jamais à un adset qui tourne.** Une créa est « binaire » : plus de 15 % de marge (ROAS 2,2-2,3 au moins) ou sous l'équilibre. (AC vidéo J60)
+- **J64 à J71 :** la CBO de scaling dépense surtout sur des vidéos qui attirent du monde (8 vidéos et 2 statiques dans son top 10) ; l'ABO fait monter des statiques qui concluent la vente (un adset à 500 $/jour avec un ROAS au-dessus de 4). Il fait le tri dans l'ABO chaque jour, adset par adset : il monte, il baisse ou il coupe. Il met à jour les campagnes bid cap et cost cap avec les meilleures créas de l'ABO. Au J68 : 15 000 $ sur la CBO US, 3 000 $ sur l'ABO, 3 000 $ en cost cap, 3 000 $ en bid cap, le reste sur le Canada. Au J70, l'ABO qui continue de monter lui fait son meilleur lundi. (voir `sources/adam-citron/journal-j64-j76.md`)
 
 ## M17. Le week-end comme accélérateur
 - Le trafic est meilleur le week-end, et le samedi est la meilleure journée.
@@ -128,6 +132,8 @@ Musique ajoutée, variantes IA, retouches automatiques… Adam : « tout ce que 
 - J45 à J62 : scale fort samedi et dimanche, redescente le dimanche après minuit, stabilisation en semaine à un palier plus haut (6 000 → 13 000 → 22 000 → 40 000 $ en trois semaines). Ne pas surfscaler à ROAS 2, y aller fort à 2,5 (J53). Piège : au J55, +13 000 $ de CA pour seulement +500 $ de bénéfice. Lancer les gros lots de créas le vendredi. (voir `sources/adam-citron/journal-j45-j63.md`)
 (AC vidéo J45)
 - **Vidéo J60 :** le samedi donne la meilleure marge mais pas le plus de trafic ; le dimanche, le plus de trafic (Meta dépense jusqu'à 110-120 % du budget). Il surveille la tranche 9 h-10 h à New York, puis 10 h-midi, avant de monter, avec le ROAS par tranche horaire sorti par Claude. Dimanche après-midi, il baisse de 20 à 30 % pour le lundi, à un palier plus haut que la semaine d'avant : « le week-end comme tremplin ». (AC vidéo J60)
+- **J68-J69 :** samedi à 24 % de marge, dimanche à 25 %, sans hausse de budget (trésorerie). **J76 :** scaler fort un dimanche fait +45 % de CA, mais la marge tombe à 13 %. (voir `sources/adam-citron/journal-j64-j76.md`)
+- **Désaccord, nos chiffres d'abord :** chez Maison Ouate, le samedi 14/11 a été le record (ROAS 5,16), comme chez Adam, **mais le dimanche 15/11 a été la pire journée** (ROAS 0,28, avec 138 % du budget dépensé). Chez nous, on ne monte pas le dimanche sans la condition des 2,5 vers 10-11 h. On garde les deux versions jusqu'à avoir plusieurs week-ends. (NOUS)
 
 ## M21. Check-list avant de publier un adset ou une campagne
 À relire à chaque création, car une erreur de réglage fausse tout le test qui suit :
@@ -154,3 +160,13 @@ Vidéo J60 : le Canada a été « une victoire rapide », mais plus il monte le 
 **Piste France (question de Valentin le 06/11, hypothèse à tester, aucune règle de nos sources ne la couvre) :** garder la marque unlined et ajouter la France, sans quitter les US. Pour : un CPM moyen d'environ 8 à 10 $ en France contre environ 20 à 27 $ aux US ([SuperAds France](https://www.superads.ai/facebook-ads-costs/cpm/france), données agrégées, à vérifier dans notre compte) ; avec nos CTR et conversions US (6 % et 9 %), un CPM même 10 fois au-dessus de la moyenne française donnerait un coût par achat proche de l'équilibre ; langue de Valentin pour le service client. Contre : un marché plus petit (Adam, J57, sur le Canada) ; un compte neuf en cosmétique y paierait sans doute aussi bien plus que la moyenne ; et surtout le **règlement cosmétique européen (CE 1223/2009)** : une personne responsable établie dans l'UE, un rapport de sécurité (CPSR), une notification CPNP avant toute vente, l'étiquetage en français ([guide Biorius](https://biorius.com/fr/reglementation-cosmetique/europe/), [CPNP](https://www.registrarcorp.com/fr/cosmetic-notification-cpnp-scnp/)) ; environ 1 500 à 3 000 € de mise en conformité selon une seule source, à vérifier. Vérifications gratuites avant de décider : (1) le fournisseur a-t-il déjà un CPSR, une notification CPNP et une personne responsable dans l'UE ? (2) l'agent expédie-t-il en France avec la TVA à l'import (IOSS), et en combien de jours ? (3) un adset brouillon France, jamais publié, pour lire l'estimation de portée de Meta et en déduire un CPM. Décision au plus tôt au point du 13/11.
 
 Autre canal évoqué, **à tester plus tard** : TikTok Shop aux US (post X du 28/10). À vérifier : conditions pour un vendeur établi hors des US, catégorie cosmétique, stock aux US (voir `sources/conseils-x/post-us-2026-10-28.md`).
+
+## M22. Quand Meta supprime des pubs
+- Faire appel tout de suite : chez Adam, les pubs ont été réactivées presque aussitôt. Mais la vidéo avait disparu, donc les créas étaient inutilisables et leurs likes et commentaires perdus.
+- Remettre les meilleures en ligne dans un nouvel adset (CBO et ABO). Une nouvelle publication repart de zéro : les gagnantes remises en ligne n'ont presque rien dépensé dans la CBO le lendemain.
+- Par sécurité, baisser un peu le budget de la CBO le lendemain, puis le remonter si la matinée se passe bien.
+- **Ce qui protège :**
+  - beaucoup de créas dans la CBO : la sienne a encaissé la perte de la n° 2 et de la n° 5 sans broncher ;
+  - les fichiers source de chaque pub gardés en lieu sûr, pour les remettre en ligne en quelques minutes.
+- « Ce sont des pubs qui ont sauté, pas le compte publicitaire. » Voir aussi M9.
+(AC J66-J67, voir `sources/adam-citron/journal-j64-j76.md`)

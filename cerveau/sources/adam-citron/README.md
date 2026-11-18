@@ -15,6 +15,7 @@
 | `journal-j21-j30.md` | Posts des jours 21 à 30, sans le J27 (frais de port et conversion, défaut du P2, Canada, 1 092 $ de bénéfice au J28) | fait |
 | `journal-j31-j44.md` | Posts des jours 31 à 44 (naissance de l'ABO testing et de la bid cap, 5 000 puis 10 000 $/jour, trust score, effet week-end, trésorerie) | fait |
 | `journal-j45-j63.md` | Posts des jours 45 à 63 (machine à créas ABO, statiques à la chaîne, cost cap, rythme semaine/week-end, 20 000 puis 62 000 $/jour, trésorerie, recrutement) | fait |
+| `journal-j64-j76.md` | Posts des jours 64 à 71 (fin du défi : 1 M$ sur 30 jours) et mise à jour du J76 (138 000 $ un dimanche, à 13 %) : une créa par jour ne suffit plus, 100 par semaine ; pubs supprimées par Meta ; trésorerie à sec un dimanche ; capacité de l'usine | fait |
 | `video-j07.md` | Vidéo « Jour 7 : premier testing, 1 791 $ de CA » (25 min) | fait |
 | `video-j01.md` | « Jour 1 : 15 M€, un exit, 2 ans de pause » (21 min) | fait |
 | `video-j14.md` | « Jour 14 : premier jour à 1 000 $, 2e testing, je scale » (41 min) | fait |
@@ -27,6 +28,6 @@ Liens : [J1](https://www.youtube.com/watch?v=Qf4m7mh1J90) · [J7](https://www.yo
 ## Limites à garder en tête
 
 - Ce sont ses chiffres déclarés, non vérifiés.
-- Sa trajectoire : à l'équilibre la semaine 1, 15 % de marge la semaine 2, 37 906 $ de CA et environ 10 % net le premier mois, 10 k$/jour avec 19 % de marge au jour 45, puis 412 000 $ de CA et 16 % net au mois 2 (jours 31 à 60).
+- Sa trajectoire : à l'équilibre la semaine 1, 15 % de marge la semaine 2, 37 906 $ de CA et environ 10 % net le premier mois, 10 k$/jour avec 19 % de marge au jour 45, puis 412 000 $ de CA et 16 % net au mois 2 (jours 31 à 60). **Défi réussi au J71 :** 1 095 180 $ de CA cumulé, 1 M$ sur les 30 derniers jours, 21 % de marge le dernier jour ; plus de 100 000 $ par jour au J76 (à 13 % de marge).
 - Il a de l'expérience (une revente, 8 ans de marketing) et a trouvé son produit gagnant dès le premier test : un débutant peut en tester 10 à 15 avant de trouver.
 - Il ne compte pas ses coûts fixes (apps, abonnements IA) dans le bénéfice quotidien.
