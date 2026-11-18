@@ -237,3 +237,4 @@ Il n'y a toujours aucune relance des paiements abandonnés sur Maison Ouate (R1,
 - **Boutique depuis le 07/11** : 801,11 € de pub, 1 324,70 € de ventes, ROAS 1,65, **environ −13 €**.
 
 **18/11 en cours de journée (partiel, non jugé, M11), d'après Valentin :** une commande d'un pack 2 + 1 (3 pyjamas, 77,98 €, marge environ 37,41 €).
+**18/11, mise à jour en cours de journée (partiel, M11), d'après Valentin :** 3 commandes d'un pack 2 + 1 (233,94 €, environ 112 € de marge) pour 22 € de pub sur la campagne du pyjama. ROAS de la matinée ≈ 10,6.

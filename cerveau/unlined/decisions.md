@@ -198,3 +198,7 @@ Vérifier en même temps les freins au paiement encore ouverts (T6) :
   - capacité de l'agent et date limite pour Noël (S8) ;
   - fichiers des pubs sur un Drive (M22).
 - **Garde-fou :** retour à la CBO seule si le pyjama passe sous 1,56 sur 3 jours (T4). | C4, C9, M2, M4, M5, M12, M15, M16, M17, M20, M21, M22, R1, S8, T4, 07 | Le pyjama dépense 100 à 130 €/jour d'ici le week-end avec un ROAS au-dessus de 2. Une ou deux nouvelles gagnantes sortent de l'ABO en 3 à 5 jours. |
+| 18/11 (en journée) | **Pyjama : 3 packs 2 + 1 pour 22 € de pub depuis le matin. On monte la CBO de +20 % tout de suite (50 → 60 €), pas plus.**
+- **Pourquoi maintenant et pas jeudi matin :** la condition de M4 (2 jours de suite au-dessus de 1,86) est déjà acquise. Mardi a fini à 2,10. Mercredi a déjà 233,94 € de ventes : même si Meta dépensait 87,50 € (50 € + 75 %, M2) sans une vente de plus, le ROAS finirait à 2,67.
+- **Pourquoi pas plus :** l'ABO qui démarre ce soir à minuit ajoute déjà 80 €/jour. Le pyjama passe donc d'environ 37 € à environ 140 €/jour de budget, soit près de 4 fois plus en 24 h. Monter plus fort en même temps reviendrait à l'erreur du +50 % après une journée (M4, T5). Et 3 ventes sur 22 €, c'est un petit échantillon (M11).
+- **Après :** paliers du plan de scale (vendredi soir, samedi en journée, M17). | M2, M4, M11, M17, T5 | La CBO dépense ses 60 € d'ici le week-end, avec un ROAS du pyjama au-dessus de 2. |
