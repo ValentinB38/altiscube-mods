@@ -177,3 +177,24 @@ Vérifier en même temps les freins au paiement encore ouverts (T6) :
 - Sinon, on coupe le plaid vendredi.
 
 **Les vues de page (33 % des clics) : comparer les sessions Shopify aux clics Meta avant d'agir sur les emplacements (M6, M13).** Hypothèse : ce sont les cookies refusés qui empêchent le pixel de compter, pas des clics perdus. | T3, T4, M2, M4, M6, M13 | Vendredi : offre de Noël ou coupure du plaid ; pyjama stable autour de 2 sur la semaine. |
+| 18/11 | **Valentin : « on envoie la purée sur le pyjama ». Plan de scale** (détail : `cerveau/maison-ouate/plan-scale-pyjama.md`).
+- **Le frein, ce sont les créas, pas le budget.** Meta ne dépense que 30 à 37 € des 50 € par jour, et la vidéo la moins chère par vente (« New Sales ad ») ne reçoit plus que 1 à 2 € par jour.
+- **Lot 4 : 15 créas, environ 12 crédits.**
+  - 6 vidéos : le montage de V1 avec de nouvelles accroches ;
+  - 9 statiques, sur de nouveaux angles : 3 générations, chauffage, liste de Noël, l'acheteur c'est lui, comparatif, liste des points forts, déclinaisons de S6.
+  - La mention IA n'est pas incrustée : Valentin l'ajoute lui-même (sa demande).
+- **Ce soir à minuit :**
+  - 2 nouveaux adsets dans la CBO (vidéos et statiques séparées) ;
+  - une campagne ABO de 5 adsets (V1 champion avec sa publication existante à 20 €, puis 4 concepts à 15 €). Total pyjama : environ 130 €/jour au maximum.
+- **Règles ABO adaptées à notre coût par vente (~18 €) :**
+  - coupe à 48 h si 0 vente et 0 ajout au panier ;
+  - coupe à 72 h sous 1,56 ;
+  - budget doublé au-dessus de 2,5 pendant 3 jours.
+- **CBO :** +20 % jeudi si mercredi est à 1,86 ou plus (M4). Week-end selon M17, avec notre réserve sur le dimanche.
+- **Bloquant avant d'accélérer :**
+  - retirer les faux avis et faux compteurs, et la section « Vous le portez » (07, L121-4) ;
+  - nom et délai de la livraison au paiement, case pré-cochée, relance des paniers abandonnés (R1) ;
+  - compte publicitaire rechargé d'au moins 700 € (M20) ;
+  - capacité de l'agent et date limite pour Noël (S8) ;
+  - fichiers des pubs sur un Drive (M22).
+- **Garde-fou :** retour à la CBO seule si le pyjama passe sous 1,56 sur 3 jours (T4). | C4, C9, M2, M4, M5, M12, M15, M16, M17, M20, M21, M22, R1, S8, T4, 07 | Le pyjama dépense 100 à 130 €/jour d'ici le week-end avec un ROAS au-dessus de 2. Une ou deux nouvelles gagnantes sortent de l'ABO en 3 à 5 jours. |
