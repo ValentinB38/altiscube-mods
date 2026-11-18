@@ -19,6 +19,7 @@ Avant de recommander une action (pub, budget, prix, offre, page, créa, fourniss
 1. **Nos propres chiffres** (`cerveau/unlined/journal.md`) : ils battent toujours une règle générale.
 2. **Formation Evolve** : résumés et règles dans le dépôt **privé** `ValentinB38/unlined-cerveau` (dossier `evolve/`), jamais ici.
 3. **Adam Citron** (`cerveau/sources/adam-citron/`) : build in public, de 0 à 1 M$/mois aux US, ce qu'il a réellement fait et obtenu.
+   - Juste après lui, **Hamza** (`cerveau/sources/hamza/`) : build in public d'une boutique de niche au Royaume-Uni, lancée le 11/11/2026. Ses chiffres sont déclarés et son historique est court : il confirme ou nuance une règle, il n'en crée pas à lui seul.
 4. **Conseils ponctuels sur X et vidéos YouTube d'autres e-commerçants** (`cerveau/sources/conseils-x/`, `cerveau/sources/youtube/`) : sans chiffres vérifiables, ils confirment une règle mais n'en créent jamais une à eux seuls.
 5. Bon sens e-commerce général : à signaler comme tel.
 

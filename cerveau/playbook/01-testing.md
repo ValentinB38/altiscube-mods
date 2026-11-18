@@ -26,9 +26,11 @@ J12-J13 : ses deux produits s'inversent chaque jour (P1 à 2,4 et P2 à 1,6, pui
 **Testé chez unlined le 28/10 :** un export Meta pris vers 17 h (Paris) montrait 0 vente ; la journée US complète en a compté 3 sur Shopify. On ne juge une journée que sur un export de fin de journée, et avec un compte à l'heure de Paris, sur des cumuls de plusieurs jours (M11). (NOUS)
 J19-J20 : le P1 tombe à 1,7 (Meta ne dépense que 390 $ sur 500), puis remonte à 2,7 en 24 h sans toucher ni aux créas ni au budget. (AC J19, J20)
 J24-J30 : première journée en perte après 20 jours (−23 $), puis 1 092 $ de bénéfice au J28 et 84 $ au J30. Son P3 passe de 2,64 à 0,54 en 2 jours sans rien changer, puis remonte à 2,67. « Pas de décision irrationnelle sur une journée. » (AC J24-J30)
+**Confirmé par Hamza (J3-J4, Royaume-Uni) :** une après-midi sans commande après un changement de panier, puis la reprise le lendemain sans bug trouvé : « surtout un mauvais momentum ». Il avait changé l'offre et le panier le même jour, donc impossible de savoir lequel des deux jouait. **Un seul changement à la fois sur la page.** (voir `sources/hamza/journal-j01-j06.md`)
 
 ## T5. On ne touche à rien pendant les premiers jours
 Ni le prix, ni le budget, ni les créas. Adam s'est contredit trois fois. La seule erreur nette : monter le budget de 50 % après **une seule** bonne journée (produit 2 : ROAS 3 puis 0,56). (AC J2, J3, J10)
+**Désaccord (Hamza, J2-J4) :** il change l'offre dès le soir du J2 (offre Black Friday) et baisse tous ses prix de 5 £ au J4. Sa conversion passe de 3,2 à 4,1 % le lendemain (une seule journée, en même temps que d'autres changements). Ça marche chez lui avec un ROAS d'équilibre à 1,35. On garde T5 pour nos marges plus serrées. (voir `sources/hamza/journal-j01-j06.md`)
 
 ## T6. Grille de diagnostic
 
