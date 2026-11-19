@@ -256,3 +256,9 @@ Il n'y a toujours aucune relance des paiements abandonnés sur Maison Ouate (R1,
   - Sur 3 jours (16-18/11) : ROAS ≈ 4,4.
 - **Plaid depuis le 12/11** : 341,43 €, 5 ventes, 399,95 €, **ROAS 1,17 pour 1,52, environ −78 €.**
 - **Boutique depuis le 07/11** : 919,37 € de pub, environ 1 872 € de ventes, ROAS ≈ 2,04, **environ +159 €.**
+
+**19/11 à 11 h 30 (partiel, non jugé, M11), d'après Valentin :** 68 € de pub sur toute la boutique (premier jour de l'ABO), 0 vente.
+**Contrôle du 19/11 à midi :**
+- La fiche du pyjama répond (200, 0,8 s) et toutes les variantes sont disponibles.
+- Un panier de 3 ensembles passe bien à 77,98 €, avec la remise « 2 achetés + 1 offert » appliquée, et la page de paiement s'ouvre. Rien n'est cassé.
+- **Les faux compteurs sont toujours sur la fiche (« 98,651 », « 34,814 »).**
