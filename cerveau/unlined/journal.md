@@ -238,3 +238,21 @@ Il n'y a toujours aucune relance des paiements abandonnés sur Maison Ouate (R1,
 
 **18/11 en cours de journée (partiel, non jugé, M11), d'après Valentin :** une commande d'un pack 2 + 1 (3 pyjamas, 77,98 €, marge environ 37,41 €).
 **18/11, mise à jour en cours de journée (partiel, M11), d'après Valentin :** 3 commandes d'un pack 2 + 1 (233,94 €, environ 112 € de marge) pour 22 € de pub sur la campagne du pyjama. ROAS de la matinée ≈ 10,6.
+
+**Maison Ouate, 18/11 (mercredi, journée complète) : 547 € de ventes Shopify (d'après Valentin), la meilleure journée en ventes depuis le lancement.**
+- **Répartition par produit, à confirmer.** Meta voit 508,88 € : sur le pyjama, 5 packs 2 + 1 et 1 ensemble seul ; sur le plaid, 1 vente. L'écart avec Shopify (environ 38 €) correspond à un ensemble seul de plus. Retenu : **pyjama ≈ 467 €, plaid 79,99 €.**
+- **Pyjama : 58,42 € de pub** (la CBO a dépensé presque tout son budget, passé à 60 € en journée), environ 2 000 affichages, CPM ≈ 29 €, 101 clics (CTR 5,0 %), 43 vues de page, 15 ajouts au panier.
+  - **ROAS ≈ 8,0 pour un équilibre à 1,56 (pack 2,08), environ +179 €.**
+  - **S6-un-pour-chacune : 4 packs pour 27,04 €.** V7-cadeau-qu-elle-portera (DCT 4) : 1 pack pour 11,61 €. S2 : 1 ensemble pour 2,76 €.
+  - Lot 4 dans la CBO : seulement 9,03 €, sans vente. La CBO ne teste presque pas les nouvelles créas (M3) ; c'est le rôle de l'ABO.
+- **Plaid : 59,84 € de pub, 1 vente (79,99 €), ROAS 1,34 pour un équilibre à 1,52, environ −7 €.**
+  - La vente vient de V7-elle-lit-tous-les-soirs (DCT 3), la vidéo qui avait fait 1 clic pour 5 € la veille.
+  - 165 clics pour 36 vues de page (22 %) : le plaid garde un problème de clics qui n'arrivent pas sur la page.
+- **Journée : 118,26 € de pub, environ 547 € de ventes, ROAS ≈ 4,6, environ +172 €.**
+
+**Cumuls au 18/11 :**
+- **Pyjama depuis le 07/11** : 577,94 € de pub, 28 commandes, environ 1 472 €, ROAS ≈ 2,55, environ +237 €.
+  - Depuis le 12/11 : ROAS ≈ 3,6.
+  - Sur 3 jours (16-18/11) : ROAS ≈ 4,4.
+- **Plaid depuis le 12/11** : 341,43 €, 5 ventes, 399,95 €, **ROAS 1,17 pour 1,52, environ −78 €.**
+- **Boutique depuis le 07/11** : 919,37 € de pub, environ 1 872 € de ventes, ROAS ≈ 2,04, **environ +159 €.**

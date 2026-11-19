@@ -202,3 +202,10 @@ Vérifier en même temps les freins au paiement encore ouverts (T6) :
 - **Pourquoi maintenant et pas jeudi matin :** la condition de M4 (2 jours de suite au-dessus de 1,86) est déjà acquise. Mardi a fini à 2,10. Mercredi a déjà 233,94 € de ventes : même si Meta dépensait 87,50 € (50 € + 75 %, M2) sans une vente de plus, le ROAS finirait à 2,67.
 - **Pourquoi pas plus :** l'ABO qui démarre ce soir à minuit ajoute déjà 80 €/jour. Le pyjama passe donc d'environ 37 € à environ 140 €/jour de budget, soit près de 4 fois plus en 24 h. Monter plus fort en même temps reviendrait à l'erreur du +50 % après une journée (M4, T5). Et 3 ventes sur 22 €, c'est un petit échantillon (M11).
 - **Après :** paliers du plan de scale (vendredi soir, samedi en journée, M17). | M2, M4, M11, M17, T5 | La CBO dépense ses 60 € d'ici le week-end, avec un ROAS du pyjama au-dessus de 2. |
+| 19/11 | **Après le meilleur jour (18/11, pyjama ≈ 8 de ROAS) : on tient le plan, sans nouvelle hausse aujourd'hui.**
+- **Pyjama :**
+  - la CBO reste à 60 € : elle a été montée hier (M4, une hausse par palier de 2 jours verts) ;
+  - l'ABO démarre aujourd'hui avec 80 €/jour, et c'est déjà la grosse marche ;
+  - +20 % vendredi soir si jeudi est vert, puis les règles du week-end (M17).
+- **L'angle pack gagne nettement** (S6 : 4 packs pour 27 € ; 6 des 7 ventes du pyjama sont des packs ou viennent de pubs « cadeau »). Prochain lot (C9) : des déclinaisons de S6. L'ABO-2 Famille (S10, S15, S16) teste déjà cet angle.
+- **Plaid : verdict demain matin, comme prévu** (3 jours pleins du DCT 3). Sous l'équilibre depuis le 12/11 (1,17 pour 1,52, −78 €). La seule vente d'hier vient d'une créa du DCT 3, donc on attend une journée de plus (T3). | M3, M4, M17, C9, T3 | Pyjama au-dessus de 2,5 avec l'ABO en route ; verdict du plaid vendredi. |
