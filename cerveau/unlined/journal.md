@@ -262,3 +262,12 @@ Il n'y a toujours aucune relance des paiements abandonnés sur Maison Ouate (R1,
 - La fiche du pyjama répond (200, 0,8 s) et toutes les variantes sont disponibles.
 - Un panier de 3 ensembles passe bien à 77,98 €, avec la remise « 2 achetés + 1 offert » appliquée, et la page de paiement s'ouvre. Rien n'est cassé.
 - **Les faux compteurs sont toujours sur la fiche (« 98,651 », « 34,814 »).**
+**19/11 dans l'après-midi (partiel, M11), d'après Valentin : 142 € de pub, 0 vente.** C'est anormal : au coût par vente du pyjama depuis le 12/11 (environ 15 €), on en attendait plusieurs.
+
+**Contrôle du paiement jusqu'au bout, sans payer** (iPhone simulé, e-mail de test test-diagnostic@example.com, donc un paiement abandonné de test apparaîtra dans Shopify) :
+- 3 ensembles au panier, remise appliquée : 77,98 €.
+- Le formulaire d'adresse fonctionne, avec la France par défaut.
+- La livraison s'appelle toujours « Colissimo Domicile », mais affiche maintenant des dates (jeudi 26 au lundi 30 novembre) et « GRATUIT ».
+- Moyens de paiement affichés : Shop Pay, PayPal, Google Pay et carte bancaire. Aucune erreur JavaScript.
+- **La case « Envoyez-moi des nouvelles et des offres » est toujours pré-cochée.**
+- **Conclusion : le tunnel fonctionne jusqu'à la saisie de la carte.** Le paiement lui-même ne peut pas être testé sans payer.
