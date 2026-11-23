@@ -209,3 +209,15 @@ Vérifier en même temps les freins au paiement encore ouverts (T6) :
   - +20 % vendredi soir si jeudi est vert, puis les règles du week-end (M17).
 - **L'angle pack gagne nettement** (S6 : 4 packs pour 27 € ; 6 des 7 ventes du pyjama sont des packs ou viennent de pubs « cadeau »). Prochain lot (C9) : des déclinaisons de S6. L'ABO-2 Famille (S10, S15, S16) teste déjà cet angle.
 - **Plaid : verdict demain matin, comme prévu** (3 jours pleins du DCT 3). Sous l'équilibre depuis le 12/11 (1,17 pour 1,52, −78 €). La seule vente d'hier vient d'une créa du DCT 3, donc on attend une journée de plus (T3). | M3, M4, M17, C9, T3 | Pyjama au-dessus de 2,5 avec l'ABO en route ; verdict du plaid vendredi. |
+| 23/11 | **Relance du pyjama seul à minuit, avec le lot 5 (veille Domelyah). Plaid coupé, ABO en pause.**
+- **Plaid : on coupe.** C'était le verdict prévu le 20/11 : ROAS 1,17 pour 1,52 depuis le 12/11, et aucune vente les 19-20 (T4).
+- **ABO en pause.** Ses deux jours (19-20/11) sont les pires du pyjama (≈ 0,32). On n'en redémarre un adset qu'au vu de l'export par pub (M16 : 0 vente et 0 ajout au panier, on coupe).
+- **CBO pyjama à 50 €/jour**, le niveau rentable du 12 au 18/11. On y ajoute 2 nouveaux adsets (M15, M5) :
+  - DCT 7 : 9 statiques ;
+  - DCT 8 : 4 vidéos.
+  - Option, si la trésorerie le permet : 1 adset ABO à 20 € avec S19, S21 et S26, les plus proches de S6.
+- **Lot 5 : 13 créas, environ 16 crédits.** Formats repris des 379 pubs de Domelyah : 3e offerte, post-it, 1 + 1 + 🎁, cintres, pile, père Noël, produit seul, angle « messieurs ».
+  - Sans leur « −40 % » ni leur avis invérifiable (07, Omnibus).
+- **Nouveau texte unique**, angle « messieurs ».
+- **Compte publicitaire :** recharger au moins 3 jours de budget plus 40 % (M20).
+- **Black Friday :** à décider d'ici le 25/11. Soit une vraie baisse temporaire (calculée sur 38,99 €, Omnibus), soit pas de Black Friday. Jamais l'offre habituelle présentée comme une offre Black Friday (L121-2). | C4, C9, M2, M4, M5, M12, M15, M16, M20, T3, T4, 07 | Retour du pyjama au-dessus de 2 de ROAS d'ici mercredi. Une ou deux gagnantes dans le lot 5. |

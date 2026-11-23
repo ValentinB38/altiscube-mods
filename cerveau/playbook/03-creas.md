@@ -21,6 +21,7 @@ J26 à J30 : plus d'une semaine sans nouvelles créas sur le P1, alors il les fa
 J41 : à 4 000 $ de pub par jour, la fatigue d'une créa unique devient un vrai risque. Son plan : déclinaisons de la gagnante, angles et sous-avatars radicalement différents, et plus de statiques (rapides à décliner, très bons ROAS en bid cap). (AC J41) (voir `sources/adam-citron/journal-j31-j44.md`)
 J57-J60 : « les statiques, c'est souvent du bottom of funnel : ça close beaucoup de ventes » derrière le trafic des vidéos. Au J59, 100 statiques (35 formats × 3 variantes), dont certaines à 3 ou 4 de ROAS dès le lendemain. (voir `sources/adam-citron/journal-j45-j63.md`)
 J64-J66 : « le nombre de visites et le CA des marques qui scalent sont directement liés au nombre de pubs qu'elles lancent » ; au moins 100 créas par semaine pour viser 100 000 $/jour, et un lot de 34 vidéos programmé avant chaque week-end. Une gagnante peut sortir d'un lot mis en ligne **une semaine plus tôt** (J65). (voir `sources/adam-citron/journal-j64-j76.md`)
+**Confirmé chez le concurrent du pyjama (TrendTrack, 23/11) :** Domelyah passe de 43 à 379 pubs actives en 17 jours, et ses vidéos d'essayage atteignent 1 à 2,6 millions de personnes. Chez nous, le lot 4 n'a presque rien reçu dans la CBO (9 € le 18/11) : sans ABO ou sans de nouveaux adsets, le volume ne sert à rien. (voir `recherches/veille-domelyah-2026-11-23.md`)
 
 ## C5. Le signal qu'une créa est bonne
 Le CPM baisse et le CTR tient. Chez Adam : CTR stable autour de 4 %, CPM divisé par 2 en une semaine. (AC vidéo J7)

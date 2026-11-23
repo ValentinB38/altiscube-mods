@@ -271,3 +271,16 @@ Il n'y a toujours aucune relance des paiements abandonnés sur Maison Ouate (R1,
 - Moyens de paiement affichés : Shop Pay, PayPal, Google Pay et carte bancaire. Aucune erreur JavaScript.
 - **La case « Envoyez-moi des nouvelles et des offres » est toujours pré-cochée.**
 - **Conclusion : le tunnel fonctionne jusqu'à la saisie de la carte.** Le paiement lui-même ne peut pas être testé sans payer.
+
+**19/11 (jeudi) :** au moins 142 € de pub sur la boutique (chiffre de l'après-midi, journée complète non reçue), **0 vente**. C'est le premier jour de l'ABO. Le tunnel de paiement a été testé et fonctionne.
+**20/11 (vendredi), d'après Valentin :** 101 € de pub, 1 vente d'un pack 2 + 1 (77,98 €, marge environ 37 €), environ −64 €.
+**21 et 22/11 : pubs arrêtées faute de budget publicitaire.**
+- Sur les 19 et 20/11 (lot 4, ABO et plaid actifs) : environ 243 € pour 77,98 €, ROAS ≈ 0,32. Du 16 au 18/11, avant l'ABO, le pyjama était à ≈ 4,4.
+- Sans l'export par pub de ces deux jours, impossible de dire quel adset a perdu l'argent.
+
+**Cumul de la boutique depuis le 07/11 (approximatif) :** environ 1 162 € de pub, environ 1 950 € de ventes, ROAS ≈ 1,68, **environ −47 €**.
+
+**Incident du 23/11 :** le dossier de travail de la session a été vidé ce week-end (clips, polices, scripts).
+- Les 12 clips d'essayage ont été retrouvés dans l'historique Higgsfield, et les polices via npm.
+- La musique a été régénérée (environ 4 crédits).
+- Les scripts sont maintenant gardés dans `cerveau/outils/maison-ouate/`.
