@@ -221,3 +221,12 @@ Vérifier en même temps les freins au paiement encore ouverts (T6) :
 - **Nouveau texte unique**, angle « messieurs ».
 - **Compte publicitaire :** recharger au moins 3 jours de budget plus 40 % (M20).
 - **Black Friday :** à décider d'ici le 25/11. Soit une vraie baisse temporaire (calculée sur 38,99 €, Omnibus), soit pas de Black Friday. Jamais l'offre habituelle présentée comme une offre Black Friday (L121-2). | C4, C9, M2, M4, M5, M12, M15, M16, M20, T3, T4, 07 | Retour du pyjama au-dessus de 2 de ROAS d'ici mercredi. Une ou deux gagnantes dans le lot 5. |
+| 24/11 | **ABO du pyjama, verdict sur les 19-20/11 (M16, coupe à 48-72 h sous 1,56) : on rallume seulement ABO-4 Cocooning (S14), et ABO-2 Famille (S15) si la trésorerie le permet. Les deux à 15 €, départ cette nuit à minuit (M12).**
+- **Gardés :**
+  - ABO-4 (2,95) : un pack vendu par S14, « l'homme qui emballe » ;
+  - ABO-2 (1,70, au-dessus de 1,56).
+- **Coupés :**
+  - ABO-1 (0 vente pour 30 €, et une nouvelle publication sans les likes : l'original tourne déjà dans la CBO) ;
+  - ABO-3 (0 vente pour 24 €, malgré 5 ajouts au panier) ;
+  - ABO-5 (1,62, juste à l'équilibre, et la trésorerie est serrée).
+- **Pyjama au total : 60 € de CBO, plus 15 à 30 € d'ABO.** Compte à recharger d'environ 320 à 380 € pour 3 jours (M20). | M12, M16, M20, M22, T3 | S14 confirme dans l'ABO, et la CBO dépense sur le lot 5. Verdict jeudi matin. |

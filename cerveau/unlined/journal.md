@@ -284,3 +284,19 @@ Il n'y a toujours aucune relance des paiements abandonnés sur Maison Ouate (R1,
 - Les 12 clips d'essayage ont été retrouvés dans l'historique Higgsfield, et les polices via npm.
 - La musique a été régénérée (environ 4 crédits).
 - Les scripts sont maintenant gardés dans `cerveau/outils/maison-ouate/`.
+
+**ABO du pyjama, 19-20/11 (export reçu le 24/11), 5 adsets, 127,28 € :**
+
+| Adset | Dépense | Ventes vues par Meta | ROAS | Ajouts au panier |
+|---|---|---|---|---|
+| ABO-1 V1 champion | 29,96 € | 0 | 0 | 1 |
+| ABO-2 Famille | 22,90 € | 1 ensemble (S15) | 1,70 | 1 |
+| ABO-3 Chauffage | 23,97 € | 0 | 0 | 5 |
+| ABO-4 Cocooning | 26,45 € | 1 pack (S14) | 2,95 | 4 |
+| ABO-5 Bas de tunnel | 24,00 € | 1 ensemble (S17) | 1,62 | 1 |
+
+- **Au total : 155,96 € de ventes vues par Meta, ROAS 1,23, environ −40 €.**
+- La pub d'ABO-1 s'appelle « V1-pov-cadeau » : elle a été recréée comme une nouvelle publication, sans les likes de « New Sales ad » (M21.6, M22).
+- **Meta voit 3 ventes sur l'ABO, alors que Shopify n'en comptait qu'une sur les 19-20/11.** Meta compte souvent une vente au jour de l'affichage ou du clic : des ventes du week-end (pubs arrêtées) ont pu être rattachées aux 19-20. Il faut les commandes Shopify du 21 au 23/11 pour le vérifier.
+
+**24/11 : relance à minuit.** CBO du pyjama à 60 €, avec les nouveaux adsets du lot 5 (DCT 7 et DCT 8). Plaid et ABO arrêtés.
