@@ -300,3 +300,4 @@ Il n'y a toujours aucune relance des paiements abandonnés sur Maison Ouate (R1,
 - **Meta voit 3 ventes sur l'ABO, alors que Shopify n'en comptait qu'une sur les 19-20/11.** Meta compte souvent une vente au jour de l'affichage ou du clic : des ventes du week-end (pubs arrêtées) ont pu être rattachées aux 19-20. Il faut les commandes Shopify du 21 au 23/11 pour le vérifier.
 
 **24/11 : relance à minuit.** CBO du pyjama à 60 €, avec les nouveaux adsets du lot 5 (DCT 7 et DCT 8). Plaid et ABO arrêtés.
+**24/11 :** Valentin a rallumé ABO-2 Famille et ABO-4 Cocooning (15 € chacun). Pyjama au total : environ 90 €/jour (CBO 60 € et ABO 30 €).
